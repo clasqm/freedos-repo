@@ -26,7 +26,7 @@
 
 <p>This is not meant to be an conclusive collection of DOS applications. These are apps that I have tested on <em>FreeDOS 1.2</em> (on bare silicon and in the <em>DOSBox</em> emulator) and that I find useful or interesting. If you need something more comprehensive, try <a href="http://reimagery.com/fsfd/">this site</a> or <a href="https://www.opus.co.tt/dave/indexall.htm">this one</a>. I am not a gamer at all, so if that is what you are looking for, well, sorry.</p>
 
-<p>I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel ;-)</p>
+<p>I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)</p>
 
 <hr />
 
@@ -39,7 +39,7 @@
 
 <p>You might be tempted to use the <em>DosZip Commander</em>, which is bundled with FreeDOS and can be called up with the command <em>dz</em>. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use <em>dz</em>. The command line works fine.</p>
 
-<p><em>It is important to extract these packages to the root directory!</em> This is different from regular FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.</p>
+<p><em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.</p>
 
 <p>Programs that do not run directly from <em>c:\FDOS\BIN</em> will have a convenient batch file placed in <em>C:\FDOS\LINKS</em>. If a program requires changes to <em>CONFIG.SYS</em> or <em>AUTOEXEC.BAT</em>, that will be documented here. </p>
 
@@ -51,7 +51,7 @@
 <li><a href="./zip/LCARS24.zip">LCARS24</a> - Emulates the look and feel of a certain well-known science fiction computer system.
 <ul>
 <li>Get your sound card working before you install this.</li>
-<li>Originally from https://sourceforge.net/projects/lcars24/</li>
+<li>Originally from <a href="https://sourceforge.net/projects/lcars24/">SourceForge</a>.</li>
 <li>GPL v2, source included.</li>
 </ul></li>
 </ul>
@@ -77,6 +77,19 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 </ul>
 
 <p><img src="./imgs/abbrevv.png" alt="ABBREVV" title="" /></p>
+
+<ul>
+<li><a href="./zip/acrodos.zip">Acrobat Reader</a> - The one and only time Adobe, Inc made a PDF viewer for DOS.
+<ul>
+<li>I have taken care of the installation for you and "registered" it to "FreeDOS User".</li>
+<li>You can start the program with either <em>acrodos</em> or <em>acrobat</em>: the two batch files are identical.</li>
+<li>If you have graphical problems, try <em>acrodosu</em> or <em>acrobatu</em>: these load the UNIVBE driver before running Acrobat itself. Makes no difference on my system, but it might help with really old display cards.</li>
+<li>Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see <a href="https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format">here</a> and <a href="https://itstillworks.com/save-pdf-older-version-adobe-6781219.html">here</a> for some ideas on the subject.</li>
+<li>in <em>CONFIG.SYS</em>, your <em>FILES=</em> statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.</li>
+</ul></li>
+</ul>
+
+<p><img src="./imgs/acrodos.png" alt="Acrobat" title="" /></p>
 
 <hr />
 
