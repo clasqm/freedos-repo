@@ -9,16 +9,19 @@
 
 [Program launchers and environments](#Launchers)  
 [Productivity applications](#Productivity)  
+[Graphics applications](#Graphics)  
 [Programming languages etc.](#Development)  
 [Eye Candy](#Eyecandy)  
 [Command-line utilities](#Commandline)  
 [Terminate-and-stay-resident utilities](#TSR)  
-
+[Miscellaneous](#Misc)
 -----
 
 ## <a name="Introduction"></a>Introduction
 
-This is a repository of [FreeDOS](http://www.freedos.org/)-compatible freeware and OSS software. Not "abandonware", by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware. However, non-crippled shareware with a single nag screen at the end is fair game.
+This is a repository of [FreeDOS](http://www.freedos.org/)-compatible freeware and OSS software. Not "abandonware", by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware. 
+
+However, non-crippled shareware with a single nag screen at the beginning or end is fair game. Whether you are going to try to send money to a developer who could be dead by now is up to you.
 
 Having said that, there are a lot of little utilities from a kinder, gentler age, when people would just make their stuff available without worrying about licenses. These will be regarded as public domain until someone informs me otherwise.
 
@@ -79,7 +82,24 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 -----
 
+## <a name="Graphics"></a> Graphics applications
+
++ [Animator](./zip/animator.zip) - (A.K.A. Autodesk Animator, Video Paint, or simply V) is a 256 color paint and animation package.
+    + BSD licensed.
+    + See the [Home page](http://animatorpro.org) and the GitHub [code repository](https://github.com/AnimatorPro/Animator-Pro). 
+
+![Animator](./imgs/animator.png)
+
+-----
+
 ## <a name="Development"></a>Programming languages etc.
+
++ [Turbo Pascal 5.5](./zip/turbop55.zip) - Borland's last version of this language for DOS.
+    + Freeware available from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
+    + After installation, run *C:\FDOS\DEVEL\TP55\TINST.EXE* to set it up for your system.
+    + in *CONFIG.SYS*, your *FILES=* statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.
+
+![Turbo Pascal 5.5](./imgs/turbop55.jpg)
 
 -----
 
@@ -101,3 +121,12 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 ## <a name="TSR"></a>Terminate-and-stay-resident utilities
 + Coming soon: [Screen thief 2.0.1]() - Grab screenshots of your current programs and save to various standard formats.
     + Formerly shareware, freeware since 1998. 
+-----
+
+## <a name="Misc"></a>Miscellaneous
+
++ [Crossword Helper](./zip/wordfind.zip) - *WORDFIND* helps you solve crossword puzzles.
+    + Freeware by Dale Harris.
+
+![wordfind](./imgs/wordfind.png)
+-----
