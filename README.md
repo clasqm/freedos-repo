@@ -129,8 +129,7 @@ achieve reincarnation.
 -----
 
 ## <a name="TSR"></a>Terminate-and-stay-resident utilities
-+ Coming soon: Screen thief 2.0.1 - Grab screenshots of your current programs and save to various standard formats.
-    + Formerly shareware, freeware since 1998. 
+
 -----
 
 ## <a name="Misc"></a>Miscellaneous
