@@ -14,7 +14,7 @@
 [Eye Candy](#Eyecandy)  
 [Command-line utilities](#Commandline)  
 [Terminate-and-stay-resident utilities](#TSR)  
-[Miscellaneous](#Misc)
+[Miscellaneous](#Misc)  
 -----
 
 ## <a name="Introduction"></a>Introduction
@@ -116,10 +116,20 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ## <a name="Commandline"></a>Command-line utilities
 
++ [Belief](./zip/belief.zip) - generate random religious beliefs.
+    + Public Domain sofware (as far as could be ascertained) by Brad Templeton, with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
+    + Compiled with *BCC* under *FreeDOS* 1.2
+    + *Example output:*
+````
+The Arian Theosophist Sect suspects that Darwin's "Origin of Species"
+if read backwards, reveals cryptic messages from the last practicing
+medicine man of the Mohicans, and says that only the faithful will
+achieve reincarnation.
+````
 -----
 
 ## <a name="TSR"></a>Terminate-and-stay-resident utilities
-+ Coming soon: [Screen thief 2.0.1]() - Grab screenshots of your current programs and save to various standard formats.
++ Coming soon: Screen thief 2.0.1 - Grab screenshots of your current programs and save to various standard formats.
     + Formerly shareware, freeware since 1998. 
 -----
 
