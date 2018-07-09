@@ -80,6 +80,11 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Acrobat](./imgs/acrodos.png)
 
++ [Breeze](./zip/breeze.zip) by Kevin Solway - Perhaps the most comprehensive text editor ever written for DOS.
+    + Ignore all the shareware documentation: according to the [website](http://www.theabsolute.net/sware/oldfav.html) this is now freeware.
+
+![Breeze](./imgs/breeze.gif)
+
 -----
 
 ## <a name="Graphics"></a> Graphics applications
@@ -126,6 +131,7 @@ if read backwards, reveals cryptic messages from the last practicing
 medicine man of the Mohicans, and says that only the faithful will
 achieve reincarnation.
 ````
+
 -----
 
 ## <a name="TSR"></a>Terminate-and-stay-resident utilities
@@ -133,6 +139,14 @@ achieve reincarnation.
 -----
 
 ## <a name="Misc"></a>Miscellaneous
+
++ [BigText](./zip/bigtext.zip) by Kevin Solway- Create self-displaying illustrated books & manuals.
+    + A suite of programs that turns ordinary text files into self-contained, self- displaying executable files capable of displaying full colour illustrations in body of the text.
+    + This program is specifically designed to make self-displaying books, manuals, documents, and catalogues.
+    + The difference between Bigtext and similar programs is that it can handle genuinely BIG volumes of text (up to 700kb or more) and that it creates a single, neat and convenient executable file.
+    + Ignore all the shareware documentation: according to the [website](http://www.theabsolute.net/sware/oldfav.html) this is now freeware.
+
+![BigText](./imgs/bigtext.gif)
 
 + [Crossword Helper](./zip/wordfind.zip) - *WORDFIND* helps you solve crossword puzzles.
     + Freeware by Dale Harris.
