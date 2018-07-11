@@ -80,6 +80,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Acrobat](./imgs/acrodos.png)
 
++ [AS-EASY-AS](./imgs/aseasy.zip) 5.7 - Spreadsheet
+    + In its day, this was THE shareware competotor to Lotus 1-2-3.
+    + Now freeware courtesy of Trius, Inc.
+    + Packaged as registered to "FreeDOS User" with serial number already filled in (but see the LSM file if you need it for some reason).
+    + Also contains the manual in PDF format.
+
+![ASEASY](./imgs/aseasy.png)
+
 + [Breeze](./zip/breeze.zip) by Kevin Solway - Perhaps the most comprehensive text editor ever written for DOS.
     + Ignore all the shareware documentation: according to the [website](http://www.theabsolute.net/sware/oldfav.html) this is now freeware.
 
@@ -111,14 +119,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + This package contains all the tutorials and manuals mentioned on the [website](https://www.templetons.com/brad/alice.html), a review of the Atari ST version, and a Russian translation of the website.
     + The package defaults to the "large" version of Alice, which can use 640K of memory. The "regular" version is still there if you need it, but really, how many people are now working on a 256K system?
 
-    ![Alice](./imgs/alice.png)
-
-+ [Turbo Pascal 5.5](./zip/turbop55.zip) - Borland's last version of this language for DOS.
-    + Freeware available from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
-    + After installation, run *C:\FDOS\DEVEL\TP55\TINST.EXE* to set it up for your system.
-    + in *CONFIG.SYS*, your *FILES=* statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.
-
-![Turbo Pascal 5.5](./imgs/turbop55.jpg)
+![Alice](./imgs/alice.png)
 
 -----
 
@@ -136,7 +137,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 ## <a name="Commandline"></a>Command-line utilities
 
 + [Belief](./zip/belief.zip) - generate random religious beliefs.
-    + Public Domain sofware (as far as could be ascertained) by Brad Templeton, with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
+    + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
     + Compiled with *BCC* under *FreeDOS* 1.2
     + *Example output:*
 ````
