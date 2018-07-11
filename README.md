@@ -53,7 +53,7 @@ Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batc
     + Originally from [SourceForge](https://sourceforge.net/projects/lcars24/).
     + GPL v2, source included.
 
-![lcars24](./imgs/LCRS24.jpg)
+![lcars24](./imgs/LCARS24.jpg)
 
 -----
 
@@ -98,6 +98,20 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 -----
 
 ## <a name="Development"></a>Programming languages etc.
+
++ [Agena](./zip/agena.zip) 2.7.9 - an interpreted procedural programming language.
+    + Dual-licensed GPL v2 and MIT
+    + A new easy-to-learn procedural programming language.
+    + Suitable for scientific, mathematical, scripting, networking, and many other applications.
+    + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
+    + Source included.
+    + Under active development, so keep an eye out for updates.
++ [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
+    + Freeware by Brad Templeton.
+    + This package contains all the tutorials and manuals mentioned on the [website](https://www.templetons.com/brad/alice.html), a review of the Atari ST version, and a Russian translation of the website.
+    + The package defaults to the "large" version of Alice, which can use 640K of memory. The "regular" version is still there if you need it, but really, how many people are now working on a 256K system?
+
+    ![Alice](./imgs/alice.png)
 
 + [Turbo Pascal 5.5](./zip/turbop55.zip) - Borland's last version of this language for DOS.
     + Freeware available from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
