@@ -93,6 +93,25 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Breeze](./imgs/breeze.gif)
 
++ <u>Microsoft Word</u> 5.5 - The last version for DOS of MIcrosoft's all-conquering word processor.
+    + Released as freeware by Microsoft, Inc.
+    + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
+    + Version 5.5 changes the user interface. It adds Mac/Windows features like pulldown menus and overlapping windows.
+    + Packages include standalone format translators - Word<->DCA, RTF<->DCA, DOS<->Word, & more. 
+    + The UK English version has the largest selection of printer drivers.
+    + You can install all four if you like - they won't clash. Start the one you want with the command WORD55XX where XX is one of UK, US, DE or FR.
+    + As delivered, this package has drivers for VGA and a Hewlett-Packard LaserJet printer.
+    + To change these, go to the SETUP directory and run SETUP.EXE.
+    + When you get to the point where it asks if you want to setup a new WORD or change an existing one, choose the second option and then in the next screen give the directory name as c:\FDOS\PROGS\WORD55XX where XX is one of UK, US, DE or FR.
+    + You can also change the initial display mode (default: text-mode) in the same way.
+    + Downloads:
+        + [UK English](./zip/word55uk.zip)
+        + [US English](./zip/word55us.zip)
+        + [Deutsch](./zip/word55de.zip)
+        + [Français](./zip/word55fr.zip)
+
+![word55](./imgs/word55.png)
+
 -----
 
 ## <a name="Graphics"></a> Graphics applications
