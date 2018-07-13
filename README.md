@@ -264,6 +264,45 @@ achieve reincarnation.
 
 ![figlet](./imgs/figlet.png)
 
++ [OZWOZ](./zip/ozwoz.zip) - the OZWOZ Utilities.
+    + A collection of 35 command-line utilities.
+    + Freeware for personal, non-commercial use.
+    + 3812PRN -- IBM 3812 Pageprinter driver.
+    + ALARM -- TSR pop-up alarm clock.
+    + CHANGE -- Change text in one or more files.   
+    + CHECKTD -- Check current time and/or date and set errorlevel.
+    + CLEARKEY -- Clear "n" keystrokes from the keyboard buffer.
+    + CURSOR -- Set cursor shape and style.
+    + ERRORLVL -- Set the DOS errorlevel (return code).
+    + EXERCISE -- Exercise a local or network file system and show performance.
+    + FF -- Find file/s and change to directory if required.
+    + GETOID -- Return Novell Netware object ID for user, groups, etc.
+    + LOCK -- Simple network single application lock.
+    + LS -- List file directories with many many options.
+    + MAIL -- Simple mail facility for Novell Netware with a delay send option.
+    + MAKEMENU -- Self maintaining menu utility with no executing memory overhead.
+    + NETTALK -- User talk/chat utility for Novell Netware.
+    + PLAY -- Play music and write your own.
+    + RESET -- Presses the reset button and/or CTRL+ALT+DEL.
+    + SATTRIB -- Modify attributes including hidden, system and sub-directories.
+    + SAVEDIR -- Save current directory to a self restoring batch file.
+    + SAVEPATH -- Save current path setting to a self restoring batch file.
+    + SAVESCR -- Save/restore current text screen contents and attributes.
+    + SCOPY -- Copy, move, update, break, concatenate files. By name, date, etc.
+    + SCRTYPE -- Return screen type in use. CGA, MCGA, HERC, VGA, EGA, MONO, etc.
+    + SD -- Select directory via a menu. Goes well with MAKEMENU utility.
+    + SDEL -- Delete files including hidden, protected, in sub-directories, etc.
+    + SETVPINF -- Change default directory stored in Ventura Publisher's VP.INF file.
+    + SHOWTD -- Show current time/date with many options including a clock.
+    + SLEEP -- Sleep for specified period. Can set for keyboard to interrupt.
+    + STUDY -- Study helper. Asks questions randomly & gives answers and scores.
+    + STUFFKEY -- Stuff keys into the keyboard buffer. No overhead or TSR used.
+    + STYPE -- Display files contents with many convert, filter, skip, options.
+    + TESTFILE -- Test accessability of a file under many modes. Good network tool.
+    + TPBEAUT -- Prepare Turbo Pascal 5.5 code for output to a printer.
+    + TYPEBACK -- Type a text file line by line backwards. Good for listing logs.
+    + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
+
 [Return to Table of Contents](#contents)
 
 -----
