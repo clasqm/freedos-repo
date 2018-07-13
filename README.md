@@ -30,7 +30,7 @@ Having said that, there are a lot of little utilities from a kinder, gentler age
 
 Source code is included wherever possible.
 
-This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry.
+This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry.
 
 I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
 
@@ -104,6 +104,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Breeze](./imgs/breeze.gif)
 
++ [DataPerfect](./zip/datapfct.zip) 2.6 - A relational database.
+    + DataPerfect, originally published by WordPerfect Corp, and later by Novell, was a fast, memory efficient, but capable relational database for DOS. 
+    + WordPerfect Corp sold the product alongside their other DOS based office products, such as WordPerfect and PlanPerfect.
+    + In 1995 Novell released DataPerfect as freeware and development was continued by its original author, Lew Bastian until about 2008.
+    + **Packager's note:** I'll admit, I can't make head or tails of this program, but there are people who swear by it. You can get supporting programs and files [here](https://www.dataperfect.nl/files/).
+
+![dataperfect](./imgs/datapfct.jpg)
+
 + <u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
     + Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.
     + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
@@ -171,6 +179,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Alice](./imgs/alice.png)
 
++ [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
+    + Produces small and tight executables. 
+    + 8086, 80186+ or 80386+ code.
+    + DOS real mode or DPMI protected mode.
+    + Includes compiler, ArrowSoft assembler, documentation and sample programs.
+    + Freeware by Rowan Crowe.
+
 [Return to Table of Contents](#contents)
 
 -----
@@ -206,6 +221,37 @@ achieve reincarnation.
     + The BFIND.EXE program adds Boolean logic to DOS's FIND command.
     + Freeware for personal use by Bruce Guthrie.
     + See the LSM file for instructions.
+* [BLRUT](./zip/blrut.zip) - *Bud L Rasmussen's Utilities* are 28 general purpose DOS utilities, written in assembly language.
+    + BD -- Backup Directory
+    + BHD -- Backup Hard Disk
+    + BLF -- Backup Large File
+    + BLRUT -- Executable form of BLRUT55.DOC
+    + CACF -- Copy And Convert File
+    + CF -- Copy File
+    + DBPB -- Display BIOS Parameter Block
+    + DCM -- Directory Copy/Move
+    + DDBT -- Display Disk Base Table
+    + DKV -- Display Key Value
+    + DPT -- Display Partition Table
+    + DSE -- Disk Sector Edit
+    + EADF -- Erase All Diskette Files
+    + EBU -- Execute BLR Utilities (menu/shell)
+    + FCM -- File Copy/Move
+    + FFD -- Format Floppy Diskette
+    + FRE -- File Record Edit
+    + LPAF -- List/Print Any File
+    + LPD -- List/Print Directory
+    + LPS -- List/Print Sector
+    + LPTF -- List/Print Text File
+    + LTF -- List Text File
+    + PSF -- Print Spooled File
+    + QDL -- Quick Directory List
+    + RLF -- Restore Large File
+    + RSD -- Rename Sub Directory
+    + SD -- Space Display
+    + SLTF -- Split Large Text Files
+    + TFC -- Two File Compare
+    + VLCC -- Volume Label Change, Compare
 
 + [DOSPDF](./zip/dospdf.zip) - PDF viewer.
     + An outragous hack by [Mateusz Viste "Fox"](http://mateusz.viste.free.fr/dos).
@@ -213,6 +259,10 @@ achieve reincarnation.
     + Use it when the old Acrobat for DOS chokes on a modern PDF.
     + Requires the *CDD* command - everything else is included, even a working installation of Alladdin Ghostscript.
     + I've done the SETUP already and copied the resulting batch file into /FDOS/BIN, so it should be ready to run.
+
++ [Figlet](./zip/figlet.zip) - A program that creates large characters out of ordinary screen characters.
+
+![figlet](./imgs/figlet.png)
 
 [Return to Table of Contents](#contents)
 
