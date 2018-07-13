@@ -2,7 +2,7 @@
 
 <hr />
 
-<h2>Contents</h2>
+<h2><a name="contents"></a>Contents</h2>
 
 <p><a href="#Introduction">Introduction</a> <br />
 <a href="#Installation">Installation instructions</a>  </p>
@@ -13,9 +13,12 @@
 <a href="#Development">Programming languages etc.</a> <br />
 <a href="#Eyecandy">Eye Candy</a> <br />
 <a href="#Commandline">Command-line utilities</a> <br />
-<a href="#TSR">Terminate-and-stay-resident utilities</a>  </p>
+<a href="#TSR">Terminate-and-stay-resident utilities</a> <br />
+<a href="#Misc">Miscellaneous</a></p>
 
-<h2><a href="#Misc">Miscellaneous</a>  </h2>
+<p><a href="#Tips">FreeDOS tips</a></p>
+
+<hr />
 
 <h2><a name="Introduction"></a>Introduction</h2>
 
@@ -31,20 +34,26 @@
 
 <p>I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)</p>
 
+<p><a href="#contents">Return to Table of Contents</a></p>
+
 <hr />
 
 <h2><a name="Installation"></a>To install these packages:</h2>
 
-<p>Download the package, transfer it to your FreeDOS computer and extract the zip file to the <strong>ROOT directory</strong> (C:\). </p>
+<p>Download the package, transfer it to your FreeDOS system and extract the zip file to the <strong>ROOT directory</strong> (C:\). </p>
 
 <pre><code>unzip packagename.zip -d c:\
 </code></pre>
 
-<p>You might be tempted to use the <em>DosZip Commander</em>, which is bundled with FreeDOS and can be called up with the command <em>dz</em>. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use <em>dz</em>. The command line works fine.</p>
+<p>You might be tempted to use the <em>DosZip Commander</em>, which is bundled with FreeDOS and can be called up with the command <em>dz</em>, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use <em>dz</em>. The command line works fine.</p>
 
-<p><em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.</p>
+<p><em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.</p>
 
 <p>Programs that do not run directly from <em>c:\FDOS\BIN</em> will have a convenient batch file placed in <em>C:\FDOS\LINKS</em>. If a program requires changes to <em>CONFIG.SYS</em> or <em>AUTOEXEC.BAT</em>, that will be documented here. </p>
+
+<p>Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.</p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
@@ -60,6 +69,8 @@
 </ul>
 
 <p><img src="./imgs/LCARS24.jpg" alt="lcars24" title="" /></p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
@@ -116,9 +127,9 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 <p><img src="./imgs/breeze.gif" alt="Breeze" title="" /></p>
 
 <ul>
-<li><u>Microsoft Word</u> 5.5 - The last version for DOS of MIcrosoft's all-conquering word processor.
+<li><u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
 <ul>
-<li>Released as freeware by Microsoft, Inc.</li>
+<li>Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.</li>
 <li>Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.</li>
 <li>Version 5.5 changes the user interface. It adds Mac/Windows features like pulldown menus and overlapping windows.</li>
 <li>Packages include standalone format translators - Word&lt;->DCA, RTF&lt;->DCA, DOS&lt;->Word, &amp; more. </li>
@@ -140,12 +151,38 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 <p><img src="./imgs/word55.png" alt="word55" title="" /></p>
 
+<ul>
+<li><a href="./zip/pcword.zip">PC Word</a> 1.90: A fast, compact, flexible text processor
+<ul>
+<li>Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.</li>
+<li>Freeware by Andrew Sprott.</li>
+<li>Also includes RSORT, a text file sorting utility based on the sorting functions inPcWord</li>
+<li>RSORT is self explained and is ready to run. Source code is included.</li>
+</ul></li>
+</ul>
+
+<p><img src="./imgs/pcword.png" alt="pcword" title="" /></p>
+
+<ul>
+<li><a href="./zip/rebel.zip">Rebel</a> - character mode spreadsheet without mouse support.
+<ul>
+<li>REBEL 3.x has been developed to satisfy the demand for a spreadsheet that offers unlimited customization potential.</li>
+<li>The entire spreadsheet is patterned after a high level programming language.</li>
+<li>By adding new functions and utilities, it can be tailored to fit the needs of virtually any user group. </li>
+<li>Freeware by Brad L. Smith</li>
+</ul></li>
+</ul>
+
+<p><img src="./imgs/rebel.png" alt="rebel" title="" /></p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
+
 <hr />
 
 <h2><a name="Graphics"></a> Graphics applications</h2>
 
 <ul>
-<li><a href="./zip/animator.zip">Animator</a> - (A.K.A. Autodesk Animator, Video Paint, or simply V) is a 256 color paint and animation package.
+<li><a href="./zip/animator.zip">Animator</a> - (AKA Autodesk Animator, Video Paint, or simply V) is a 256 color paint and animation package.
 <ul>
 <li>BSD licensed.</li>
 <li>See the <a href="http://animatorpro.org">Home page</a> and the GitHub <a href="https://github.com/AnimatorPro/Animator-Pro">code repository</a>. </li>
@@ -153,6 +190,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 </ul>
 
 <p><img src="./imgs/animator.png" alt="Animator" title="" /></p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
@@ -178,6 +217,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 <p><img src="./imgs/alice.png" alt="Alice" title="" /></p>
 
+<p><a href="#contents">Return to Table of Contents</a></p>
+
 <hr />
 
 <h2><a name="Eyecandy"></a>Eye Candy</h2>
@@ -193,12 +234,18 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 <p><img src="./imgs/acidwarp.jpg" alt="acidwarp" title="" /></p>
 
+<p><a href="#contents">Return to Table of Contents</a></p>
+
 <hr />
 
 <h2><a name="Commandline"></a>Command-line utilities</h2>
 
 <ul>
-<li><a href="./zip/belief.zip">Belief</a> - generate random religious beliefs.
+<li><a href="./zip/antiword.zip">ANTIWORD</a> - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
+<ul>
+<li>GNU GPL v2 licensed.</li>
+</ul></li>
+<li><a href="./zip/belief.zip">BELIEF</a> - generate random religious beliefs.
 <ul>
 <li>Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also <a href="https://clasqm.github.io/Belief/">this page</a>.</li>
 <li>Compiled with <em>BCC</em> under <em>FreeDOS</em> 1.2</li>
@@ -210,11 +257,35 @@ medicine man of the Mohicans, and says that only the faithful will
 achieve reincarnation.
 </code></li>
 </ul></li>
+<li><p><a href="./zip/bfind.zip">BFIND</a> - Enhanced FIND command.</p>
+
+<ul>
+<li>The BFIND.EXE program adds Boolean logic to DOS's FIND command.</li>
+<li>Freeware for personal use by Bruce Guthrie.</li>
+<li>See the LSM file for instructions.</li>
+</ul></li>
+<li><p><a href="./zip/dospdf.zip">DOSPDF</a> - PDF viewer.</p>
+
+<ul>
+<li>An outragous hack by <a href="http://mateusz.viste.free.fr/dos">Mateusz Viste "Fox"</a>.</li>
+<li>This crashes my DOSBox, but works (slowly!) on a real FreeDOS install.</li>
+<li>Use it when the old Acrobat for DOS chokes on a modern PDF.</li>
+<li>Requires the <em>CDD</em> command - everything else is included, even a working installation of Alladdin Ghostscript.</li>
+<li>I've done the SETUP already and copied the resulting batch file into /FDOS/BIN, so it should be ready to run.</li>
+</ul></li>
 </ul>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
 <h2><a name="TSR"></a>Terminate-and-stay-resident utilities</h2>
+
+<p>Not a priority, sorry. These things can crash your system mightlily if you invoke them while in the wrong screen mode.</p>
+
+<p>Still, if and when I do find some that are sufficiently robust and useful, I will post them here.</p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
@@ -239,4 +310,30 @@ achieve reincarnation.
 </ul></li>
 </ul>
 
-<h2><img src="./imgs/wordfind.png" alt="wordfind" title="" /></h2>
+<p><img src="./imgs/wordfind.png" alt="wordfind" title="" /></p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
+
+<hr />
+
+<h2><a name="Tips"></a>FreeDOS Tips</h2>
+
+<p>These are just a few tricks that I figured out to make my life in FreeDOS a little easier.</p>
+
+<p><strong>1. Fix the floppy drive blues.</strong></p>
+
+<p>Who still has a computer with a floppy drive? But old DOS apps assume that it is there and will throw up error messages if you accidentally select that drive. Here's the fix:
+<code>
+MKDIR C:\FDOS\DRIVEA
+MKDIR C:\FDOS\DRIVEB
+</code>
+Now include the following lines in your AUTOEXEC.BAT</p>
+
+<p><code>
+SWSUBST A: C:\FDOS\DRIVEA
+SWSUBST B: C:\FDOS\DRIVEB
+</code></p>
+
+<p><a href="#contents">Return to Table of Contents</a></p>
+
+<hr />

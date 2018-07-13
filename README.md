@@ -2,7 +2,7 @@
 
 -----
 
-## Contents
+## <a name="contents"></a>Contents
 [Introduction](#Introduction)  
 [Installation instructions](#Installation)  
 
@@ -14,7 +14,10 @@
 [Eye Candy](#Eyecandy)  
 [Command-line utilities](#Commandline)  
 [Terminate-and-stay-resident utilities](#TSR)  
-[Miscellaneous](#Misc)  
+[Miscellaneous](#Misc)
+
+[FreeDOS tips](#Tips)
+
 -----
 
 ## <a name="Introduction"></a>Introduction
@@ -31,19 +34,25 @@ This is not meant to be a conclusive collection of DOS applications. These are a
 
 I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
 
+[Return to Table of Contents](#contents)
+
 -----
 
 ## <a name="Installation"></a>To install these packages:
 
-Download the package, transfer it to your FreeDOS computer and extract the zip file to the **ROOT directory** (C:\\). 
+Download the package, transfer it to your FreeDOS system and extract the zip file to the **ROOT directory** (C:\\). 
 
     unzip packagename.zip -d c:\
 
-You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz*. The command line works fine.
+You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz*. The command line works fine.
 
-*It is important to extract these packages to the root directory!* This is different from official FreeDOS packages, wich expect to be extracted to *C:\FDOS*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
+*It is important to extract these packages to the root directory!* This is different from official FreeDOS packages, wich expect to be extracted to *C:\FDOS*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
 
 Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batch file placed in *C:\FDOS\LINKS*. If a program requires changes to *CONFIG.SYS* or *AUTOEXEC.BAT*, that will be documented here. 
+
+Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.
+
+[Return to Table of Contents](#contents)
 
 -----
 
@@ -54,6 +63,8 @@ Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batc
     + GPL v2, source included.
 
 ![lcars24](./imgs/LCARS24.jpg)
+
+[Return to Table of Contents](#contents)
 
 -----
 
@@ -93,8 +104,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Breeze](./imgs/breeze.gif)
 
-+ <u>Microsoft Word</u> 5.5 - The last version for DOS of MIcrosoft's all-conquering word processor.
-    + Released as freeware by Microsoft, Inc.
++ <u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
+    + Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.
     + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
     + Version 5.5 changes the user interface. It adds Mac/Windows features like pulldown menus and overlapping windows.
     + Packages include standalone format translators - Word<->DCA, RTF<->DCA, DOS<->Word, & more. 
@@ -112,15 +123,35 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![word55](./imgs/word55.png)
 
++ [PC Word](./zip/pcword.zip) 1.90: A fast, compact, flexible text processor
+    + Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.
+    + Freeware by Andrew Sprott.
+    + Also includes RSORT, a text file sorting utility based on the sorting functions inPcWord
+    + RSORT is self explained and is ready to run. Source code is included.
+
+![pcword](./imgs/pcword.png)
+
++ [Rebel](./zip/rebel.zip) - character mode spreadsheet without mouse support.
+    + REBEL 3.x has been developed to satisfy the demand for a spreadsheet that offers unlimited customization potential.
+    + The entire spreadsheet is patterned after a high level programming language.
+    + By adding new functions and utilities, it can be tailored to fit the needs of virtually any user group. 
+    + Freeware by Brad L. Smith
+
+![rebel](./imgs/rebel.png)
+
+[Return to Table of Contents](#contents)
+
 -----
 
 ## <a name="Graphics"></a> Graphics applications
 
-+ [Animator](./zip/animator.zip) - (A.K.A. Autodesk Animator, Video Paint, or simply V) is a 256 color paint and animation package.
++ [Animator](./zip/animator.zip) - (AKA Autodesk Animator, Video Paint, or simply V) is a 256 color paint and animation package.
     + BSD licensed.
     + See the [Home page](http://animatorpro.org) and the GitHub [code repository](https://github.com/AnimatorPro/Animator-Pro). 
 
 ![Animator](./imgs/animator.png)
+
+[Return to Table of Contents](#contents)
 
 -----
 
@@ -140,6 +171,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Alice](./imgs/alice.png)
 
+[Return to Table of Contents](#contents)
+
 -----
 
 ## <a name="Eyecandy"></a>Eye Candy
@@ -151,11 +184,15 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![acidwarp](./imgs/acidwarp.jpg)
 
+[Return to Table of Contents](#contents)
+
 -----
 
 ## <a name="Commandline"></a>Command-line utilities
 
-+ [Belief](./zip/belief.zip) - generate random religious beliefs.
++ [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
+    + GNU GPL v2 licensed.
++ [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
     + Compiled with *BCC* under *FreeDOS* 1.2
     + *Example output:*
@@ -165,10 +202,29 @@ if read backwards, reveals cryptic messages from the last practicing
 medicine man of the Mohicans, and says that only the faithful will
 achieve reincarnation.
 ````
++ [BFIND](./zip/bfind.zip) - Enhanced FIND command.
+    + The BFIND.EXE program adds Boolean logic to DOS's FIND command.
+    + Freeware for personal use by Bruce Guthrie.
+    + See the LSM file for instructions.
+
++ [DOSPDF](./zip/dospdf.zip) - PDF viewer.
+    + An outragous hack by [Mateusz Viste "Fox"](http://mateusz.viste.free.fr/dos).
+    + This crashes my DOSBox, but works (slowly!) on a real FreeDOS install.
+    + Use it when the old Acrobat for DOS chokes on a modern PDF.
+    + Requires the *CDD* command - everything else is included, even a working installation of Alladdin Ghostscript.
+    + I've done the SETUP already and copied the resulting batch file into /FDOS/BIN, so it should be ready to run.
+
+[Return to Table of Contents](#contents)
 
 -----
 
 ## <a name="TSR"></a>Terminate-and-stay-resident utilities
+
+Not a priority, sorry. These things can crash your system mightlily if you invoke them while in the wrong screen mode.
+
+Still, if and when I do find some that are sufficiently robust and useful, I will post them here.
+
+[Return to Table of Contents](#contents)
 
 -----
 
@@ -186,4 +242,29 @@ achieve reincarnation.
     + Freeware by Dale Harris.
 
 ![wordfind](./imgs/wordfind.png)
+
+[Return to Table of Contents](#contents)
+
+-----
+
+## <a name="Tips"></a>FreeDOS Tips
+
+These are just a few tricks that I figured out to make my life in FreeDOS a little easier.
+
+**1. Fix the floppy drive blues.**
+
+Who still has a computer with a floppy drive? But old DOS apps assume that it is there and will throw up error messages if you accidentally select that drive. Here's the fix:
+````
+MKDIR C:\FDOS\DRIVEA
+MKDIR C:\FDOS\DRIVEB
+````
+Now include the following lines in your AUTOEXEC.BAT
+
+````
+SWSUBST A: C:\FDOS\DRIVEA
+SWSUBST B: C:\FDOS\DRIVEB
+````
+
+[Return to Table of Contents](#contents)
+
 -----
