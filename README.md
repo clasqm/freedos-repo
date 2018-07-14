@@ -32,6 +32,11 @@ Source code is included wherever possible.
 
 This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry.
 
+On a standard FreeDOS installation, Option 1 of the initial menu is
+
+     1 - Load FreeDOS with JEMMEX, no EMS (most UMBs), max RAM free
+and that is the setting under which I test these programs. I have seen graphical programs, in particular, crash all too often under EMM386 in Option 2. If one of these apps absolutely requires Expanded Memory, I will document it here.
+
 I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
 
 [Return to Table of Contents](#contents)
@@ -174,7 +179,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ## <a name="Development"></a>Programming languages etc.
 
-+ [Agena](./zip/agena.zip) 2.7.9 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.12.2 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
