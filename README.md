@@ -11,6 +11,7 @@
 [Productivity applications](#Productivity)  
 [Graphics applications](#Graphics)  
 [Programming languages etc.](#Development)  
+[Games](#Games)  
 [Eye Candy](#Eyecandy)  
 [Command-line utilities](#Commandline)  
 [Terminate-and-stay-resident utilities](#TSR)  
@@ -30,7 +31,7 @@ Having said that, there are a lot of little utilities from a kinder, gentler age
 
 Source code is included wherever possible.
 
-This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry.
+This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.
 
 On a standard FreeDOS installation, Option 1 of the initial menu is
 
@@ -204,6 +205,19 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 -----
 
+## <a name="Games"></a>Games
+
++ [ShuffleV](./zip/shufflev.zip) 1.1 - Tile shuffling game.
+    + Freeware for non-commercial purposes by J R Ferguson.
+    + Click a number joining the empty field to shift it, or use the cursor keys.
+    + Order  the numbers from low to high, in rows left to right and columns top to bottom. The empty field must be in the lower-right corner.
+
+![shufflev](./imgs/shufflev.png)
+
+[Return to Table of Contents](#contents)
+
+-----
+
 ## <a name="Eyecandy"></a>Eye Candy
 
 + [Acid Warp 4.2](./zip/acidwarp.zip) - Run it and watch the pretty colors.
@@ -228,6 +242,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 -----
 
 ## <a name="Commandline"></a>Command-line utilities
+
+Most of these will end up in C:\FDOS\BIN. Please note that there are only so many filenames available when you have just eight characters to play with. If UNZIP asks whether to overwrite a file, think very carefully whether you want to use this file rather than the default FreeDOS one.
 
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
@@ -288,6 +304,10 @@ achieve reincarnation.
 
 ![figlet](./imgs/figlet.png)
 
++ [GUTREAD](./zip/gutread.zip) -  read texts from the Gutenberg Project (or any other text file) and remove all the newlines saving hours of editing in your word processor.
+    + It will also produce the text in XML format.
+    + See the LSM file for instructions
+
 + [OZWOZ](./zip/ozwoz.zip) - the OZWOZ Utilities.
     + A collection of 35 command-line utilities.
     + Freeware for personal, non-commercial use.
@@ -326,6 +346,20 @@ achieve reincarnation.
     + TPBEAUT -- Prepare Turbo Pascal 5.5 code for output to a printer.
     + TYPEBACK -- Type a text file line by line backwards. Good for listing logs.
     + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
+
++ [SHOW](./zip/show.zip) 1.4 -  Text file Viewer.
+    + Freeware by Horst Schaeffer.
+    + SHOW is a small DOS viewer for ASCII text files.
+    + The program was primarily made for use in batch files, as it does not come with its own "Open" dialog and directory browser.
+    + See the LSM file for instructions.
+
+![Show](./imgs/show.png)
+
++ [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
+    + Freeware by Kevin Solway.
+    + A very useful tool for viewing web documents off-line, with hypertext linking and colours.
+    + You can also use this program to simply convert HTML documents to standard text files.
+    + Uses XMS for large files.
 
 [Return to Table of Contents](#contents)
 
