@@ -34,8 +34,9 @@ Source code is included wherever possible.
 This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.
 
 On a standard FreeDOS installation, Option 1 of the initial menu is
-
-     1 - Load FreeDOS with JEMMEX, no EMS (most UMBs), max RAM free
+````
+1 - Load FreeDOS with JEMMEX, no EMS (most UMBs), max RAM free
+````
 and that is the setting under which I test these programs. I have seen graphical programs, in particular, crash all too often under EMM386 in Option 2. If one of these apps absolutely requires Expanded Memory, I will document it here.
 
 I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
