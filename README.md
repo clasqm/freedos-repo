@@ -152,6 +152,15 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![dataperfect](./imgs/datapfct.jpg)
 
++ [Freebase](./zip/freebase.zip) 1.2 - A free form flat-file database program.
+    + Free form data entry using any ASCII text editor.
+    + Rapid search and unlimited narrowing of the search records by subsequent searches using case insensitive search strings.
+    + Ability to print search records.
+    + Ability to write search records to a disk file.
+    + Keywords to link records.
+
+![Freebase](./imgs/freebase.png)
+
 + <u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
     + Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.
     + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
@@ -398,7 +407,8 @@ achieve reincarnation.
 
 + [GUTREAD](./zip/gutread.zip) -  read texts from the Gutenberg Project (or any other text file) and remove all the newlines saving hours of editing in your word processor.
     + It will also produce the text in XML format.
-    + See the LSM file for instructions
+    + See the LSM file for instructions.
+    + Another utility that does the same thing is [WPPREP](./zip/wpprep.zip) by Les Leist.
 
 + [OZPACK](./zip/ozpack.zip) 1.3 - Great Australian utilities.
     + Shareware by Kevin Solway (other programs by Solway on this page have been explicitly declared to be freeware. This one has not).
