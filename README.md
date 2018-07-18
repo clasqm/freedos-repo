@@ -125,8 +125,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 + [Acrobat Reader](./zip/acrodos.zip) - The one and only time Adobe, Inc made a PDF viewer for DOS.
     + I have taken care of the installation for you and "registered" it to "FreeDOS User".
     + You can start the program with either *acrodos* or *acrobat*: the two batch files are identical.
-    + If you have graphical problems, try *acrodosu* or *acrobatu*: these load the UNIVBE driver before running Acrobat itself. Makes no difference on my system, but it might help with really old display cards.
-    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject.
+    + If you have graphical problems, try *acrodosu* or *acrobatu*: these load the UNIVBE driver before running Acrobat itself. Makes no difference on *my* system, but it might help with really old display cards.
+    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject. Or you can use [DOSPDF](#dospdf).
     + in *CONFIG.SYS*, your *FILES=* statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.
 
 ![Acrobat](./imgs/acrodos.png)
@@ -207,6 +207,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + See the [Home page](http://animatorpro.org) and the GitHub [code repository](https://github.com/AnimatorPro/Animator-Pro). 
 
 ![Animator](./imgs/animator.png)
+
++ [GrafX2](./zip/grafx2.zip) 2.0 beta 96.5%. - 256-colour bitmap editor.
+    + Released as shareware, but the source was [GPL'ed a year later](https://web.archive.org/web/20071213221524/http://code.google.com/p/grafx2/wiki/FreeSoftwareRelease).
+    + Lots of hotkeys, all reconfigurable with GFXCFG.EXE.
+    + The batch file \FDOS\LINKS\GRAFX2.BAT defaults to a resolution that works well with my 1024X600 laptop screen. If that does not work for you, run GRFX2 /? from the program directory and change the "32" on the last line of the batch file to something that does.
+    + You can also change the resolution inside the program. If you hit an unsupported resolution and get a screen full of gibberish, SHIFT-ENTER gets you back to a safe default.
+
+![grafx2](./imgs/grafx2.png)
 
 + [MVP Paint](./zip/mvppaint.zip) - Graphics editor.
     + Shareware by MVP Software
@@ -393,8 +401,14 @@ achieve reincarnation.
         + SLTF -- Split Large Text Files
         + TFC -- Two File Compare
         + VLCC -- Volume Label Change, Compare
++ [CHANGE](./zip/change.zip) - Find-and-replace from the command line.
+    + Processes change commands in files.
+    + Files can be of any size and type (binary or text) and are processed quickly.
+    + Up to thirty change commands can be processed in a single pass.
+    + Also provides ability to remove trailing spaces from text files.
+    + Freeware by [Bruce Guthrie](bguthrie@doc.gov) / U.S. Dept of Commerce.
 
-+ [DOSPDF](./zip/dospdf.zip) - PDF viewer.
++ <a name="dospdf"></a>[DOSPDF](./zip/dospdf.zip) - PDF viewer.
     + An outragous hack by [Mateusz Viste "Fox"](http://mateusz.viste.free.fr/dos).
     + This crashes my DOSBox, but works (slowly!) on a real FreeDOS install.
     + Use it when the old Acrobat for DOS chokes on a modern PDF.
@@ -521,7 +535,7 @@ achieve reincarnation.
 
 ![Show](./imgs/show.png)
 
-+ [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
++ <a name="viewht"></a>[VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.
     + You can also use this program to simply convert HTML documents to standard text files.
@@ -555,6 +569,13 @@ Still, if and when I do find some that are sufficiently robust and useful, I wil
     + Freeware by Dale Harris.
 
 ![wordfind](./imgs/wordfind.png)
+
++ [Probert](./zip/probert.zip) - Offline encyclopaedia.
+    + This is the HTML format of the FREE Probert Encyclopaedia.
+    + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer ([viewht](#viewht)) at \FDOS\DOCS\PROBERT\INDEX.HTM
+    + Freeware by [Matthew Probert](probertm@pins.co.uk)
+
+![probert](./imgs/probert.png)
 
 [Return to Table of Contents](#contents)
 

@@ -156,8 +156,8 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 <ul>
 <li>I have taken care of the installation for you and "registered" it to "FreeDOS User".</li>
 <li>You can start the program with either <em>acrodos</em> or <em>acrobat</em>: the two batch files are identical.</li>
-<li>If you have graphical problems, try <em>acrodosu</em> or <em>acrobatu</em>: these load the UNIVBE driver before running Acrobat itself. Makes no difference on my system, but it might help with really old display cards.</li>
-<li>Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see <a href="https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format">here</a> and <a href="https://itstillworks.com/save-pdf-older-version-adobe-6781219.html">here</a> for some ideas on the subject.</li>
+<li>If you have graphical problems, try <em>acrodosu</em> or <em>acrobatu</em>: these load the UNIVBE driver before running Acrobat itself. Makes no difference on <em>my</em> system, but it might help with really old display cards.</li>
+<li>Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see <a href="https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format">here</a> and <a href="https://itstillworks.com/save-pdf-older-version-adobe-6781219.html">here</a> for some ideas on the subject. Or you can use <a href="#dospdf">DOSPDF</a>.</li>
 <li>in <em>CONFIG.SYS</em>, your <em>FILES=</em> statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.</li>
 </ul></li>
 </ul>
@@ -274,6 +274,18 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 </ul>
 
 <p><img src="./imgs/animator.png" alt="Animator" title="" /></p>
+
+<ul>
+<li><a href="./zip/grafx2.zip">GrafX2</a> 2.0 beta 96.5%. - 256-colour bitmap editor.
+<ul>
+<li>Released as shareware, but the source was <a href="https://web.archive.org/web/20071213221524/http://code.google.com/p/grafx2/wiki/FreeSoftwareRelease">GPL'ed a year later</a>.</li>
+<li>Lots of hotkeys, all reconfigurable with GFXCFG.EXE.</li>
+<li>The batch file \FDOS\LINKS\GRAFX2.BAT defaults to a resolution that works well with my 1024X600 laptop screen. If that does not work for you, run GRFX2 /? from the program directory and change the "32" on the last line of the batch file to something that does.</li>
+<li>You can also change the resolution inside the program. If you hit an unsupported resolution and get a screen full of gibberish, SHIFT-ENTER gets you back to a safe default.</li>
+</ul></li>
+</ul>
+
+<p><img src="./imgs/grafx2.png" alt="grafx2" title="" /></p>
 
 <ul>
 <li><a href="./zip/mvppaint.zip">MVP Paint</a> - Graphics editor.
@@ -510,7 +522,16 @@ achieve reincarnation.
 <li>VLCC -- Volume Label Change, Compare</li>
 </ul></li>
 </ul></li>
-<li><p><a href="./zip/dospdf.zip">DOSPDF</a> - PDF viewer.</p>
+<li><p><a href="./zip/change.zip">CHANGE</a> - Find-and-replace from the command line.</p>
+
+<ul>
+<li>Processes change commands in files.</li>
+<li>Files can be of any size and type (binary or text) and are processed quickly.</li>
+<li>Up to thirty change commands can be processed in a single pass.</li>
+<li>Also provides ability to remove trailing spaces from text files.</li>
+<li>Freeware by <a href="bguthrie@doc.gov">Bruce Guthrie</a> / U.S. Dept of Commerce.</li>
+</ul></li>
+<li><p><a name="dospdf"></a><a href="./zip/dospdf.zip">DOSPDF</a> - PDF viewer.</p>
 
 <ul>
 <li>An outragous hack by <a href="http://mateusz.viste.free.fr/dos">Mateusz Viste "Fox"</a>.</li>
@@ -660,7 +681,7 @@ achieve reincarnation.
 <p><img src="./imgs/show.png" alt="Show" title="" /></p>
 
 <ul>
-<li><a href="./zip/viewht.zip">VIEWHT</a> - Quickie HTML viewer and converter.
+<li><a name="viewht"></a><a href="./zip/viewht.zip">VIEWHT</a> - Quickie HTML viewer and converter.
 <ul>
 <li>Freeware by Kevin Solway.</li>
 <li>A very useful tool for viewing web documents off-line, with hypertext linking and colours.</li>
@@ -705,6 +726,17 @@ achieve reincarnation.
 </ul>
 
 <p><img src="./imgs/wordfind.png" alt="wordfind" title="" /></p>
+
+<ul>
+<li><a href="./zip/probert.zip">Probert</a> - Offline encyclopaedia.
+<ul>
+<li>This is the HTML format of the FREE Probert Encyclopaedia.</li>
+<li>Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer (<a href="#viewht">viewht</a>) at \FDOS\DOCS\PROBERT\INDEX.HTM</li>
+<li>Freeware by <a href="probertm@pins.co.uk">Matthew Probert</a></li>
+</ul></li>
+</ul>
+
+<p><img src="./imgs/probert.png" alt="probert" title="" /></p>
 
 <p><a href="#contents">Return to Table of Contents</a></p>
 
