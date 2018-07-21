@@ -2,6 +2,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
@@ -21,13 +22,14 @@
 
 + [Probert](./zip/probert.zip) - Offline encyclopaedia.
     + This is the HTML format of the FREE Probert Encyclopaedia.
-    + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer ([viewht](#viewht)) at \FDOS\DOCS\PROBERT\INDEX.HTM
+    + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer at \FDOS\DOCS\PROBERT\INDEX.HTM
     + Freeware by [Matthew Probert](probertm@pins.co.uk)
 
 ![probert](./imgs/probert.png)
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----

@@ -2,6 +2,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
@@ -22,7 +23,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + I have taken care of the installation for you and "registered" it to "FreeDOS User".
     + You can start the program with either *acrodos* or *acrobat*: the two batch files are identical.
     + If you have graphical problems, try *acrodosu* or *acrobatu*: these load the UNIVBE driver before running Acrobat itself. Makes no difference on *my* system, but it might help with really old display cards.
-    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject. Or you can use [DOSPDF](#dospdf).
+    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject. Or you can use DOSPDF, which you will find in the [command line section](Commandline.md).
     + in *CONFIG.SYS*, your *FILES=* statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.
 
 ![Acrobat](./imgs/acrodos.png)
@@ -92,9 +93,9 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![rebel](./imgs/rebel.png)
 
-
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----

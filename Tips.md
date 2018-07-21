@@ -2,6 +2,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
@@ -24,6 +25,7 @@ SWSUBST B: C:\FDOS\DRIVEB
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----

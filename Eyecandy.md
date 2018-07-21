@@ -2,6 +2,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
@@ -33,6 +34,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----

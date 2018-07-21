@@ -2,6 +2,7 @@
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
@@ -12,6 +13,7 @@ Still, if and when I do find some that are sufficiently robust and useful, I wil
 
 -----
 
+{: style="text-align:center"}
 [Return to General Index](README.md)
 
 -----
