@@ -1,4 +1,11 @@
-# <a name="Launchers"></a>Program launchers, file managers and environments
+# Program launchers, file managers and environments
+
+-----
+
+[Return to General Index](README.md)
+
+-----
+
 + <u>Access</u> (aka <u>XX</u>) - A menu program. It runs your applications and games.
     + Freeware by Ronald Blankendaal.
     + Access is especially suitable for people that are still using DOS, but do not endorse the command prompt and its limitations.
@@ -39,6 +46,8 @@
 
 ![lcars24](./imgs/LCARS24.jpg)
 
-[Return to Index](README.md)
+-----
+
+[Return to General Index](README.md)
 
 -----
