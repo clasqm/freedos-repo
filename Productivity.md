@@ -77,6 +77,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![word55](./imgs/word55.png)
 
++ [Mined](./zip/mined.zip) 2015.25 - A powerful text editor with a comprehensive and easy-to-use user interface and fast, small-footprint behaviour.
+    + It is pronounced "min-ed" :-)
+    + Can handle both Unicode and code pages.
+    + GNU GPL v3
+
+![mined](./imgs/mined.png)
+
 + [PC Word](./zip/pcword.zip) 1.90: A fast, compact, flexible text processor
     + Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.
     + Freeware by Andrew Sprott.
@@ -92,6 +99,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + Freeware by Brad L. Smith
 
 ![rebel](./imgs/rebel.png)
+
++ [SageWords](./zip/sageword.zip) - Word processor.
+    + Freeware (?) by Sage Software Systems.
+    + By modern (e.g. 1995) standards, more an advanced text editor than a word processor. Files are saved in pure ASCII with embedded printer codes.
+    + For those who pine for WordStar key shortcuts, this might be your program.
+
+![sagewords](./imgs/sageword.png)
 
 -----
 
