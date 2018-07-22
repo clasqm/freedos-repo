@@ -258,6 +258,7 @@ achieve reincarnation.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.
     + You can also use this program to simply convert HTML documents to standard text files.
     + Uses XMS for large files.
+    + a similar program is [HLIST](./zip/hlist.zip).
 
 ----
 

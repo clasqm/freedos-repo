@@ -21,6 +21,12 @@
 
 ![Alice](./imgs/alice.png)
 
++ [Flisp](./zip/flisp.zip) 1.0 - A LISP implementation for DOS.
+    + GNU GPL v2 by Francesco Zamblera 
+    + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
+    + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
+    + Untested until I learn this language!
+
 + [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
     + Produces small and tight executables. 
     + 8086, 80186+ or 80386+ code.
