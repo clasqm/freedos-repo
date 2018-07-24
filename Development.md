@@ -7,6 +7,8 @@
 
 -----
 
+Please understand: I don't actually know all these languages. Where possible, I ran the included test suites or compiled some example code. If I could find documentation, I included it. But basically you are on your own here.
+
 + [Agena](./zip/agena.zip) 2.12.2 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
@@ -21,18 +23,40 @@
 
 ![Alice](./imgs/alice.png)
 
++ **Borland** <u>Turbo Pascal 1.0 / 3.02 / 5.5</u>, <u>Turbo C++ 1.01</u>, and <u>Turbo C 2.01</u> - Available as freeware from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
+    + Sorry, the license does not allow me to repackage these programs.
+    + You will need to register an account with Embarcadero and receive their advertising email forever to get these languages. Or you could try [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) for a temporary email address.
+    + All come with very nice IDEs. Turbo Pascal 5.5 pictured below.
+
+![turbop55](./imgs/turbop55.jpg)
+
 + [Flisp](./zip/flisp.zip) 1.0 - A LISP implementation for DOS.
     + GNU GPL v2 by Francesco Zamblera 
     + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
-    + Untested until I learn this language!
 
++ [Modula-2](./zip/modula2.zip) 4.0 - FST (Fitted) Modula-2 Version 4.0
+    + This is the final release of FST Modula-2. It is  no more  than  a re-packaged  release 3.5.
+    + The software was not changed to reflect the new release number.
+    + The  only  changes   in  this   package  are   in  the documentation; specifically, the software license  changed, as shareware registration is no longer available.
+    + See \FDOS\DEVEL\MODULA2\DOC\M2DOC.TXT for documentation.
+
 + [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
     + Produces small and tight executables. 
     + 8086, 80186+ or 80386+ code.
     + DOS real mode or DPMI protected mode.
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
     + Freeware by Rowan Crowe.
+
++ [SNOBOL 4](./zip/snobol.zip) - A freeware implementation of the SNOBOL language by Gordon E Peterson II.
+
++ [VT Prolog](./zip/vtprolog.zip) - Very Tiny Prolog.
+    + A  simple PROLOG interpreter provided to encourage experimentation with PROLOG.
+
++ [XLisp](./zip/xlisp.zip) 2.0 - An Object-oriented Lisp.
+    + Free for noncommercial use.
+    + XLISP is an experimental programming language combining some of the features of Common Lisp with an object-oriented extension capability.
+    + It was implemented to allow experimentation with object-oriented programming on small computers.
 
 -----
 
