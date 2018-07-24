@@ -9,6 +9,17 @@
 
 Most of these will end up in C:\FDOS\BIN. **Please note** that there are only so many filenames available when you have just eight characters to play with. You may already have a utility with the same name. If UNZIP asks whether to overwrite a file, think very carefully whether you want to use this file rather than the default FreeDOS one. I have tried to weed them out, but I may have missed some, and future versions of FreeDOS will no doubt contain more UNIX CLI ports.
 
++ [ACD](./zip/acd.zip) - Another Change Directory.
+    + Freeware by Kevin Solway.
+    + ACD is used to switch quickly between directories across any drive. You simply invoke ACD and give it the full or partial name of the directory you wish to change to.
+    + For example, if you have a directory named D:\COMM\KERMIT you could switch to this directory with the command ACD KER
+    + ACD will first try to do an immediate change to the directory name that you specify.
+    + If that change works, ACD simply exits immediately. If it fails, then ACD looks into your directory database and tries to figure out the directory name that you wanted.
+    + If more than one directory existed with the same partial name that you gave to ACD, it will display a pop-up window on the screen containing all of the matches found.
+    + Simply use the movementkeys (PgUp, PgDn, Home, End, Arrow keys) to highlight the directory that you want to change to, then hit ENTER.
+
+![acd](./imgs/acd.png)
+
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.

@@ -28,6 +28,18 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Acrobat](./imgs/acrodos.png)
 
++ [Ample Notice](./zip/an2.zip) 2.04 - An appointments calendar/alarm clock package that can help organize your life.
+    + Shareware by Mark Harris.
+    + You enter appointments and notes in any of a variety of natural formats.
+    + You can specify that a birthday occurs each July 17, or that you have a meeting every other Tuesday at 4:00 for 5 meetings, or that Father's Day is the third Sunday in June.
+    + Appointments which include a time can automatically set a 'pop-up alarm clock' which notifies you at a given advance interval.
+    + Different categories of appointments can be tracked for preparation of group meetings or for summaries of specific activities.
+    + The sorting and archiving options let you keep track of past activities for business purposes.  Searching for a given appointment (future or past) is fast and easy.
+    + Ample Notice is easy to use right away, but is powerful enough to handle a variety of complex applications.
+    + Also included is a program for addressing envelopes sideways from data on the screen or from a file.
+
+![an2](./imgs/an2.png)
+
 + [AS-EASY-AS](./imgs/aseasy.zip) 5.7 - Spreadsheet
     + In its day, this was THE shareware competitor to Lotus 1-2-3.
     + Now freeware courtesy of Trius, Inc.
