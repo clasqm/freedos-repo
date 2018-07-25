@@ -9,7 +9,7 @@
 
 Please understand: I don't actually know all these languages. Where possible, I ran the included test suites or compiled some example code. If I could find documentation, I included it. But basically you are on your own here.
 
-+ [Agena](./zip/agena.zip) 2.12.2 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.12.4 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.

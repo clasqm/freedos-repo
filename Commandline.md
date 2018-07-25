@@ -140,6 +140,25 @@ achieve reincarnation.
     + See the LSM file for instructions.
     + Another utility that does the same thing is [WPPREP](./zip/wpprep.zip) by Les Leist.
 
++ [INKUTILS](./zip/inkutils.zip) - A collection of utilities.
+    + DD - Allows a directory (and its contents) to be deleted. Much more friendly than DELTREE
+    + DEDIT - A full-screen 4DOS/NDOS/TakeCommand file description editor.
+    + CC - A control panel for the SmartDrv (or any compatible) disk cache.
+    + EE - A flexible calculator than can be used three ways: Command line calculator, Desktop calculator or TSR popup calculator. 
+    + CE -  eplaces the standard "Retry, Ignore, Fail or Abort" message with a popup window that gives much more information on the error that has occurred.
+    + TM - Allows various text modes (including any VESA text mode that your video card supports) to be selected.
+    + LE - Displays only the executable files (EXE, COM, BAT and, if you're using 4DOS or NDOS, BTM) in the current or specified directory.
+    + MCD -  Performs the DOS commands MD and CD in one go.
+        + MCD can also create multiple directories in one go (e.g. MCD \one\two\three will create the directories \ONE, \one\TWO and \one\two\THREE ).
+        + It can also protect directories, so that Delete Directory cannot delete them.
+        + MCD supports Windows 95 long filenames.
+    + FM - Reduces the time taken for a program to reset the mouse.
+    + DZ - Intercepts any "Divide overflow" errors.
+        + PLEASE NOTE: DZ.COM has been renamed to DZ0.com for use in FreeDOS. This prevents a conflict with DosZip Commander.
+    + IP - Provides a quick and easy way to see at once which TSR programs from the Inkutils are currently resident in memory.
+    + INKUTILS -  A friendly, menu driven user guide covering each Inkutil with full instructions and examples.
+    + Freeware by Mark Incley.
+
 + [OZPACK](./zip/ozpack.zip) 1.3 - Great Australian utilities.
     + Shareware by Kevin Solway (other programs by Solway on this page have been explicitly declared to be freeware. This one has not).
     + I have removed MOVE, since it is already in FreeDOS.

@@ -70,6 +70,21 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Freebase](./imgs/freebase.png)
 
++ [InfoPal](./zip/infopal.zip) - Fast, small, and easy to use flat-file database.
+    +  Great for phones, diaries, passwords, anything.
+    + Mouse or keyboard
+    + Context sensitive help
+    + password protection
+    + import, export
+    + runs external programs
+    + fast report generator
+    + fast record finder
+    + exceedingly customizable
+    + includes ready-made databases
+    + Freeware by  Hector Noriega 
+
+![infopal](./imgs/infopal.png)
+
 + <u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
     + Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.
     + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
