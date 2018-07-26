@@ -249,7 +249,7 @@ achieve reincarnation.
     + The remaining functionality is the same.
     + Also includes INSPECT, a hex editor.
 
-+ [RREAD](./zip/rread.zip) - A simple, generic text file viewer.
++ [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than [SHOW](#show)).
     + Freeware by Mateusz Viste
 
 + [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful (?) DOS utilities is a collection of mainly UNIX-workalike CLI commands.
@@ -278,7 +278,16 @@ achieve reincarnation.
         + UPCASE - Change chars in several files from lower to upper case.
         + WC - Count words, lines, and chars of several text files.
 
-+ [SHOW](./zip/show.zip) 1.4 -  Text file Viewer.
++ [SCREEN](./zip/screen.zip) - A full-screen message displayer.
+    + Shareware by Tom Snively.
+    + My experimenting suggests that your message can be 54 characters long and no single word can exceed 18 characters. 
+    + *Example*:
+````
+screen p /p This is an example of the SCREEN utility.
+````
+![screen](./imgs/screen.png)
+
++ <a name=show></a>[SHOW](./zip/show.zip) 1.4 -  Text file Viewer.
     + Freeware by Horst Schaeffer.
     + SHOW is a small DOS viewer for ASCII text files.
     + The program was primarily made for use in batch files, as it does not come with its own "Open" dialog and directory browser.

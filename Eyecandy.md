@@ -7,6 +7,8 @@
 
 -----
 
+NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE programs.
+
 + [Acid Warp 4.2](./zip/acidwarp.zip) - Run it and watch the pretty colors.
     + Free Software by [Noah Spurrier](http://www.noah.org/acidwarp/).
     + *CTRL-Break* exits the program, If your keyboard does not have a *Break* key, *CTRL-C* also works ... eventually. You may have to hit it a few times.
@@ -24,6 +26,11 @@
 
 ![dcmatrix](./imgs/dcmatrix.png)
 
++ [Hiver](./zip/hiver.zip) - animated winter scene screensaver.
+    + Freeware by Martin Savage.
+
+![hiver](./imgs/hiver.png)
+
 + [The Stary's screensavers](./zip/strss.zip) - A collection of five screensavers in EXE format.
     + BULGE, DOTTY, FLAMES, FURNACE and STRFIELD. 
     + Can also be used in DOS NAVIGATOR: see the documentation.
@@ -31,6 +38,10 @@
 
 ![strss](./imgs/strss.png)
 
++ [TimeBox](./zip/timebox.zip) - Time and date display screensaver.
+    + Author unknown.
+
+![timebox](./imgs/timebox.png)
 
 -----
 
