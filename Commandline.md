@@ -249,6 +249,9 @@ achieve reincarnation.
     + The remaining functionality is the same.
     + Also includes INSPECT, a hex editor.
 
++ [RREAD](./zip/rread.zip) - A simple, generic text file viewer.
+    + Freeware by Mateusz Viste
+
 + [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful (?) DOS utilities is a collection of mainly UNIX-workalike CLI commands.
     + Freeware by Richard Breuer.
     + I have removed CAL and HEAD since they are already in FreeDOS.

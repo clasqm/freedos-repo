@@ -21,6 +21,12 @@
 
 ![grafx2](./imgs/grafx2.png)
 
++ [LxPic](./zip/lxpic.zip) v7.3 - Graphics viewer.
+    + Freeware by Stefan Peichl.
+    + LxPic is a very small, powerful and fast DOS picture viewer.
+    + It has just 20 KB code and runs in 64 KB of memory on any 8086 compatible computer. It supports all display modes from early CGA up to the latest 2048x1536 QXGA True Color (32bit) screens.
+    + LxPic processes BMP, PCX, JPG and GIF files of any kind. BMP and PCX files may have 2, 4, 256 or True Colors (16 Million). JPG files may have 256 gray scales or True Colors. GIF files may have Version 87a or 89a (including multi images) with up to 256 colors.
+
 + [MVP Paint](./zip/mvppaint.zip) - Graphics editor.
     + Shareware by MVP Software
     + MVP Paint is a full-featured graphics workshop.

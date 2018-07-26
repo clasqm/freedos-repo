@@ -7,7 +7,7 @@
 
 -----
 
-+ [ABBREVV](./zip/abbrevv.zip) - A  menu-oriented DOS application to view and maintain a  list  of
++ [Abbrev](./zip/abbrevv.zip) - A  menu-oriented DOS application to view and maintain a  list  of
 abbrevations.
     + Freeware by J R Ferguson for non-commercial purposes.
     + Acronyms may be up to 7 characters long, the description can be any text up to 69 characters.
@@ -40,7 +40,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![an2](./imgs/an2.png)
 
-+ [AS-EASY-AS](./imgs/aseasy.zip) 5.7 - Spreadsheet
++ [As-Easy-As](./imgs/aseasy.zip) 5.7 - Spreadsheet
     + In its day, this was THE shareware competitor to Lotus 1-2-3.
     + Now freeware courtesy of Trius, Inc.
     + Packaged as registered to "FreeDOS User" with serial number already filled in (but see the LSM file if you need it for some reason).
@@ -110,6 +110,11 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + GNU GPL v3
 
 ![mined](./imgs/mined.png)
+
++ [PasswordBox](./zip/pbox.zip) - Keep all your passwords safe, inside an encrypted database.
+    + GNU GPL v3 by Mateusz Viste.
+    + CAUTION: This program features 128-bit AES encryption, which might be illegal in your country.
+    + Run this program from the DOS prompt the first time, so that it can create its database. After that, you can run it from a launcher.
 
 + [PC Word](./zip/pcword.zip) 1.90: A fast, compact, flexible text processor
     + Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.
