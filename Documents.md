@@ -2,11 +2,19 @@
 
 Collated sets of documents found on the web and on various old shareware CD-ROMs. These documents are both of historic interest and may still be useful to current FreeDOS enthusiasts.
 
-Install these collections like any other of my packages (see the [main page](README.md) for details). They will then be available in \FDOS\DOC. For example, you will find the Pascal Newsletter in \FDOS\DOC\PNLDOC, and sample code that went along with that newsletter will be in \FDOS\SOURCE\PNLDOC. The vast majority are in plain ASCII text format and can be viewed with a text editor or viewer.
+Install these collections like any other of my packages (see the [main page](README.md) for details). They will then be available in \FDOS\DOC. For example, you will find the Pascal Newsletter in \FDOS\DOC\PNLDOC, and sample code that went along with that newsletter will be in \FDOS\SOURCE\PNLDOC. The vast majority are in plain ASCII text format and can be viewed with a text editor or viewer. If a resource is in a different format, it will be noted here.
 
 The copyright status of these documents is usually unclear, but if you are the copyright owner and you object to your material being made available like this (even after having been widely disseminated on shareware CD-ROMs for thirty years!), please let me know and I will take them down.
 
 Please note that these packages have no LSM file in the APPINFO folder.
 
++ [QBasic](./zip/qbasdoc.zip) by Faraaz Damji, Adam Colton and Gareth Richardson.
+    + Originally from [https://en.wikibooks.org/wiki/QBasic](https://en.wikibooks.org/wiki/QBasic).
+    + In PDF format.
+    + A similar online resource is [Programmed Lessons in QBasic](http://chortle.ccsu.edu/qbasic/index.html)
++ [The A to Z of C](./zip/a2zofc.zip), *The evolving non-profit book on C/DOS/Turbo C programming*. By K. Joseph Wesley & R. Rajesh Jeba Anbiah (c) 2001
+    + Originally from [http://guideme.itgo.com/atozofc/](http://guideme.itgo.com/atozofc/).
+    + A complete course in C programming for DOS, focusing on Turbo C.
+    + In PDF format.
 + [The Pascal Newsletter](./zip pnldoc.zip) - 1990 to 1992.
     + Focuses on Turbo Pascal.
