@@ -1,4 +1,4 @@
-# Programming languages etc.
+# Development: Programming languages etc.
 
 -----
 
@@ -8,6 +8,13 @@
 -----
 
 Please understand: I don't actually know all these languages. Where possible, I ran the included test suites or compiled some example code. If I could find documentation, I included it. But basically you are on your own here.
+
++ [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
+    + A must-have system information tool
+    + Detects lots of hard and soft wares, including all the latest (c. 2004) technology.
+    + Gives you more than other infoprogs 
+
+![aida](./imgs/aida.png)
 
 + [Agena](./zip/agena.zip) 2.12.4 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT

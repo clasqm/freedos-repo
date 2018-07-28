@@ -6,16 +6,17 @@
 [Introduction](#Introduction)  
 [Installation instructions](#Installation)  
 
-
 [Program launchers, file managers and environments](Launchers.md)  
 [Productivity applications](Productivity.md)  
 [Graphics applications](Graphics.md)  
 [Programming languages etc.](Development.md)  
-[Games](Games.md)  
-[Eye Candy](Eyecandy.md)  
+[Example Code collections](Example.md)  
+[Really simple games](Games.md)  
+[Screensavers and other eye candy](Eyecandy.md)  
 [Command-line utilities](Commandline.md)  
 [Terminate-and-stay-resident utilities](TSR.md)  
-[Miscellaneous](Misc.md)
+[Document collections](Documents.md)  
+[Miscellaneous](Misc.md)  
 
 [FreeDOS tips](Tips.md)
 
