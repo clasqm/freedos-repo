@@ -8,10 +8,13 @@ The copyright status of these documents is usually unclear, but if you are the c
 
 Please note that these packages have no LSM file in the APPINFO folder.
 
++ [Baker's News](./zip/bakernws.zip) - 1992-1993
+    + The files in this package include the full text of press releases issued from March 1992 to Augiust 1993 and distributed electronically via the America Online New Product Information Service.
+    + Each file is a standard ASCII text file, formatted for 80 column viewing or printing using your favorite utilities.
 + [QBasic](./zip/qbasdoc.zip) by Faraaz Damji, Adam Colton and Gareth Richardson.
     + Originally from [https://en.wikibooks.org/wiki/QBasic](https://en.wikibooks.org/wiki/QBasic).
     + In PDF format.
-    + A similar online resource is [Programmed Lessons in QBasic](http://chortle.ccsu.edu/qbasic/index.html)
+    + A similar (online-only) resource is [Programmed Lessons in QBasic](http://chortle.ccsu.edu/qbasic/index.html)
 + [The A to Z of C](./zip/a2zofc.zip), *The evolving non-profit book on C/DOS/Turbo C programming*. By K. Joseph Wesley & R. Rajesh Jeba Anbiah (c) 2001
     + Originally from [http://guideme.itgo.com/atozofc/](http://guideme.itgo.com/atozofc/).
     + A complete course in C programming for DOS, focusing on Turbo C.
