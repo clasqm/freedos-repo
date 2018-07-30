@@ -28,8 +28,15 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 + [Hiver](./zip/hiver.zip) - animated winter scene screensaver.
     + Freeware by Martin Savage.
+    + Please see the documentation - you may need to slow this one down on modern hardware.
 
 ![hiver](./imgs/hiver.png)
+
++ [Laser](./zip/laser.zip) - Possibly the original that has since appeared on every possible Operating system.
+    + Public Domain (?) by John Horemans. 
+    + Turbo Pascal code included
+
+![laser](./imgs/laser.png)
 
 + [The Stary's screensavers](./zip/strss.zip) - A collection of five screensavers in EXE format.
     + BULGE, DOTTY, FLAMES, FURNACE and STRFIELD. 
@@ -42,6 +49,10 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
     + Author unknown.
 
 ![timebox](./imgs/timebox.png)
+
++ [VGA Art](./zip/vgaart.zip) - More demo than screensaver, with annoying ad screens at both ends.
+
+![vgaart](./imgs/vgaart.png)
 
 -----
 

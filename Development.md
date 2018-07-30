@@ -12,7 +12,8 @@ Please understand: I don't actually know all these languages. Where possible, I 
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
     + A must-have system information tool
     + Detects lots of hard and soft wares, including all the latest (c. 2004) technology.
-    + Gives you more than other infoprogs 
+    + Gives you more than other infoprogs
+    + *Update: This 16-bit program claims to detect a multitasking environment in bare FreeDOS and refuses to run. I am investigating.* 
 
 ![aida](./imgs/aida.png)
 
