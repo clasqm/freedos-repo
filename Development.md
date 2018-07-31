@@ -10,14 +10,13 @@
 Please understand: I don't actually know all these languages. Where possible, I ran the included test suites or compiled some example code. If I could find documentation, I included it. But basically you are on your own here.
 
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
-    + A must-have system information tool
     + Detects lots of hard and soft wares, including all the latest (c. 2004) technology.
-    + Gives you more than other infoprogs
-    + *Update: This 16-bit program claims to detect a multitasking environment in bare FreeDOS and refuses to run. I am investigating.* 
+    + Gives you more than other infoprogs.
+    + *Updated: This 16-bit program claims to detect a multitasking environment in FreeDOS 1.2 running on bare silicon and refuses to run (it does work in DosBox). Please read NOTE.TXT in the documentation for a workaround.*
 
 ![aida](./imgs/aida.png)
 
-+ [Agena](./zip/agena.zip) 2.12.4 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.12.5 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
@@ -30,6 +29,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + The package defaults to the "large" version of Alice, which can use 640K of memory. The "regular" version is still there if you need it, but really, how many people are now working on a 256K system?
 
 ![Alice](./imgs/alice.png)
+
++ [ASIC](./zip/asic.zip) 5.0 - IDE and compiler for the ASIC dialect of BASIC.
+    + Also contains two library collections for ASIC and a version of LINK.EXE that will allow linking OBJ files from these libraries into an ASIC program.
+    + No-nag, non-crippled shareware by David Visti.
+    + The libraries are by other authors and have their own shareware terms.
+    + Code snippets are available [here](http://www.qbasicnews.com/abc/showpacket.php?packet=ASIC.ABC)
+
+![ASIC](./imgs/asic.png)
 
 + **Borland** <u>Turbo Pascal 1.0 / 3.02 / 5.5</u>, <u>Turbo C++ 1.01</u>, and <u>Turbo C 2.01</u> - Available as freeware from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
     + Sorry, the license does not allow me to repackage these programs.
@@ -55,7 +62,18 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + DOS real mode or DPMI protected mode.
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
     + Freeware by Rowan Crowe.
-
++ [PEDIT](./zip/pedit.zip) 4.00 - Programming editor.
+    + Similar to the FreeDOS EDIT program, but more powerful, and with many additional features for programmers.
+    + It includes pop-up tables, column support, macro key, undo, copy & paste to Windows applications, long filenames, word wrap, spell checker & thesaurus (English only, as far as I can make out), HTML support, and much more.
+    + Freeware by Goldshell Digital Media.
+    + In the Pedit package there's a file called PEDITLGT.EXE. This is the Light version of Pedit.  It's Pedit stripped of several options.
+    + The purpose for this is to offer an editor which can easily be included on rescue floppies and such.
+    + The omitted options are:
+        + Spell checker.
+        + Thesaurus.
+        + Printing through Windows.
+    + The remaining functionality is the same.
+    + Also includes INSPECT, a hex editor.
 + [SNOBOL 4](./zip/snobol.zip) - A freeware implementation of the SNOBOL language by Gordon E Peterson II.
 
 + [VT Prolog](./zip/vtprolog.zip) - Very Tiny Prolog.

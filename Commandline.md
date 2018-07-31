@@ -235,24 +235,10 @@ achieve reincarnation.
         + TPBEAUT -- Prepare Turbo Pascal 5.5 code for output to a printer.
         + TYPEBACK -- Type a text file line by line backwards. Good for listing logs.
         + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
-
-+ [PEDIT](./zip/pedit.zip) 4.00 - Programming editor.
-    + Similar to the FreeDOS EDIT program, but more powerful, and with many additional features for programmers.
-    + It includes pop-up tables, column support, macro key, undo, copy & paste to Windows applications, long filenames, word wrap, spell checker & thesaurus (English only, as far as I can make out), HTML support, and much more.
-    + Freeware by Goldshell Digital Media.
-    + In the Pedit package there's a file called PEDITLGT.EXE. This is the Light version of Pedit.  It's Pedit stripped of several options.
-    + The purpose for this is to offer an editor which can easily be included on rescue floppies and such.
-    + The omitted options are:
-        + Spell checker.
-        + Thesaurus.
-        + Printing through Windows.
-    + The remaining functionality is the same.
-    + Also includes INSPECT, a hex editor.
-
 + [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than [SHOW](#show)).
     + Freeware by Mateusz Viste
 
-+ [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful (?) DOS utilities is a collection of mainly UNIX-workalike CLI commands.
++ [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful DOS utilities is a collection of mainly UNIX-workalike CLI commands.
     + Freeware by Richard Breuer.
     + I have removed CAL and HEAD since they are already in FreeDOS.
         + ASET - Enhanced SET command

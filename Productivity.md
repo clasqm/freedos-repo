@@ -48,7 +48,21 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![ASEASY](./imgs/aseasy.png)
 
-+ [Breeze](./zip/breeze.zip) by Kevin Solway - Perhaps the most comprehensive text editor ever written for DOS.
++ [Aurora](./zip/aurora.zip) - A popular and innovative shareware DOS text editor by Jeff Wunderlich and NText.
+    + Aurora utilizes a multi-window, mouse-compatible text mode GUI.
+    + Editing functions include column-mode text selection capability, unlimited undo/redo operations, and syntax highlighting.
+    + Great macro facilities.
+    + The DOS version handles files up to 1 GB in size.
+    + Aurora also supports regular expression search/replace operations.
+    + Aurora can double quite nicely as a word processor, but it lacks a spell checker.
+    + Development of Aurora ceased around 1997.
+    + The author has since permitted free registration of the program.
+    + This package is preregistered to "FreeDOS User".
+
+![Aurora](./imgs/aurora.png)
+
++ [Breeze](./zip/breeze.zip) by Kevin Solway - One of the most comprehensive text editors ever written for DOS.
+    + Narrowly beats Aurora (above) in that it has a spell-checker. YMMV.
     + Ignore all the shareware documentation: according to the [website](http://www.theabsolute.net/sware/oldfav.html) this is now freeware.
 
 ![Breeze](./imgs/breeze.gif)
