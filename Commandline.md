@@ -36,7 +36,6 @@ achieve reincarnation.
     + The BFIND.EXE program adds Boolean logic to DOS's FIND command.
     + Freeware for personal use by Bruce Guthrie.
     + See the LSM file for instructions.
-
 + [BLRMU](./zip/blrmu.zip) v22 - Bud L Rasmussen's Mini Utilities.
     + Freeware / Public Domain.
     + For more extensive descriptions of these utilities, see the appropriate .doc file for any specific utility.
@@ -84,7 +83,6 @@ achieve reincarnation.
         + REDWHT - Clear screen to wht on red
         + REDYLO - Clear screen to yellow on red
         + WHTBLK - Clear screen to black on white
-
 + [BLRUT](./zip/blrut.zip) - *Bud L Rasmussen's Utilities* 
     + 28 general purpose DOS utilities.
         + BD -- Backup Directory
@@ -139,7 +137,6 @@ achieve reincarnation.
     + It will also produce the text in XML format.
     + See the LSM file for instructions.
     + Another utility that does the same thing is [WPPREP](./zip/wpprep.zip) by Les Leist.
-
 + [INKUTILS](./zip/inkutils.zip) - A collection of utilities.
     + DD - Allows a directory (and its contents) to be deleted. Much more friendly than DELTREE
     + DEDIT - A full-screen 4DOS/NDOS/TakeCommand file description editor.
@@ -149,7 +146,7 @@ achieve reincarnation.
     + TM - Allows various text modes (including any VESA text mode that your video card supports) to be selected.
     + LE - Displays only the executable files (EXE, COM, BAT and, if you're using 4DOS or NDOS, BTM) in the current or specified directory.
     + MCD -  Performs the DOS commands MD and CD in one go.
-        + MCD can also create multiple directories in one go (e.g. MCD \one\two\three will create the directories \ONE, \one\TWO and \one\two\THREE ).
+        + MCD can also create multiple directories in one go (e.g. MCD \one\two\three will create the directories \ONE, \one\TWO and \one\two\THREE).
         + It can also protect directories, so that Delete Directory cannot delete them.
         + MCD supports Windows 95 long filenames.
     + FM - Reduces the time taken for a program to reset the mouse.
@@ -158,7 +155,9 @@ achieve reincarnation.
     + IP - Provides a quick and easy way to see at once which TSR programs from the Inkutils are currently resident in memory.
     + INKUTILS -  A friendly, menu driven user guide covering each Inkutil with full instructions and examples.
     + Freeware by Mark Incley.
-
++ [NCONVERT](./zip/nconvert.zip) 6.88 - Graphics converter and resizer.
+    + Nconvert is the multi-format commandline image converter for Win32, DOS, OS/2, and other platforms.
+    + Type "nconvert -help" for available options.  
 + [OZPACK](./zip/ozpack.zip) 1.3 - Great Australian utilities.
     + Shareware by Kevin Solway (other programs by Solway on this page have been explicitly declared to be freeware. This one has not).
     + I have removed MOVE, since it is already in FreeDOS.
@@ -196,7 +195,6 @@ achieve reincarnation.
         + VGATEXT - This program will change the screen text font on VGA systems.
         + VIEWPCX - Program for displaying .PCX (PC Paintbrush format) pictures. 
         + VIEWSCR - Displays colour text screen images (with extension of .SCR) created by Text Paint or captured by the program TCAPTURE.
-
 + [OZWOZ](./zip/ozwoz.zip) - the OZWOZ Utilities.
     + A collection of 35 command-line utilities.
     + Freeware for personal, non-commercial use.
@@ -237,7 +235,6 @@ achieve reincarnation.
         + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
 + [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than [SHOW](#show)).
     + Freeware by Mateusz Viste
-
 + [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful DOS utilities is a collection of mainly UNIX-workalike CLI commands.
     + Freeware by Richard Breuer.
     + I have removed CAL and HEAD since they are already in FreeDOS.
@@ -263,7 +260,6 @@ achieve reincarnation.
         + TAIL - Show the last lines of a file.
         + UPCASE - Change chars in several files from lower to upper case.
         + WC - Count words, lines, and chars of several text files.
-
 + [SCREEN](./zip/screen.zip) - A full-screen message displayer.
     + Shareware by Tom Snively.
     + My experimenting suggests that your message can be 54 characters long and no single word can exceed 18 characters. 
@@ -281,6 +277,9 @@ screen p /p This is an example of the SCREEN utility.
 
 ![Show](./imgs/show.png)
 
++ [SWEEP](./zip/sweep.zip) 1.62 - Extend DOS commands recursively across directories
+    + Utility to perform single or multiple DOS operations on one/*every* directory on a hard drive.
+    + Freeware by Robert Briggs
 + [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.
