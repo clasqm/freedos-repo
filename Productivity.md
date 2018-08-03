@@ -99,6 +99,19 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![infopal](./imgs/infopal.png)
 
++ [Medit](./zip/medit.zip) 1.7.1 - A free, graphic, multi-window, cross-platform text editor.
+    + Copyrighted but free-to-use software by Vincenzo Morello.
+    + Multi window editing.
+    + PullDown Menu with accelerator keys.
+    + Cut & paste with the standard keystrokes: Ctrl+C, Ctrl+V, Ctrl+X and also Ctrl+Ins, Shift+Ins, Shift+Del.
+    + Search forward/backward case sensitive/unsensitive, Replace.
+    + Multi-level Undo/Redo.
+    + Auto indent.
+    + Source code supplied.
+    + Anti-virus checksum at startup activated for DJGPP version.
+
+![Medit](./imgs/medit.gif)
+
 + <u>Microsoft Word</u> 5.5 - The last version for DOS of Microsoft's all-conquering word processor.
     + Released as freeware by Microsoft, Inc, supposedly as a Y2K update, but it contains the entire program.
     + Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It supports operation under 16-bit OS/2 1.x console mode.
