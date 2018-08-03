@@ -41,6 +41,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 + [Rave](./zip/rave.zip) 1.1 - Kaleidoscope emulator.
     + Generates and displays kaleidoscopic patterns with color palette "cycling" on 80x86 class computers equipped with VGA or SVGA graphics adapters and displays.
     + In addition to the default automatic mode, limited user interaction is available via the keyboard to control various drawing parameters.
+    + Crashes when run from a launcher, and the video hardware detection is not great (doesn't do VESA), but you can override it with -v switches.
     + Freeware by J Ashley Roeckelein.
 
 ![rave](./imgs/rave.png)

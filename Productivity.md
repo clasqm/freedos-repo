@@ -109,6 +109,10 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + Auto indent.
     + Source code supplied.
     + Anti-virus checksum at startup activated for DJGPP version.
+    + Packager's note: This is one of the few graphical DOS apps that can use all of your modern non-4:3 screen without deformation. As supplied, it defaults to 800x600x256, but in \FDOS\LINKS\MEDIT.BAT on my Dell Latitude 2120, I have set it up for 1024x600x256 as follows:
+````
+    SET GRX20DRV=vesa gw 1024 gh 600 nc256 
+````
 
 ![Medit](./imgs/medit.gif)
 
