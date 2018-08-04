@@ -3,7 +3,7 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
 
@@ -173,6 +173,6 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----

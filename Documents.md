@@ -8,6 +8,7 @@ The copyright status of these documents is usually unclear, but if you are the c
 
 Please note that these packages have no LSM file in the APPINFO folder.
 
++ [Batch file docs](./zip/batdoc.zip) - various tutorials on writing DOS batch files.
 + [Baker's News](./zip/bakernws.zip) - 1992-1993
     + The files in this package include the full text of press releases issued from March 1992 to Augiust 1993 and distributed electronically via the America Online New Product Information Service.
     + Each file is a standard ASCII text file, formatted for 80 column viewing or printing using your favorite utilities.
@@ -21,3 +22,4 @@ Please note that these packages have no LSM file in the APPINFO folder.
     + In PDF format.
 + [The Pascal Newsletter](./zip pnldoc.zip) - 1990 to 1992.
     + Focuses on Turbo Pascal.
++ [Zip Magazine](./zip/zipmag.zip) - Online magazine c. 1988.

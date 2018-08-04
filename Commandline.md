@@ -3,7 +3,7 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
 
@@ -290,6 +290,6 @@ screen p /p This is an example of the SCREEN utility.
 ----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----

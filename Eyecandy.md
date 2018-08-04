@@ -3,7 +3,7 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
 
@@ -65,6 +65,6 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----

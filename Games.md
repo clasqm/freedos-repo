@@ -3,7 +3,7 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
 
@@ -27,6 +27,6 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----

@@ -3,7 +3,7 @@
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
 
@@ -50,19 +50,23 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + GNU GPL v2 by Francesco Zamblera 
     + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
-
+    + Other (untested) Lisp implementations include [Adler](./zip/adler.zip) and [PDLisp](./zip/pdlisp.zip).
++ [Illinois Functional Programming](./zip/ifp.zip) 0.5 - An experimental functional language.
 + [Modula-2](./zip/modula2.zip) 4.0 - FST (Fitted) Modula-2 Version 4.0
     + This is the final release of FST Modula-2. It is  no more  than  a re-packaged  release 3.5.
     + The software was not changed to reflect the new release number.
     + The  only  changes   in  this   package  are   in  the documentation; specifically, the software license  changed, as shareware registration is no longer available.
     + See \FDOS\DEVEL\MODULA2\DOC\M2DOC.TXT for documentation.
-
 + [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
     + Produces small and tight executables. 
     + 8086, 80186+ or 80386+ code.
     + DOS real mode or DPMI protected mode.
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
-    + Freeware by Rowan Crowe.
+    + Freeware by Rowan Crowe
++ [ Navratil Software System Information (NSSI)](./zip/nssi.zip) - system information tool.
+
+![nssi](./imgs/nssi.png)
+
 + [PEDIT](./zip/pedit.zip) 4.00 - Programming editor.
     + Similar to the FreeDOS EDIT program, but more powerful, and with many additional features for programmers.
     + It includes pop-up tables, column support, macro key, undo, copy & paste to Windows applications, long filenames, word wrap, spell checker & thesaurus (English only, as far as I can make out), HTML support, and much more.
@@ -88,6 +92,6 @@ Please understand: I don't actually know all these languages. Where possible, I 
 -----
 
 {: style="text-align:center"}
-[Return to General Index](README.md)
+For installation instructions, please [return to General Index](README.md)
 
 -----
