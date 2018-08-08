@@ -128,6 +128,36 @@ achieve reincarnation.
     + Use it when the old Acrobat for DOS chokes on a modern PDF.
     + Requires the *CDD* command - everything else is included, even a working installation of Alladdin Ghostscript.
     + I've done the SETUP already and copied the resulting batch file into /FDOS/BIN, so it should be ready to run.
++ [DOSUtils](./zip/dosutils.zip) - freeware utilities by Jem Berkes.
+    + ALLFILES - Displays all the files in a directory (including hidden and system) and their attribute values.
+    + ASK - A batch file utility, similar to DOS 6's "CHOICE", that allows user input during batch processing.
+    + BOING - A manually activated screen saver (bounces a ball around the screen).
+    + CAPTR - Captures the current contents of the text screen (in colour) and save it to a file, which can be reloaded later or loaded into a text editor to show what was originally on the screen. Renamed from CAPTURE.COM to avoid conflict with a similar utility already in the repo.
+    + COMPACT - Switches to the enhanced VGA screen mode which usually allows 132 columns by 43 rows of text (132 x 43).
+    + COMPID - Locates and displays your computer's ROM-BIOS copyright message and date.
+    + DDRAW - Lets you draw images on your screen from the DOS prompt. Requires a mouse and VGA monitor.
+    + DIR2WEB - Reads a user-defined filespec (e.g. *.*) and creates an HTML index file.
+    + DISKINFO - Tells you technical information about the current disk drive.
+    + DPIC - Shows a bar graph representing disk space used and disk space remaining.
+    + DSKREADY - Quickly checks (takes about 1 second) to see if a diskette drive is empty or has a disk in it. Returns errorlevels.
+    + EXAMINE - Detects a program's exit method, memory usage, and return codes.
+    + LPSTAT - The PC parallel port uses a practically direct I/O port to pin connection. LPTstat shows each bit's status in real-time, and includes the bit's location in the PC address space and its corresponding pin number on a DB-25 connector.
+    + MED - Tells you whether you are currently in a "multitasking" environment (such as Windows or OS/2)
+    + MOREMEM - Shows the status of installed memory managers (EMS and XMS).
+    + PRETZEL - A manually activated screen saver (draws a pretzel like shape).
+    + PRINTER - Checks to see if any of the printers attached to your system are powered and idle, and if so, displays a message on screen.
+    + RE-BOOT - Reboots your computer with a warm, cold, or BIOS boot (this reloads the operating system). Accepts command line options or can present a menu.
+    + SATS - An extended ATTRIB command for old DOS systems that can not otherwise access the hidden and system attributes.
+    + SCREENEX - Lets you use the arrow keys to browse through the 256 screen modes. You can then stay in the mode you like.Renamed from SCREEN.COM to avoid conflict with a similar utility already in the repo
+    + SCRNINFO - Gathers screen information - mode number and classification, number of screen rows and columns, and adapter segment.
+    + SCRN - With a command line parameter, switches to one of 21 modes or displays the current mode. SCRN is similar to SCREENEX, but supports fewer modes.
+    + SD2 - A command that will issue a print screen plus an "eject" command to your printer. Renamed from SD.COM to avoid conflict with a similar utility already in the repo.
+    + SEQUENCE - Takes the files in the current directory matching a user defined specification (e.g. *.ZIP) and consecutively numbers them from 001 to a maximum of 255. Allows re-numbering provided that files are in proper order in directory.
+    + SERIAL - Tells you which serial ports (COM) ports are installed, which are active, and if attached devices are ready or not.
+    + THISDATE.EXE - Displays the current date by reading it from your system's clock. For example "Today is Tuesday, May 20, 1997". Not limited by the year 2000.
+    + VALUE - Displays a key's ASCII value and scan code.
+    + XCODE - Protects a file with a password by performing a mathematical calculation on each byte.
+    + XREN - A file renaming utility that also allows you to move files to a different location on the same disk.
 
 + [Figlet](./zip/figlet.zip) - A program that creates large characters out of ordinary screen characters.
 
