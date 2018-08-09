@@ -22,6 +22,7 @@ Most of these will end up in C:\FDOS\BIN. **Please note** that there are only so
 
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
+
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
     + Compiled with *BCC* under *FreeDOS* 1.2
@@ -32,10 +33,12 @@ if read backwards, reveals cryptic messages from the last practicing
 medicine man of the Mohicans, and says that only the faithful will
 achieve reincarnation.
 ````
+
 + [BFIND](./zip/bfind.zip) - Enhanced FIND command.
     + The BFIND.EXE program adds Boolean logic to DOS's FIND command.
     + Freeware for personal use by Bruce Guthrie.
     + See the LSM file for instructions.
+
 + [BLRMU](./zip/blrmu.zip) v22 - Bud L Rasmussen's Mini Utilities.
     + Freeware / Public Domain.
     + For more extensive descriptions of these utilities, see the appropriate .doc file for any specific utility.
@@ -83,6 +86,7 @@ achieve reincarnation.
         + REDWHT - Clear screen to wht on red
         + REDYLO - Clear screen to yellow on red
         + WHTBLK - Clear screen to black on white
+
 + [BLRUT](./zip/blrut.zip) - *Bud L Rasmussen's Utilities* 
     + 28 general purpose DOS utilities.
         + BD -- Backup Directory
@@ -115,6 +119,7 @@ achieve reincarnation.
         + SLTF -- Split Large Text Files
         + TFC -- Two File Compare
         + VLCC -- Volume Label Change, Compare
+
 + [CHANGE](./zip/change.zip) - Find-and-replace from the command line.
     + Processes change commands in files.
     + Files can be of any size and type (binary or text) and are processed quickly.
@@ -128,6 +133,7 @@ achieve reincarnation.
     + Use it when the old Acrobat for DOS chokes on a modern PDF.
     + Requires the *CDD* command - everything else is included, even a working installation of Alladdin Ghostscript.
     + I've done the SETUP already and copied the resulting batch file into /FDOS/BIN, so it should be ready to run.
+
 + [DOSUtils](./zip/dosutils.zip) - freeware utilities by Jem Berkes.
     + ALLFILES - Displays all the files in a directory (including hidden and system) and their attribute values.
     + ASK - A batch file utility, similar to DOS 6's "CHOICE", that allows user input during batch processing.
@@ -167,6 +173,7 @@ achieve reincarnation.
     + It will also produce the text in XML format.
     + See the LSM file for instructions.
     + Another utility that does the same thing is [WPPREP](./zip/wpprep.zip) by Les Leist.
+
 + [INKUTILS](./zip/inkutils.zip) - A collection of utilities.
     + DD - Allows a directory (and its contents) to be deleted. Much more friendly than DELTREE
     + DEDIT - A full-screen 4DOS/NDOS/TakeCommand file description editor.
@@ -185,9 +192,21 @@ achieve reincarnation.
     + IP - Provides a quick and easy way to see at once which TSR programs from the Inkutils are currently resident in memory.
     + INKUTILS -  A friendly, menu driven user guide covering each Inkutil with full instructions and examples.
     + Freeware by Mark Incley.
+
++ [MINITRUE](./zip/minitrue.zip) - A versatile utility which combines a fast and powerful search/replace functionality with a full-featured textviewer.
+    + GNU GPL2 software by Andrew B Pipkin. 
+    + Enables quick and efficient browsing, searching and/or modification of a large number of files.
+    + MiniTrue can operate interactively and prompt to see if a replacement should be made or it can make all desired substitutions automatically.
+    + MiniTrue can also print out matching lines in the manner of the utility *grep*.
+    + If no strings to search for are present, MiniTrue functions like the pager program *less*.
+    + Contains both 16-bit MT.EXE and 32-bit MTR.EXE versions.
+
+![Minitrue](./imgs/minitrue.png)
+
 + [NCONVERT](./zip/nconvert.zip) 6.88 - Graphics converter and resizer.
     + Nconvert is the multi-format commandline image converter for Win32, DOS, OS/2, and other platforms.
     + Type "nconvert -help" for available options.  
+
 + [OZPACK](./zip/ozpack.zip) 1.3 - Great Australian utilities.
     + Shareware by Kevin Solway (other programs by Solway on this page have been explicitly declared to be freeware. This one has not).
     + I have removed MOVE, since it is already in FreeDOS.
@@ -225,6 +244,7 @@ achieve reincarnation.
         + VGATEXT - This program will change the screen text font on VGA systems.
         + VIEWPCX - Program for displaying .PCX (PC Paintbrush format) pictures. 
         + VIEWSCR - Displays colour text screen images (with extension of .SCR) created by Text Paint or captured by the program TCAPTURE.
+
 + [OZWOZ](./zip/ozwoz.zip) - the OZWOZ Utilities.
     + A collection of 35 command-line utilities.
     + Freeware for personal, non-commercial use.
@@ -263,8 +283,18 @@ achieve reincarnation.
         + TPBEAUT -- Prepare Turbo Pascal 5.5 code for output to a printer.
         + TYPEBACK -- Type a text file line by line backwards. Good for listing logs.
         + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
+
+
++ [PRESS](./zip/press.zip) - Replacement for the DOS PAUSE command.
+    + Public Domain software by George Kerber.
+    + PRESS can display up to 18 lines of text you enter on the command line, or up to 19 lines of text from a file you specify.
+    + Text is displayed in the press box with an okay or okay/cancel button and sets the errorlevel so your batch files can make decisions based on user response.
+
+![Press](./imgs/press.png)
+
 + [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than [SHOW](#show)).
     + Freeware by Mateusz Viste
+
 + [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful DOS utilities is a collection of mainly UNIX-workalike CLI commands.
     + Freeware by Richard Breuer.
     + I have removed CAL and HEAD since they are already in FreeDOS.
@@ -290,6 +320,7 @@ achieve reincarnation.
         + TAIL - Show the last lines of a file.
         + UPCASE - Change chars in several files from lower to upper case.
         + WC - Count words, lines, and chars of several text files.
+
 + [SCREEN](./zip/screen.zip) - A full-screen message displayer.
     + Shareware by Tom Snively.
     + My experimenting suggests that your message can be 54 characters long and no single word can exceed 18 characters. 
@@ -310,11 +341,20 @@ screen p /p This is an example of the SCREEN utility.
 + [SWEEP](./zip/sweep.zip) 1.62 - Extend DOS commands recursively across directories
     + Utility to perform single or multiple DOS operations on one/*every* directory on a hard drive.
     + Freeware by Robert Briggs
+
++ [TEXREP](./zip/texrep.zip) 1.2 - Search-and-replace for text files with a simple syntax.
+    + Freeware by Stan Peters.
+    + *texrep  old:new  stale:fresh myfile.doc* changes 'old' to 'new' and 'stale' to 'fresh'.
+    + To remove ctrl-z: *texrep  \26: myfile*.
+    + Output file is *myfile.do0*
+    + Can display ASCII/numeric table. 
+
 + [TSCHEK](./zip/tschek.zip) - Standalone spell-checker by the legendary Prof Timo Salvi.
     + Free for non-commercial, non-institutional private use.
     + Not an interactive spell-checker: it simply returns a list of misspelled words.
     + I added a HUGE dictionary and a batch file to demonstrate its use.
     + English only, but the dictionaries are plain text files so you should be able to add your own language easily.
+
 + [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.

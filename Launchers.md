@@ -60,6 +60,22 @@ For installation instructions, please [return to General Index](README.md)
 
 ![lcars24](./imgs/LCARS24.jpg)
 
++ [PowerMenu](./zip/powrmenu.zip) - Simple menu system.
+    + Freeware for noncommercial use by Jem E Berkes.
+    +  This menu system presents a colorful text mode program list which the user can scroll through with a lightbar.
+    + Leaves a 1 KB stub in RAM. 
+
+![Powermenu](./imgs/powrmenu.png)
+
++ [Spectra](./zip/spectra.zip) - A very powerful GUI
+file manager for DOS with many customizable skins.
+    + Freeware by HiTech Laboratories.
+    + Supports ZIP, RAR, ARJ, PAK and LHA compression and has the ability to treat ZIP files as directories.
+    + An excellent extension registration system enables the user to perform unique operations, such as assigning multiple programs to a single extension.
+    + Many utilities are available for drive, system and memory information, as well as utilities for printing documents.
+
+![Spectra](./imgs/spectra.png)
+
 -----
 
 {: style="text-align:center"}

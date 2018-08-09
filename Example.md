@@ -9,7 +9,9 @@ The copyright status of these documents is usually unclear, but if you are the c
 Please note that these packages have no LSM file in the APPINFO folder.
 
 + [DBMS code](./zip/dbmssrc.zip) - Database-related code snippets from DBMS Magazine, 1991.
+
 + [Dr Dobbs](./zip/drdobbs.zip) - Code snippets from Dr Dobbs Magazine, 1986-1993.
+
 + [PC Magazine](./zip/pcmagsrc.zip) - Volumes 3 to 12.
     + Code snippets in BASIC, Pascal, C, Assembler, WordPerfect macros and more.
     

@@ -51,6 +51,14 @@ Now we need to GOTO that line if we selected option 0. Ideally we want to do tha
 
 Reboot and run MEM /c to admire your pristine, primitive memory setup.
 
+**3. Built-in screen blanker**
+
+No need to install an obscure TSR if all you want to do is turn off your screen after a while. Instead, just put this line in your AUTOEXEC.BAT:
+
+````
+LH IDLEDPMS 5
+````
+It uses up just 464 bytes of high memory.
 -----
 
 {: style="text-align:center"}

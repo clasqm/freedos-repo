@@ -24,6 +24,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Source included.
     + Under active development, so keep an eye out for updates.
     + Last updated 30 July 2018.
+
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
     + This package contains all the tutorials and manuals mentioned on the [website](https://www.templetons.com/brad/alice.html), a review of the Atari ST version, and a Russian translation of the website.
@@ -51,18 +52,22 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
     + Other (untested) Lisp implementations include [Adler](./zip/adler.zip) and [PDLisp](./zip/pdlisp.zip).
+
 + [Illinois Functional Programming](./zip/ifp.zip) 0.5 - An experimental functional language.
+
 + [Modula-2](./zip/modula2.zip) 4.0 - FST (Fitted) Modula-2 Version 4.0
     + This is the final release of FST Modula-2. It is  no more  than  a re-packaged  release 3.5.
     + The software was not changed to reflect the new release number.
     + The  only  changes   in  this   package  are   in  the documentation; specifically, the software license  changed, as shareware registration is no longer available.
     + See \FDOS\DEVEL\MODULA2\DOC\M2DOC.TXT for documentation.
+
 + [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
     + Produces small and tight executables. 
     + 8086, 80186+ or 80386+ code.
     + DOS real mode or DPMI protected mode.
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
     + Freeware by Rowan Crowe
+
 + [ Navratil Software System Information (NSSI)](./zip/nssi.zip) - system information tool.
 
 ![nssi](./imgs/nssi.png)
@@ -79,6 +84,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
         + Printing through Windows.
     + The remaining functionality is the same.
     + Also includes INSPECT, a hex editor.
+
 + [SNOBOL 4](./zip/snobol.zip) - A freeware implementation of the SNOBOL language by Gordon E Peterson II.
 
 + [VT Prolog](./zip/vtprolog.zip) - Very Tiny Prolog.
