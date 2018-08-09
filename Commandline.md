@@ -310,6 +310,11 @@ screen p /p This is an example of the SCREEN utility.
 + [SWEEP](./zip/sweep.zip) 1.62 - Extend DOS commands recursively across directories
     + Utility to perform single or multiple DOS operations on one/*every* directory on a hard drive.
     + Freeware by Robert Briggs
++ [TSCHEK](./zip/tschek.zip) - Standalone spell-checker by the legendary Prof Timo Salvi.
+    + Free for non-commercial, non-institutional private use.
+    + Not an interactive spell-checker: it simply returns a list of misspelled words.
+    + I added a HUGE dictionary and a batch file to demonstrate its use.
+    + English only, but the dictionaries are plain text files so you should be able to add your own language easily.
 + [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.

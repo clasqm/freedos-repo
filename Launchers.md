@@ -40,6 +40,19 @@ For installation instructions, please [return to General Index](README.md)
     + Has an advanced feature called 'QuickKey' that can help you search for a program in the menu.
     + Supports both English and Dutch (Nederlands) in full.
 
++ [Desktop 2](./zip/dsk2e.zip), also available in [German](./zip/dsk2g.zip)
+    + Freeware by [Felix Ritter](http://www.mevis-research.de/~ritter/awakeideas/desktop.html).
+    + DESKTOP is somewhat in the middle between MS-Windows and Norton Commander.
+    + Hierarchical program manager.
+    + Sophisticated file manager.
+    + Block-oriented editor.
+    + The inevitable CD player.
+    + Calculator.
+    + Screen savers.
+    + Config tool.
+
+![desktop2](./imgs/dsk2.png)
+
 + [LCARS24](./zip/LCARS24.zip) - Emulates the look and feel of a certain well-known science fiction computer system.
     + Get your sound card working before you install this.
     + Originally from [SourceForge](https://sourceforge.net/projects/lcars24/).
