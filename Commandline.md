@@ -362,6 +362,14 @@ screen p /p This is an example of the SCREEN utility.
     + Uses XMS for large files.
     + a similar program is [HLIST](./zip/hlist.zip).
 
++ [WBAT](./zip/wbat.zip) 2.50 - Dialog boxes for DOS batch files.
+    +  Freeware by Horst Schaeffer.
+    + Buttons, input fields, checkboxes, radio buttons, menues, list boxes.
+    + Free layout, INI file, comprehensive demo
+    + Mouse support in GUI box/fullscreen.
+
+![wbat](./imgs/wbat.png)
+
 ----
 
 {: style="text-align:center"}

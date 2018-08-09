@@ -7,6 +7,15 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
++ [Babble!](./zip/babble.zip) - Randomize and rearrange text.
+    + Shareware from Korenthal Associates
+    + Babble! is a toy for people who love words.
+    + Babble! takes samples of text from various sources, analyzes them for style and content, mixes them together in varying proportions, and then...well...*babbles*.
+    + On and on. Endlessly. If you take its samples away, it still babbles. That's what Babble! does. It babbles!
+    + By mixing up words and ideas, and by finding connections which are not obvious to the naked mind, Babble! is useful as a creative tool and as a cure for writer's block.
+
+![Babble](./imgs/babble.png)
+
 + [BigText](./zip/bigtext.zip) by Kevin Solway- Create self-displaying illustrated books & manuals.
     + A suite of programs that turns ordinary text files into self-contained, self- displaying executable files capable of displaying full colour illustrations in body of the text.
     + This program is specifically designed to make self-displaying books, manuals, documents, and catalogues.

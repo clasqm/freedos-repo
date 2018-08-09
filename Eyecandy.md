@@ -7,7 +7,7 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
-NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE programs.
+NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE programs. You may need to run a utility to slow your system down to use some of these. 
 
 + [Acid Warp 4.2](./zip/acidwarp.zip) - Run it and watch the pretty colors.
     + Free Software by [Noah Spurrier](http://www.noah.org/acidwarp/).
@@ -46,7 +46,18 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 ![rave](./imgs/rave.png)
 
-+ [The Stary's screensavers](./zip/strss.zip) - A collection of five screensavers in EXE format.
++ [Scroller](./zip/scroller.zip) - Science-fiction-themed eye candy by Micael Dahlquist.
+
+![Scroller](./imgs/scroller.png)
+
++ [Starfield](./zip/sf.zip) - Another classic, the one with stars coming at you.
+    +  By Christian & Behnaz.
+    + Displays Star Trek/Starwars moving space travel backgrounds on an EGA/VGA.
+    + You can vary some of the parameters while the program is running by either using the mouse or the keyboard.
+
+![starfield](./imgs/sf.png)
+
++ [Stary's screensavers](./zip/strss.zip) - A collection of five screensavers in EXE format.
     + BULGE, DOTTY, FLAMES, FURNACE and STRFIELD. 
     + Can also be used in DOS NAVIGATOR: see the documentation.
     + Freeware by Wojciech Dzierzanowski.
