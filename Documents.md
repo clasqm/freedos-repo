@@ -13,7 +13,9 @@ Please note that these packages have no LSM file in the APPINFO folder.
 + [Baker's News](./zip/bakernws.zip) - 1992-1993
     + The files in this package include the full text of press releases issued from March 1992 to Augiust 1993 and distributed electronically via the America Online New Product Information Service.
     + Each file is a standard ASCII text file, formatted for 80 column viewing or printing using your favorite utilities.
-    
+
++ [GIF News](./zip/gifnews.zip) 1990-1991 - News delivered in ... wait for it ... GIF format. 
+
 + [QBasic](./zip/qbasdoc.zip) by Faraaz Damji, Adam Colton and Gareth Richardson.
     + Originally from [https://en.wikibooks.org/wiki/QBasic](https://en.wikibooks.org/wiki/QBasic).
     + In PDF format.

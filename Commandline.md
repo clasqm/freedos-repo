@@ -350,6 +350,12 @@ screen p /p This is an example of the SCREEN utility.
     + Can display ASCII/numeric table. 
 
 + [TSCHEK](./zip/tschek.zip) - Standalone spell-checker by the legendary Prof Timo Salvi.
+
+![Timo Salvi](./imgs/timo01v.gif)
+
+<small>(This is a very old photo!)</small>
+
++ 
     + Free for non-commercial, non-institutional private use.
     + Not an interactive spell-checker: it simply returns a list of misspelled words.
     + I added a HUGE dictionary and a batch file to demonstrate its use.
