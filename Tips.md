@@ -59,6 +59,7 @@ No need to install an obscure TSR if all you want to do is turn off your screen 
 LH IDLEDPMS 5
 ````
 It uses up just 464 bytes of high memory.
+
 -----
 
 {: style="text-align:center"}

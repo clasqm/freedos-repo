@@ -127,7 +127,7 @@ achieve reincarnation.
     + Also provides ability to remove trailing spaces from text files.
     + Freeware by [Bruce Guthrie](bguthrie@doc.gov) / U.S. Dept of Commerce.
 
-+ <a name="dospdf"></a>[DOSPDF](./zip/dospdf.zip) - PDF viewer.
++ [DOSPDF](./zip/dospdf.zip) - PDF viewer.
     + An outragous hack by [Mateusz Viste "Fox"](http://mateusz.viste.free.fr/dos).
     + This crashes my DOSBox, but works (slowly!) on a real FreeDOS install.
     + Use it when the old Acrobat for DOS chokes on a modern PDF.
@@ -292,7 +292,7 @@ achieve reincarnation.
 
 ![Press](./imgs/press.png)
 
-+ [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than [SHOW](#show)).
++ [RREAD](./zip/rread.zip) - A simple, generic text file viewer (more simple than *show*).
     + Freeware by Mateusz Viste
 
 + [RUTILS](./zip/rutils.zip) v4 - Ricki's little useful DOS utilities is a collection of mainly UNIX-workalike CLI commands.
@@ -330,7 +330,7 @@ screen p /p This is an example of the SCREEN utility.
 ````
 ![screen](./imgs/screen.png)
 
-+ <a name=show></a>[SHOW](./zip/show.zip) 1.4 -  Text file Viewer.
++ [SHOW](./zip/show.zip) 1.4 -  Text file Viewer.
     + Freeware by Horst Schaeffer.
     + SHOW is a small DOS viewer for ASCII text files.
     + The program was primarily made for use in batch files, as it does not come with its own "Open" dialog and directory browser.
