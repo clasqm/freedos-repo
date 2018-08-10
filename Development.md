@@ -85,6 +85,16 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + The remaining functionality is the same.
     + Also includes INSPECT, a hex editor.
 
++ [SmallADA](./zip/smallada.zip) - A subset of the ADA language, with an IDE.
+    + Freeware for noncommercial use by George Washington University.
+    + This is a compiler/interpreter for a part of the Ada language, namely the "Pascal subset" plus the Ada tasking support.
+    + It is not intended ever to be a full Ada compiler, rather a vehicle for teaching, learning, and experimenting with concurrent programming.
+    + The compiler is quite fast, producing P-code which is then interpreted by the interpreter.
+    + The entire system runs in RAM with no disk accesses, so expect capacity to be limited. 250 statements or so can be safely accommodated.
+    + The current version is not particularly robust, rather it is a preliminary step toward effective window-oriented monitoring of task execution.
+
+![Smallada](./imgs/smallada.png)
+
 + [SNOBOL 4](./zip/snobol.zip) - A freeware implementation of the SNOBOL language by Gordon E Peterson II.
 
 + [VT Prolog](./zip/vtprolog.zip) - Very Tiny Prolog.
