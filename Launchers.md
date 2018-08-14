@@ -40,6 +40,12 @@ For installation instructions, please [return to General Index](README.md)
     + Has an advanced feature called 'QuickKey' that can help you search for a program in the menu.
     + Supports both English and Dutch (Nederlands) in full.
 
++ [Adrenal Manager](./zip/amanager.zip) 1.32 - A graphical file manager.
+    + Freeware by Jani Vuorinen.
+    + After installation, edit amanager.cfg to add the location of the helper programs.
+
+![Adrenal manager](./imgs/amanager.png)
+
 + [Desktop 2](./zip/dsk2e.zip), also available in [German](./zip/dsk2g.zip)
     + Freeware by [Felix Ritter](http://www.mevis-research.de/~ritter/awakeideas/desktop.html).
     + DESKTOP is somewhat in the middle between MS-Windows and Norton Commander.

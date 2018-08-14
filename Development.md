@@ -72,7 +72,13 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![nssi](./imgs/nssi.png)
 
-+ [PEDIT](./zip/pedit.zip) 4.00 - Programming editor.
++ [Pacific C](./zip/pacific.zip) 7.51- ANSI C compiler and IDE.
+    + Freeware for noncommercial use by HI-TECH Software.
+    +  Pacific C combines most of the features and power of the version 7 HI-TECH C Cross Compilers into a compact, easy to use package which will run on just about any MS-DOS based personal computer.
+
+![Pacific](./imgs/pacific.png)
+
++ [Pedit](./zip/pedit.zip) 4.00 - Programming editor.
     + Similar to the FreeDOS EDIT program, but more powerful, and with many additional features for programmers.
     + It includes pop-up tables, column support, macro key, undo, copy & paste to Windows applications, long filenames, word wrap, spell checker & thesaurus (English only, as far as I can make out), HTML support, and much more.
     + Freeware by Goldshell Digital Media.

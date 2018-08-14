@@ -26,6 +26,11 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 ![dcmatrix](./imgs/dcmatrix.png)
 
++ [Fractint](./zip/fractint.zip) - Fractal generating program.
+    + Definitely not a screensaver!
+
+![fractint](./imgs/fractint.png)
+
 + [Hiver](./zip/hiver.zip) - animated winter scene screensaver.
     + Freeware by Martin Savage.
     + Please see the documentation - you may need to slow this one down on modern hardware.

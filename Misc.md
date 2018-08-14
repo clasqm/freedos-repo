@@ -29,6 +29,14 @@ For installation instructions, please [return to General Index](README.md)
 
 ![wordfind](./imgs/wordfind.png)
 
++ [ Genealogical Information Manager](./zip/gim.zip) 3.19
+    + Shareware (nag-free AFAICT) by D. Blaine Wasden and Brian C. Madsen
+    + Provides all of the basic features of traditional genealogical database managers, plus many new features not available from any other product.
+    + GIM is fast and powerful, yet intuitive and easy to learn.
+    + This archive contains executables and documentation.
+
+![gim](./imgs/gim.png)
+
 + [Probert](./zip/probert.zip) - Offline encyclopaedia.
     + This is the HTML format of the FREE Probert Encyclopaedia.
     + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer at \FDOS\DOCS\PROBERT\INDEX.HTM

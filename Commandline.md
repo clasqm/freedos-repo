@@ -7,7 +7,9 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
-Most of these will end up in C:\FDOS\BIN. **Please note** that there are only so many filenames available when you have just eight characters to play with. You may already have a utility with the same name. If UNZIP asks whether to overwrite a file, think very carefully whether you want to use this file rather than the default FreeDOS one. I have tried to weed them out, but I may have missed some, and future versions of FreeDOS will no doubt contain more UNIX CLI ports.
+Most of these will end up in C:\FDOS\BIN.
+
+**Please note** that there are only so many filenames available when you have just eight characters to play with. You may already have a utility with the same name. If UNZIP asks whether to overwrite a file, think very carefully whether you want to use this file rather than the default FreeDOS one. I have tried to weed them out, but I may have missed some, and future versions of FreeDOS will no doubt contain more UNIX CLI ports.
 
 + [ACD](./zip/acd.zip) - Another Change Directory.
     + Freeware by Kevin Solway.
@@ -22,6 +24,23 @@ Most of these will end up in C:\FDOS\BIN. **Please note** that there are only so
 
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
+
++ [BATPOWER](./zip/batpower.zip) v1 - CLI utilities by various authors. This file will be used as a "Miscellaneous" container and will be updated from time to time.
+    + ANSWER - Ask a question, store response in environment variable.
+    + BROWSE - A very simple text file pager
+    + DO - combine dos commands on a single line
+    + FLIP - set capslock, numlock etc
+    + FULLDATE - Display the "full" current system date (i.e. Wednesday, January 1st, 1986)
+    + PAWS - like PAUSE, but with your own message
+    + POPDIR - return to PUSHDIR location
+    + PUSHDIR - Memorize current directory
+    + QUERY2 - set up multiple possible responses, store result in errorlevel
+    + REBEEP - Noisy version of PAUSE
+    +  SETCOLOR - Set and/or reset the foreground and background colors
+    + TIME12HR - Display the current time as a "normal" 12 hour display (i.e.  15:10:49  is displayed as  3:10:49 p.m.)
+    + TODAY - Display the "full" date and "12" hour clock on the same display line.
+    + TUNE - Play one of five tunes on PC Speaker
+    + WAITTIME - Pause PC until a specified time is reached.
 
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
@@ -360,6 +379,33 @@ screen p /p This is an example of the SCREEN utility.
     + Not an interactive spell-checker: it simply returns a list of misspelled words.
     + I added a HUGE dictionary and a batch file to demonstrate its use.
     + English only, but the dictionaries are plain text files so you should be able to add your own language easily.
+
++ [TXTTLS](./zip/txttls.zip) - A collection of 20 programs for processing of text-format tables, general text filtering, and various other purposes.
+    + Freeware for noncommercial use by Rune Berg.
+    + Programs for processing tables:
+        + TCOLS - project and transform table columns
+        + TROWS - select table rows that fulfill given conditions
+        + TSORT - sort table on result of projection/transform
+        + TUNIQ - print rows that evaluate uniquely on tcols-style expressions
+        + TAND - print rows present in two tables
+        + TJOIN - database-style join of two tables
+    + Programs for copying part of files:
+        + FIRST - copy first n lines of file
+        + LAST - copy last n lines of file
+        + LINES - copy specifically numbered lines of file
+        + MIDDLE - copy middle part of file
+    + Other text filters:
+        + EOL - convert between DOS and UNIX end-of-line styles
+        + XTABS - expand tabs to spaces
+        + ITABS - insert tabs in place of spaces
+    + Miscellaneous:
+        + SUM - sum up integers in file
+        + ACHO - colourful echo
+        + CLOSURE - compute closure of graph of text nodes
+        + CREATE - create empty files
+        + DUMP - dump file contents in hex/decimal/octal
+        + NUM1 - number lines in text file
+        + TFINFO - print text file content statistics
 
 + [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.

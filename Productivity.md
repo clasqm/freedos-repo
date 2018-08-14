@@ -147,6 +147,15 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + CAUTION: This program features 128-bit AES encryption, which might be illegal in your country.
     + Run this program from the DOS prompt the first time, so that it can create its database. After that, you can run it from a launcher.
 
++ [PC-File](./zip/pcfile.zip) 5.01 - Flat-file Database manager.
+    + Freeware by Jim Button.
+    + Uses the DBASE format - its DBF files can be read by LibreOffice Calc!
+    + Requires 450K available conventional RAM.
+    + Will use *Expanded Memory* if it is available.
+    + See \FDOS\PROGS\PCFILE\PCFBOOK.TXT for instructions.
+
+![PC-File](./imgs/pcfile.png)
+
 + [PC Word](./zip/pcword.zip) 1.90: A fast, compact, flexible text processor
     + Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.
     + Freeware by Andrew Sprott.
