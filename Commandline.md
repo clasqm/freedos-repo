@@ -25,18 +25,25 @@ Most of these will end up in C:\FDOS\BIN.
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
 
-+ [BATPOWER](./zip/batpower.zip) v1 - CLI utilities by various authors. This file will be used as a "Miscellaneous" container and will be updated from time to time.
++ [BATPOWER](./zip/batpower.zip) v2 - CLI utilities by various authors. This file will be used as a "Miscellaneous" container and will be updated from time to time.
+    + ADJFDATE - Adjust the creation date of files by a specified number of days.
     + ANSWER - Ask a question, store response in environment variable.
+    + BFC - Compares binary files in the same way as the DOS command "FC /B" but much faster.
+    + BLACKOUT - No CONFIG.SYS/AUTOEXEC.BAT screen output.
+    + BOX - Like ECHO with a line box around the text.
     + BROWSE - A very simple text file pager
     + DO - combine dos commands on a single line
     + FLIP - set capslock, numlock etc
     + FULLDATE - Display the "full" current system date (i.e. Wednesday, January 1st, 1986)
+    + IFNUMBER - The FreeDOS command "if" can not do numeric predication like bigger than, smaller than, and so on. IFNUMBER can.
     + PAWS - like PAUSE, but with your own message
     + POPDIR - return to PUSHDIR location
     + PUSHDIR - Memorize current directory
     + QUERY2 - set up multiple possible responses, store result in errorlevel
     + REBEEP - Noisy version of PAUSE
-    +  SETCOLOR - Set and/or reset the foreground and background colors
+    +  SETCOLOR - Set and/or reset the foreground and background colors.
+    + TEST - returns true or false according to a conditional expression.
+    + TESTIF -  Tests the system and returns dos error codes that can be used to control the execution of .BAT files.
     + TIME12HR - Display the current time as a "normal" 12 hour display (i.e.  15:10:49  is displayed as  3:10:49 p.m.)
     + TODAY - Display the "full" date and "12" hour clock on the same display line.
     + TUNE - Play one of five tunes on PC Speaker

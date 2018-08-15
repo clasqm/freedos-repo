@@ -16,6 +16,11 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 ![acidwarp](./imgs/acidwarp.jpg)
 
++ [BigClock](./zip/bigclock.zip) - Two different ways to turn your computer into a fullscreen digital clock
+    + Public Domain (?) by Jorgen Dybdahl.
+
+![BigClock](./imgs/bigclock.png)
+
 + [DeciMatrix](./zip/dcmatrix.zip) - Matrix-like screensaver.
     +  © [Bruno Félix Rezende Ribeiro](https://oitofelix.github.io), released under GNU GPL v3.
     + DeciMatrix is a program designed to decode the Matrix into decimal.

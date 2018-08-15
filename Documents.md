@@ -27,11 +27,17 @@ For interactive programs containing similar content, see the [tutorials](Tutoria
 
 + [GIF News](./zip/gifnews.zip) 1990-1991 - News delivered in ... wait for it ... GIF format. 
 
++ [Pascal programming](./zip/pascprog.zip) by TutorialsPoint.
+    + In PDF format. 
+
 + [QBasic](./zip/qbasdoc.zip) by Faraaz Damji, Adam Colton and Gareth Richardson.
     + Originally from [https://en.wikibooks.org/wiki/QBasic](https://en.wikibooks.org/wiki/QBasic).
     + In PDF format.
     + A similar (online-only) resource is [Programmed Lessons in QBasic](http://chortle.ccsu.edu/qbasic/index.html)
-    
+
++ [QBasic Programming without stress](./zip/qbstress.zip) by Akinola A Adenyi.
+    + in PDF format.
+
 + [The A to Z of C](./zip/a2zofc.zip), *The evolving non-profit book on C/DOS/Turbo C programming*. By K. Joseph Wesley & R. Rajesh Jeba Anbiah (c) 2001
     + Originally from [http://guideme.itgo.com/atozofc/](http://guideme.itgo.com/atozofc/).
     + A complete course in C programming for DOS, focusing on Turbo C.
