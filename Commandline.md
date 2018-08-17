@@ -67,7 +67,7 @@ Most of these will end up in C:\FDOS\BIN.
     + TXT2HTM - Convert a text file to a basic HTML page.
     + UX2DOS - Convert Unix-style text files (LF) to DOS Format (CR+LF).
     + WAITTIME - Pause PC until a specified time is reached.
-    + XRAY - find text strings inside binary files. Alternatively use SEARCH or RT.
+    + XRAY - find text strings inside binary files. Alternatively use SRCH or RT.
 
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
