@@ -25,29 +25,49 @@ Most of these will end up in C:\FDOS\BIN.
 + [ANTIWORD](./zip/antiword.zip) - Extract text and (hopefully) images from a Microsoft Word .doc (not .docx) file.
     + GNU GPL v2 licensed.
 
-+ [BATPOWER](./zip/batpower.zip) v2 - CLI utilities by various authors. This file will be used as a "Miscellaneous" container and will be updated from time to time.
++ [BATPOWER](./zip/batpower.zip) v3 - CLI utilities by various authors. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
+    + 4DIRSIZE - find out how much disk space directories use up.
     + ADJFDATE - Adjust the creation date of files by a specified number of days.
     + ANSWER - Ask a question, store response in environment variable.
     + BFC - Compares binary files in the same way as the DOS command "FC /B" but much faster.
     + BLACKOUT - No CONFIG.SYS/AUTOEXEC.BAT screen output.
-    + BOX - Like ECHO with a line box around the text.
-    + BROWSE - A very simple text file pager
+    + BOX - Like ECHO but with a single-line box around the text. To do the same thing with a double-line box, use DBOX instead.
+
+![box and dbox](./imgs/dbox.png)
+
++ 
+    + BROWSE - A very simple text file pager.
+    + DATRANGE - Returns errorlevel 1 if system date falls within a specified range of dates.
     + DO - combine dos commands on a single line
-    + FLIP - set capslock, numlock etc
-    + FULLDATE - Display the "full" current system date (i.e. Wednesday, January 1st, 1986)
+    + FLIP - set capslock, numlock etc.
+    + FORK - Redirect output to both the screen AND a file.
+    + FPATH - locates the directory of an executable file the same way that COMMAND.COM would do - searching in the current directory first, and then in each directory of the PATH variable. Use to check that a utility exists on a user's system.
+    + FULLDATE - Display the "full" current system date (i.e. Wednesday, January 1st, 1986).
+    + HHMM - Displays the system time as HH:MM, *without CrLf*, in 24 hour format.  You can thus pipe it into files: *HHMM.com >> MyFile.Txt*. For the system date, use YYMMDD instead.
     + IFNUMBER - The FreeDOS command "if" can not do numeric predication like bigger than, smaller than, and so on. IFNUMBER can.
+    + INPUT - Get console input from within a  batch file.
+    + KEYPRESS - A non-TSR keyboard stuffer. Note that programs like this may not work in graphics mode.
+    + MPAUSE - Like PAUSE, but mouse-aware.
+    + NUKE - DELTREE on steroids. BE CAREFUL with this one!
     + PAWS - like PAUSE, but with your own message
-    + POPDIR - return to PUSHDIR location
-    + PUSHDIR - Memorize current directory
+    + POPDIR - return to PUSHDIR location.
+    + PUSHDIR - Memorize current directory.
+    + QEM - Quotes in the style of E-mails by prefacing the '> '  mark to the start of every line in a text file.
     + QUERY2 - set up multiple possible responses, store result in errorlevel
     + REBEEP - Noisy version of PAUSE
+    + REN2DATE - Rename file to today's date
+    + REN2NUM - Sequentially rename files to a numerical pattern.
     +  SETCOLOR - Set and/or reset the foreground and background colors.
+    + STV -  Smooth Text Viewer for DOS. 100% assembly code, and runs fast!
     + TEST - returns true or false according to a conditional expression.
     + TESTIF -  Tests the system and returns dos error codes that can be used to control the execution of .BAT files.
     + TIME12HR - Display the current time as a "normal" 12 hour display (i.e.  15:10:49  is displayed as  3:10:49 p.m.)
     + TODAY - Display the "full" date and "12" hour clock on the same display line.
-    + TUNE - Play one of five tunes on PC Speaker
+    + TUNE - Play one of five tunes on PC Speaker.
+    + TXT2HTM - Convert a text file to a basic HTML page.
+    + UX2DOS - Convert Unix-style text files (LF) to DOS Format (CR+LF).
     + WAITTIME - Pause PC until a specified time is reached.
+    + XRAY - find text strings inside binary files. Alternatively use SEARCH or RT.
 
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).

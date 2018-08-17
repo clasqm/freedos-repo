@@ -99,6 +99,18 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![infopal](./imgs/infopal.png)
 
++ [Intermem Professional](./zip/impro.zip) - Schedule keeper / diary
+    + Freeware by  Jeff Goke
+    + INTERMEM Professional reminds you of upcoming events.
+    + Also warnings may appear reminding you an event is scheduled to occur in x days.
+    + If you wish to enter/edit an event type *IMPRO* at the DOS prompt to run INTERMEM.
+    + IMPRO uses a DOS GUI Interface to make INTERMEM as easy to use as possible.
+    + If you just wish to see what is coming up, type *IMPRO -a*.
+    + In this FreeDOS package, if you want to put *IMPRO -a* in AUTOEXEC.BAT, use the CALL command, or nothing after it will be processed.
+    + The first time you run INTERMEM -a it will complain about overdue appointments. Just click on "Done and Update". Then enter the main program and weed out the ones you don't want.
+
+![impro](./imgs/impro.png)
+
 + [Medit](./zip/medit.zip) 1.7.1 - A free, graphic, multi-window, cross-platform text editor.
     + Copyrighted but free-to-use software by Vincenzo Morello.
     + Multi window editing.
