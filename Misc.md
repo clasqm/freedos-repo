@@ -7,6 +7,20 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
++ [ATI Fonts](./zip/atifonts.zip)- 33 little COM programs that change your DOS screen font.
+    + Found on an old shareware CD-ROM with no indication of authorship or license conditions.
+    + MODE CO80 will revert to the normal display when you are tired of them.
+    + This package will install to \FDOS\BIN\SCRFONTS.
+    + Most of these do not carry over into text-mode applications. But some do. You will just have to experiment on your system.
+````
+C:
+CD \FDOS\BIN
+.\SCRFONTS\SCRIBBLE.COM
+EDIT ..\APPINFO\ATIFONTS.LSM
+````
+
+![Atifonts](./imgs/atifonts.png)
+
 + [Babble!](./zip/babble.zip) - Randomize and rearrange text.
     + Shareware from Korenthal Associates
     + Babble! is a toy for people who love words.
@@ -38,8 +52,8 @@ For installation instructions, please [return to General Index](README.md)
 ![gim](./imgs/gim.png)
 
 + [Probert](./zip/probert.zip) - Offline encyclopaedia.
-    + This is the HTML format of the FREE Probert Encyclopaedia.
-    + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or viewer at \FDOS\DOCS\PROBERT\INDEX.HTM
+    + This is the FREE Probert Encyclopaedia in HTML format.
+    + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or text-mode HTML viewer at \FDOS\DOCS\PROBERT\INDEX.HTM
     + Freeware by [Matthew Probert](probertm@pins.co.uk)
 
 ![probert](./imgs/probert.png)

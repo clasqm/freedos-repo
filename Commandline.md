@@ -69,6 +69,20 @@ Most of these will end up in C:\FDOS\BIN.
     + WAITTIME - Pause PC until a specified time is reached.
     + XRAY - find text strings inside binary files. Alternatively use SRCH or RT.
 
++ [BATPOWER 2](./zip/batpwr2.zip ) v1 - DOS Commandline utilities by various authors. Please note that this is is the current "Miscellaneous" container and that it will be updated from time to time. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
+    + ASKME - A simple command line utility to use in batch files to prompt for Y/N questions, and have the DOS Errorlevel set on exit.
+    + BIGDIR - Scans an entire disk, and outputs the names and paths of all the files larger than a given size.
+    + COM2EXE - convert .COM to .EXE files.
+    + CTRLCAPS - Use Caps Lock as CTRL.
+    + FIXCAPS - Fix Caps Lock to avoid tEXT tHAT lOOKS lIKE tHIS.
+    + HEX - A little hex editor. 
+    + MAKELOG - Create or append to log files.
+    + MARK - Insert codes for system properties into an ECHO-like command.
+    + PAYDAY - a CAL workalike that prints a calendar for the current month with today's date noted with an asterisk.
+    + SHF2GL - Two tiny programs to make the shift keys "sticky," i.e., make them toggles instead of having to be held down.  LSHIFTGL works on left shift, RSHIFTGL on right shift.
+    + SPACE - get data and a bar graph on available disk space.
+     
+
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
     + Compiled with *BCC* under *FreeDOS* 1.2

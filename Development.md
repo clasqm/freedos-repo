@@ -91,6 +91,16 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + The remaining functionality is the same.
     + Also includes INSPECT, a hex editor.
 
++ [Rational Pilot (RAP)](./zip/rap.zip) - A batch file replacement language
+    + Freeware by the Summer Institute of Linguistics.
+    + It is a full-featured programming language designed for building user-friendly applications from a collection of stand-alone programs.
+    + It can be viewed as a replacement for MS-DOS's batch processor which offers the following added features:
+        + extensive string-handling primitives,
+        + structured programming constructs,
+        + built-in mechanism for displaying menus and handling user's responses,
+        + and a wide range of primitives for testing the state of the file system so that user-proof programs can be written.
+    + A common library of RAP subroutines is also included.
+
 + [SmallADA](./zip/smallada.zip) - A subset of the ADA language, with an IDE.
     + Freeware for noncommercial use by George Washington University.
     + This is a compiler/interpreter for a part of the Ada language, namely the "Pascal subset" plus the Ada tasking support.

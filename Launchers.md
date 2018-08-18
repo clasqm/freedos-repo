@@ -59,12 +59,68 @@ For installation instructions, please [return to General Index](README.md)
 
 ![desktop2](./imgs/dsk2.png)
 
++ [ExeMenu](./zip/exemenu.zip) - Simple menuing system.
+    + THIS WILL OVERWRITE THE EXEMENU THAT COMES WITH FREEDOS! And I'm OK with that. It is a much more versatile program.
+    + Free software by J C Kessels. Source included.
+    + EXEMENU will display a menu with all the programs in a directory.
+    + You select one with the cursor or character keys, and press Enter.....the program is started. 
+    + When you quit the program, you automatically return to the EXEMENU.
+    + EXEMENU is designed to be used by the non-tech user. Power users have Norton-Commander, PC-tools, and many more. But I have frequently found those packages to be too complicated for the majority of the PC users!Therefore EXEMENU has:
+        + No documentation (well, almost). Run and use!
+        + No settings.
+        + No function keys.
+        + No mouse.
+        + No pull-down or pop-up menu's.
+        + Easy screen layout.
+        + Zero installation: it will run anywhere.
+    + EXEMENU recognises EXE, COM, BAT and BAS programs.
+    + You only see programs that can be started (lowercase), and subdirectories (uppercase). Nothing else.
+    + BAS programs (Basic) will only be visible and can only be started if a basic interpreter is found in the path when EXEMENU is started:GWBASIC.EXE, GWBASIC.COM, BASIC.EXE, BASIC.COM, BASICA.EXE, or BASICA.COM.
+    + You can optionally specify a path with EXEMENU:
+````
+EXEMENU C:\FDOS\LINKS
+````
++ 
+    + This will cause EXEMENU to startup with that path.
+    + If you don't specify a path, then EXEMENU will startup with the current directory.
+
+![exemenu](./imgs/exemenu.png)
+
++ [IBM Handshaker (Connect)](./zip/cn.zip) - A DOS shell in a class of its own.
+    + File Manager: Movable, sizable, and iconize-able directory panels
+    + Drag and drop copy and move capability.
+    + One prominent feature is the "unfold subdirectories" option which allows you to display a single virtual directory of files contained in multiple selected directories and their subdirectories. 
+    + Connect displays popular archives as directories, displays file descriptions, and has Win9x LFN and clipboard support. 
+    + Includes a good file finder which can search in archives.
+    + Viewers for text, dbase, and html (with hyperlink navigation).
+    Impressive text editor handles large files; permits multi-file text search / replace with regular expressions. Capable of Drag and Drop of text between *different* editing windows.
+    + Capable hex editor (can hex-edit multiple files).
+    + Other: VT100 terminal (with X-, Y-, Z-modem, Kermit protocol support), phonebook, dialer, alarm, print spooler, CD player, programming features, and lots more.
+    + Y2K compliant.
+    + Freeware.
+    + But ... unfortunately the help files are only in Russian. And it is a big, complicated program. It will take a while to get everything set up.
+
+![CN](./imgs/cn.png)
+
 + [LCARS24](./zip/LCARS24.zip) - Emulates the look and feel of a certain well-known science fiction computer system.
     + Get your sound card working before you install this.
     + Originally from [SourceForge](https://sourceforge.net/projects/lcars24/).
     + GPL v2, source included.
 
 ![lcars24](./imgs/LCARS24.jpg)
+
++ [Menu X](./zip/menux.zip) - Simple menuing system.
+    + Freeware by Yijun Ding.
+    The MENUX.COM program itself is all you need to setup a menu system.
+    + The first time, you type "menux" to create a batch file MENU.BAT, which will reside in the same directory as MENUX.COM.
+    + From now on, you can use or update your menu system by typing "menu".
+    + You may also want to use the built in screen saver feature. Type "menux 3" to setup to blank the screen after 3 minutes of inactivity of keyboard.  This is usually done when you first run "menux". 
+    + You can also choose to use a different menu name like UTILS, SYSTEM etc. For example, you would like the menu system to be activated by the command "utils" (batch file name UTILS.BAT), just rename or copy MENUX.COM to UTILSX.COM and follow the above instructions.
+    + Packager's note: The first time I ran this it would only respond to the RIGHT Control key. The [problem miraculously disappeared when I started running it from the batch file.
+
+![MenuX](./imgs/menux.png)
+
+
 
 + [PowerMenu](./zip/powrmenu.zip) - Simple menu system.
     + Freeware for noncommercial use by Jem E Berkes.
