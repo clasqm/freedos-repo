@@ -46,6 +46,9 @@ For interactive programs containing similar content, see the [tutorials](Tutoria
 + [The Pascal Newsletter](./zip pnldoc.zip) - 1990 to 1992.
     + Focuses on Turbo Pascal.
 
++ [The Regina ReXX Interpreter](./zip/reginadc.zip) - by Anders Christensen.
+    + In PDF format.
+    
 + [Zip Magazine](./zip/zipmag.zip) - Online magazine c. 1988.
 
 -----

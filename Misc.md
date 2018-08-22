@@ -51,12 +51,25 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![gim](./imgs/gim.png)
 
++ [Mr Double Scan](./zip/mr2s.zip) 1.13.01 - Anti Virus Scanner
+    + Mr2S detects more than 36.000 different viruses, including mIRC, Bat, Win, Polys VBS (VBS.Loveletter:), Macro, DOS and Boot viruses.
+    + Freeware from Gega Software, Andreas Haak and ROSE SWE.
+    + Released: 17-Sept-2000
+    + Usage:  *mr2s drive:\path2scan log.file*
+
 + [Probert](./zip/probert.zip) - Offline encyclopaedia.
     + This is the FREE Probert Encyclopaedia in HTML format.
     + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or text-mode HTML viewer at \FDOS\DOCS\PROBERT\INDEX.HTM
     + Freeware by [Matthew Probert](probertm@pins.co.uk)
 
 ![probert](./imgs/probert.png)
+
++ [SkyGlobe](./zip/skyglobe.zip) 3.6 - Award-winning Top Ten PC planetarium program
+    + SkyGlobe has over 29,000 stars, constellation lines, the planets, Sun and Moon, the Milky Way, the Messier Objects, and much more.
+    + It is the fastest program of its kind available, and uses the mouse or convenient command keys. 
+    + With GIF image display, and support for up to 250,000 stars!
+
+![SkyGlobe](./imgs/skyglobe.png)
 
 -----
 

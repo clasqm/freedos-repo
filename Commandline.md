@@ -448,6 +448,10 @@ screen p /p This is an example of the SCREEN utility.
         + NUM1 - number lines in text file
         + TFINFO - print text file content statistics
 
++ [UXUTLS](./zip/uxutls.zip) 2.3 - A collection of DOS ports of common UNIX utilities.
+    + Originally part of a larger collection, but I weeded out the ones already ported to FreeDOS, or present in a different collection on this repository. 
+    + What was left was: BASENAME, BMGREP, CDIFF, CGREP, CMP, COMM, CPIO, CSPLIT, DF, DIRNAME, EXPR, FGREP, FOLD, FSTAT, MV, OD, PRINTARG, PRINTENV, SETSCHAR, SPLIT, SYM, TPUT, UNIQ.
+
 + [VIEWHT](./zip/viewht.zip) - Quickie HTML viewer and converter.
     + Freeware by Kevin Solway.
     + A very useful tool for viewing web documents off-line, with hypertext linking and colours.

@@ -159,6 +159,11 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + CAUTION: This program features 128-bit AES encryption, which might be illegal in your country.
     + Run this program from the DOS prompt the first time, so that it can create its database. After that, you can run it from a launcher.
 
++ [PC-Calc](./zip/pccalc.zip) 2.0 - Spreadsheet.
+    + Shareware by Jim Button.
+
+![PC-Calc](./imgs/pccalc.png)
+
 + [PC-File](./zip/pcfile.zip) 5.01 - Flat-file Database manager.
     + Freeware by Jim Button.
     + Uses the DBASE format - its DBF files can be read by LibreOffice Calc!
