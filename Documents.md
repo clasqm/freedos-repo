@@ -25,6 +25,8 @@ For interactive programs containing similar content, see the [tutorials](Tutoria
     + The files in this package include the full text of press releases issued from March 1992 to Augiust 1993 and distributed electronically via the America Online New Product Information Service.
     + Each file is a standard ASCII text file, formatted for 80 column viewing or printing using your favorite utilities.
 
++ [C Tutor](./zip/ctutor.zip) - Shareware by Coronado Enterprises
+
 + [GIF News](./zip/gifnews.zip) 1990-1991 - News delivered in ... wait for it ... GIF format. 
 
 + [Pascal programming](./zip/pascprog.zip) by TutorialsPoint.

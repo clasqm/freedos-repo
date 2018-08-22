@@ -7,7 +7,7 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
-This page contains various interactive tutorial programs. For static file collections containing similar content, see the [documents](Documents.md) page. 
+This page contains various *interactive* tutorial programs. For static file collections containing similar content, see the [documents](Documents.md) page. 
 
 -----
 

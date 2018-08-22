@@ -21,7 +21,11 @@ Please note that these packages have no LSM file in the APPINFO folder.
 
 + [Micro Cornucopia](./zip/microcrn.zip) - Sources from Micro Cornucopia Magazine.
 
++ [Microsoft Systems Journal](./zip/msjrnl.zip) Vols 3-2 -  Code snippets from Microsoft Systems Journal.
+
 + [PC Magazine](./zip/pcmagsrc.zip) Vols 3-12 - Code snippets in BASIC, Pascal, C, Assembler, WordPerfect macros and more.
+
++ [Programmer's Journal](./zip/progjorn.zip) Vols 5-9 - Code snippets from Programmer's Journal.
 
 + [TS Batch](./zip/tsbat.zip) - A masterclass in batch file programming by Prof Timo Salvi.
 
