@@ -99,6 +99,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![infopal](./imgs/infopal.png)
 
++ [InMagic Plus](./zip/inmagic.zip) - Database Manager
+    + Formerly Commercial software by InMagic Inc, now [Freeware](https://www.thefreelibrary.com/Inmagic+gives+away+DOS+products+as+freeware%3B+Challenges+Microsoft,...-a019160495).
+    + InMagic Plus is designed to help you build, maintain, and use text databases.
+    + Included with InMagic are all the tools you need to: define a database, load and retrieve information, create reports, keep your databases healthy, and more.
+    + This was a serious product in its time: it sold for around $1000 and dominated the libraries market.
+
+![inmagic](./imgs/inmagic.png)
+
 + [Intermem Professional](./zip/impro.zip) - Schedule keeper / diary
     + Freeware by  Jeff Goke
     + INTERMEM Professional reminds you of upcoming events.

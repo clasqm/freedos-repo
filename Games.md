@@ -7,6 +7,13 @@ For installation instructions, please [return to General Index](README.md)
 
 -----
 
+Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the most simple little games up here. This is the least developed section of the repository and probably always will be.
+
++ [Mine Mayhem](./zip/minemay.zip)  - Minesweeper clone.
+    + Freeware by Jason Hood.
+
+![minemayhem](./imgs/minemay.png)
+
 + [ShuffleV](./zip/shufflev.zip) 1.1 - Tile shuffling game.
     + Freeware for non-commercial purposes by J R Ferguson.
     + Click a number joining the empty field to shift it, or use the cursor keys.
