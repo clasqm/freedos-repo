@@ -64,6 +64,13 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![probert](./imgs/probert.png)
 
++ [PTS Disk Editor](./zip/ptsde.zip) - Advanced hex editor and partition rescue program.
+    + PTS DiskEditor is a program that allows you direct viewing and editing of hard drives.
+    + This may be useful in various situations, for example, in order to rescue important information from damaged drives or logical disks.
+    + A similar program is [The Partition Resizer](./zip/presize.zip).
+
+![ptsde](./imgs/ptsde.gif)
+
 + [SkyGlobe](./zip/skyglobe.zip) 3.6 - Award-winning Top Ten PC planetarium program
     + SkyGlobe has over 29,000 stars, constellation lines, the planets, Sun and Moon, the Milky Way, the Messier Objects, and much more.
     + It is the fastest program of its kind available, and uses the mouse or convenient command keys. 

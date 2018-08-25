@@ -344,6 +344,11 @@ achieve reincarnation.
         + TYPEBACK -- Type a text file line by line backwards. Good for listing logs.
         + TYPEDW4 -- Types the DisplayWrite 4 EBCDIC file specified.
 
++ [PKZIP/PKUNZIP](./zip/pkzip.zip) 2.50 - Compressor / decompressor.
+    + The most famous compression utility in history.
+    + The Info-Zip workalikes native to FreeDOS do a fine job, but sometimes you just need this one, such as when it is hardcoded into another application.
+    + Freeware for single-user, noncommercial use, if you read the licensing conditions carefully.
+
 
 + [PRESS](./zip/press.zip) - Replacement for the DOS PAUSE command.
     + Public Domain software by George Kerber.
