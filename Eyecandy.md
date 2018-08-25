@@ -71,6 +71,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
     + BULGE, DOTTY, FLAMES, FURNACE and STRFIELD. 
     + Can also be used in DOS NAVIGATOR: see the documentation.
     + Freeware by Wojciech Dzierzanowski.
+    + If you like these, you can get some more [right here](./zip/moress.zip).
 
 ![strss](./imgs/strss.png)
 

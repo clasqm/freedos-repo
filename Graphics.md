@@ -36,6 +36,12 @@ For installation instructions, please [return to General Index](README.md)
 
 ![Mvppaint](./imgs/mvppaint.gif)
 
++ [OGE](./zip/oge.zip) - Bitmap editor.
+    + All documentation in Czech (I think).
+    + GNU GPL v2.
+
+![OGE](./imgs/oge.png)
+
 + [PictView](./zip/pictview.zip)1.94 - A mouse-driven viewer and converter of images.
     + It runs on all EGA, VGA,  SuperVGA and  Extended VGA  video  adapters.
     + PictView is able to read images  stored in approximately  40 graphics file formats and convert them into  another format.
