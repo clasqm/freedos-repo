@@ -119,6 +119,16 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![impro](./imgs/impro.png)
 
++ [Matrix](./zip/matrix.zip) 2.0 - A freeware DOS spreadsheet program.
+    + Matrix features mouse control, pull-down menus, printer support, a clipboard, cut, copy, paste, formula replication across rows and columns.
+    + Many of the usual financial, statistical, and other functions found in Lotus 1-2-3 are supported, such as FV, PV, NPV IRR, RATE etc.
+    + Source code included.
+    + Also contains LTOM, a utility to convert WKS1 sheets to Matrix format.
+    + Hardware requirements: At least a 386 microprocessor with 2 MB of extended or expanded memory (If using extended memory make sure the auto switch is on.)
+    + If you have 16MBs to spare then you can have up to 800 lines for the main sheet, and another 800 lines for the clipboard.
+
+![Matrix](./imgs/matrix.png)
+
 + [Medit](./zip/medit.zip) 1.7.1 - A free, graphic, multi-window, cross-platform text editor.
     + Copyrighted but free-to-use software by Vincenzo Morello.
     + Multi window editing.
@@ -184,10 +194,19 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 + [PC Word](./zip/pcword.zip) 1.90: A fast, compact, flexible text processor
     + Uses HyperText functions to facilitate links for Table of Contents and Index, with automatic page numbering.
     + Freeware by Andrew Sprott.
-    + Also includes RSORT, a text file sorting utility based on the sorting functions inPcWord
-    + RSORT is self explained and is ready to run. Source code is included.
+    + Also includes RSORT, a text file sorting utility based on the sorting functions in PcWord. RSORT is self explained and is ready to run. Source code is included.
 
 ![pcword](./imgs/pcword.png)
+
++ [ProText](./zip/protext.zip) - Word Processor
+    + One of the most successful British word processor programs, Protext has sold over 30,000 copies.
+    + Originally written for the Amstrad CPC464, Protext was subsequently released for the Amstrad PCW8256, the PC, the Atari ST, Commodore Amiga and the Acorn Archimedes.
+    + When Arnor closed in 1995, a group of Protext users were not prepared to let it go. They formed a partnership with the copyright owners and original programmers and relaunched the program in a new [freeware version (v6.7)](https://web.archive.org/web/20140825104412/www.tigerteam.co.uk/protext/) for the PC.
+    + Protext remains fast and very easy to use.
+    + This package contains both the 16-bit (PROTEXT) and the 32-bit (PROTEXT3) versions of the program. Try the 32-bit version first. If you get memory problems (1MB required), try the other one.
+    + English, French and German dictionaries included.
+
+![ProText](./imgs/protext.png)
 
 + [Rebel](./zip/rebel.zip) - character mode spreadsheet without mouse support.
     + REBEL 3.x has been developed to satisfy the demand for a spreadsheet that offers unlimited customization potential.

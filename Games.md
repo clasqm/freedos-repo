@@ -9,6 +9,12 @@ For installation instructions, please [return to General Index](README.md)
 
 Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the most simple little games up here. This is the least developed section of the repository and probably always will be.
 
++ [Mahjong!](./zip/mahjong.zip) -  Based on the popular Chinese tile game Mahjong and attempts to closely approximate play of that game on your PC.
+    + Shareware.
+
+![Mahjong](./imgs/mahjong.png)
+
+
 + [Mine Mayhem](./zip/minemay.zip)  - Minesweeper clone.
     + Freeware by Jason Hood.
 

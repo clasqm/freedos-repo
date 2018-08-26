@@ -11,6 +11,16 @@ Most of these will end up in C:\FDOS\BIN.
 
 **Please note** that there are only so many filenames available when you have just eight characters to play with. You may already have a utility with the same name. If UNZIP asks whether to overwrite a file, think very carefully whether you want to use this file rather than the default FreeDOS one. I have tried to weed them out, but I may have missed some, and future versions of FreeDOS will no doubt contain more UNIX CLI ports.
 
++ [1DIR Pro](./zip/1dir.zip) 2.1 - It's DIR...on steroids.
+    + Powerful color dir command with LFN support.
+    + Files can be located using multiple patterns along with size, date, or attribute filtering.
+    + Displays the size of subdirectories.
+    + Generates batch files which perform commands on each file listed.
+    + Auto detects number of rows.
+    + Subdir searching and redirectable output.
+    + Fully customizable!
+    + Shareware. 
+
 + [ACD](./zip/acd.zip) - Another Change Directory.
     + Freeware by Kevin Solway.
     + ACD is used to switch quickly between directories across any drive. You simply invoke ACD and give it the full or partial name of the directory you wish to change to.
@@ -69,19 +79,27 @@ Most of these will end up in C:\FDOS\BIN.
     + WAITTIME - Pause PC until a specified time is reached.
     + XRAY - find text strings inside binary files. Alternatively use SRCH or RT.
 
-+ [BATPOWER 2](./zip/batpwr2.zip ) v1 - DOS Commandline utilities by various authors. Please note that this is is the current "Miscellaneous" container and that it will be updated from time to time. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
++ [BATPOWER 2](./zip/batpwr2.zip ) v2 - DOS Commandline utilities by various authors. Please note that this is is the current "Miscellaneous" container and that it will be updated from time to time. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
+    + AAVIRUS - A virus checker.
+    + ADVSET - Advenced version of SET.
+    + ALIGN - Aligns data in ASCII text files into neat columns.
+    + Set foreground or background colors and do keyboard reassignment using ANSI driver for DOS (NANSI.SYS in FreeDOS).
+    + ARC2ARC - Archive converter. Requires external de/archiving programs.
     + ASKME - A simple command line utility to use in batch files to prompt for Y/N questions, and have the DOS Errorlevel set on exit.
     + BIGDIR - Scans an entire disk, and outputs the names and paths of all the files larger than a given size.
     + COM2EXE - convert .COM to .EXE files.
     + CTRLCAPS - Use Caps Lock as CTRL.
+    + FA -  A file analyzer that FA recognizes many
+file packers, compilers, encruptors etc.
     + FIXCAPS - Fix Caps Lock to avoid tEXT tHAT lOOKS lIKE tHIS.
-    + HEX - A little hex editor. 
+    + HEX - A little hex editor.
+    + IDARC - Identify compressed files from within batch files.
     + MAKELOG - Create or append to log files.
     + MARK - Insert codes for system properties into an ECHO-like command.
     + PAYDAY - a CAL workalike that prints a calendar for the current month with today's date noted with an asterisk.
+    + PNGCRUSH - Reduce size of PNG files.
     + SHF2GL - Two tiny programs to make the shift keys "sticky," i.e., make them toggles instead of having to be held down.  LSHIFTGL works on left shift, RSHIFTGL on right shift.
     + SPACE - get data and a bar graph on available disk space.
-     
 
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
