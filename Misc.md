@@ -21,6 +21,16 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![Atifonts](./imgs/atifonts.png)
 
++ [Aview](./zip/aview.zip) V4.8 Beta-D - The Norton Commander Archive Viewer.
+    + A small utility to manipulate, extract and convert ARC, ARJ, HYP, LZH, PAK, RAR, SQZ, UC2, ZIP and ZOO files.
+    + Lots of options, can be fully mouse-operated, very easy to use.
+    + This package also includes an overlayed version of AVIEW (uses a bit less memory) and two utilities to integrate it into Norton Commander.
+    + Can also be used as stand-alone utility.
+    + Requires external de/archiver utilities - please see the documentation.
+    + Freeware.
+
+![Aview](./imgs/aview.png)
+
 + [Babble!](./zip/babble.zip) - Randomize and rearrange text.
     + Shareware from Korenthal Associates
     + Babble! is a toy for people who love words.

@@ -172,6 +172,18 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![mined](./imgs/mined.png)
 
++ [nanoBase](./zip/nbase.zip) 97.01 - Database manager.
+    + GPL v2 software by Daniele Giacomini. Source for last two versions included.
+    + A little DOS  xBase written  in CA-Clipper  5.2  that can access .DBF file created with different standards.
+    + nB can  access files created with Fox Pro 2, dBASE IV, dBASE III, dBASE III PLUS and CA-Clipper.
+    + nB is:
+        + a dot command interpreter,
+        + a menu driven xBase,
+        + a xBase program interpreter,
+    + Not a lot of documentation here - it would probably help if you already knew the basics of database design and management.
+
+![nbase](./imgs/nbase.jpg)
+
 + [PasswordBox](./zip/pbox.zip) - Keep all your passwords safe, inside an encrypted database.
     + GNU GPL v3 by Mateusz Viste.
     + CAUTION: This program features 128-bit AES encryption, which might be illegal in your country.
