@@ -16,6 +16,11 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 ![acidwarp](./imgs/acidwarp.jpg)
 
++ [BClock](./zip/bclock.zip) - An almost analog clock
+    + by Olle Olsson
+
+![Bclock](./imgs/bclock.png)
+
 + [BigClock](./zip/bigclock.zip) - Two different ways to turn your computer into a fullscreen digital clock
     + Public Domain (?) by Jorgen Dybdahl.
 

@@ -11,6 +11,7 @@
 [Graphics applications](Graphics.md)  
 [Programming languages etc.](Development.md)  
 [Really simple games](Games.md)  
+[Educational Programs](Education.md)  
 [Screensavers and other eye candy](Eyecandy.md)  
 [Command-line utilities](Commandline.md)  
 [Miscellaneous applications](Misc.md)  
@@ -35,7 +36,7 @@ Source code is included wherever possible.
 
 This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.
 
-An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander. For the same reason, you will not find alternative memory managers in here.
+An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.
 
 On a standard FreeDOS installation, Option 1 of the initial menu is
 ````

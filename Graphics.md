@@ -38,6 +38,7 @@ For installation instructions, please [return to General Index](README.md)
 
 + [OGE](./zip/oge.zip) - Bitmap editor.
     + All documentation in Czech (I think).
+    + Works in DOSBox, but crashes on real silicon.
     + GNU GPL v2.
 
 ![OGE](./imgs/oge.png)
