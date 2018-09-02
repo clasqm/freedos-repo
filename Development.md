@@ -9,6 +9,17 @@ For installation instructions, please [return to General Index](README.md)
 
 Please understand: I don't actually know all these languages. Where possible, I ran the included test suites or compiled some example code. If I could find documentation, I included it. But basically you are on your own here.
 
+-----
+
++ [@Compare](./zip/@compare.zip) 1.8 - A diff program for DOS by Brian C Madsen.
+    + @Compare works on Ascii files which are roughly similar to each other (e.g. a .PAS and its .BAK file; a document and an earlier version of the same document; or data created via double data entry.)
+    + Files to be compared may be of unlimited length.
+    + @Compare matches up the two files, displaying them side by side, and displaying the similarities and differences between them.
+    + Equal lines are marked by an equal sign on both sides of the screen; discrepancies in similar but unequal lines are highlighted; and lines which exist in one file and which have no corresponding counterpart in the other file are displayed as such.
+    + Does not work in DOSBox. If your version of DOS does not allow executable filenames starting with "@" just rename @COMPARE.EXE to COMPARE.EXE.
+
+![@compare](./imgs/@compare.png)
+
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
     + Detects lots of hard and soft wares, including all the latest (c. 2004) technology.
     + Gives you more than other infoprogs.

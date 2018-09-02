@@ -23,6 +23,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 + [BigClock](./zip/bigclock.zip) - Two different ways to turn your computer into a fullscreen digital clock
     + Public Domain (?) by Jorgen Dybdahl.
+    + [Arthur](./zip/arthur.zip) is a similar program.
 
 ![BigClock](./imgs/bigclock.png)
 

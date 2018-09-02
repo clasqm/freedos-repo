@@ -79,16 +79,18 @@ Most of these will end up in C:\FDOS\BIN.
     + WAITTIME - Pause PC until a specified time is reached.
     + XRAY - find text strings inside binary files. Alternatively use SRCH or RT.
 
-+ [BATPOWER 2](./zip/batpwr2.zip ) v2 - DOS Commandline utilities by various authors. Please note that this is is the current "Miscellaneous" container and that it will be updated from time to time. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
++ [BATPOWER 2](./zip/batpwr2.zip ) v3 - DOS Commandline utilities by various authors. Please see \FDOS\DOC\BATPOWER for more info on each command as well as the author's details and licensing conditions.
     + AAVIRUS - A virus checker.
     + ADVSET - Advenced version of SET.
     + ALIGN - Aligns data in ASCII text files into neat columns.
     + Set foreground or background colors and do keyboard reassignment using ANSI driver for DOS (NANSI.SYS in FreeDOS).
     + ARC2ARC - Archive converter. Requires external de/archiving programs.
     + ASKME - A simple command line utility to use in batch files to prompt for Y/N questions, and have the DOS Errorlevel set on exit.
+    + BCD - Create a fake CD-ROM drive.
     + BIGDIR - Scans an entire disk, and outputs the names and paths of all the files larger than a given size.
     + COM2EXE - convert .COM to .EXE files.
     + CTRLCAPS - Use Caps Lock as CTRL.
+    +  DELAY - A simple program to replace the use of PAUSE inside of a batch file
     + FA -  A file analyzer that FA recognizes many
 file packers, compilers, encruptors etc.
     + FIXCAPS - Fix Caps Lock to avoid tEXT tHAT lOOKS lIKE tHIS.
@@ -96,10 +98,21 @@ file packers, compilers, encruptors etc.
     + IDARC - Identify compressed files from within batch files.
     + MAKELOG - Create or append to log files.
     + MARK - Insert codes for system properties into an ECHO-like command.
+    + MCOPY - copy multiple files that you cannot normally group with standard wildcards (* and ?), you just separate the files with commas
+    + MDEL - A powerful program that allows you to quickly delete a lot of files.
+    + MCOPY - move multiple files that you cannot normally group with standard wildcards (* and ?), you just separate the files with commas
     + PAYDAY - a CAL workalike that prints a calendar for the current month with today's date noted with an asterisk.
-    + PNGCRUSH - Reduce size of PNG files.
+    + PCOPY - Search your PATH variable for a filename and copy it to a destination.
+    + PDF2TXT1 - Extract text from PDF files. Required GZIP. 
+    + PNGCRUSH - reduce size of PNG files.
     + SHF2GL - Two tiny programs to make the shift keys "sticky," i.e., make them toggles instead of having to be held down.  LSHIFTGL works on left shift, RSHIFTGL on right shift.
     + SPACE - get data and a bar graph on available disk space.
+    + SWAP - switch two files.
+    + UDATE - Displays the date and/or time in any format, including the current timezone.
+
++ [BEEP](./zip/beep.zip) 1.4 - A small  DOS utility  that beeps  for a certain  time at a certain frequency.
+    + Freeware by Quentin Christensen.
+    + May try to overwrite other versions of BEEP.EXE, and BEEP.COM is also common. This one is worth it, though.
 
 + [BELIEF](./zip/belief.zip) - generate random religious beliefs.
     + Public Domain sofware (as far as could be ascertained) with additional data by Michel Clasquin-Johnson. See also [this page](https://clasqm.github.io/Belief/).
