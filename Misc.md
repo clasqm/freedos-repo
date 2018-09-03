@@ -53,6 +53,11 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![wordfind](./imgs/wordfind.png)
 
++ [Dektop Calculator](./zip/deskcalc.zip) - An onscreen calculator.
+    + Author unknown.
+
+![deskcalc](./imgs/deskcalc.png)
+
 + [ Genealogical Information Manager](./zip/gim.zip) 3.19
     + Shareware (nag-free AFAICT) by D. Blaine Wasden and Brian C. Madsen
     + Provides all of the basic features of traditional genealogical database managers, plus many new features not available from any other product.

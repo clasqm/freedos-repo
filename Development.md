@@ -58,6 +58,12 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![turbop55](./imgs/turbop55.jpg)
 
++ [BSCRIPT and BATSCRPT](./zip/bscript.zip) - Two batch enhancement utilities.
+    + Freeware by  Phil Sassano
+    + BATSCRPT allows you to embed code from any interpreted language into a batch file - BASIC, Python, Perl, REXX etc - and execute it.
+    + There is no limit to how many scripts you can put in your batch files and you can place scripts for multiple programming languages even within the same batch file!
+    + BSCRIPT is a non-TSR batch file enhancer that adds abilities to a batch file, like a mini-programming language.
+
 + [Flisp](./zip/flisp.zip) 1.0 - A LISP implementation for DOS.
     + GNU GPL v2 by Francesco Zamblera 
     + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
