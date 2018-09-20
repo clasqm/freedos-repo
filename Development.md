@@ -27,14 +27,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![aida](./imgs/aida.png)
 
-+ [Agena](./zip/agena.zip) 2.12.6 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.13.0 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 30 July 2018.
+    + Last updated 20 Sept 2018.
 
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
@@ -63,6 +63,10 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + BATSCRPT allows you to embed code from any interpreted language into a batch file - BASIC, Python, Perl, REXX etc - and execute it.
     + There is no limit to how many scripts you can put in your batch files and you can place scripts for multiple programming languages even within the same batch file!
     + BSCRIPT is a non-TSR batch file enhancer that adds abilities to a batch file, like a mini-programming language.
+
++ [Elan-1 Programming Environment](./zip/elan1.zip) 1.5 - Educational language based on ALGOL.
+    + Elan is an educational programming language for learning and teaching systematic programming.
+    + The Elan project group at the University of Nijmegen in the Netherlands has developed an Educational Programming Environment around Elan.
 
 + [Flisp](./zip/flisp.zip) 1.0 - A LISP implementation for DOS.
     + GNU GPL v2 by Francesco Zamblera 
