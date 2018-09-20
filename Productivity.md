@@ -235,6 +235,16 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![sagewords](./imgs/sageword.png)
 
++ [Vision Edit](./zip/vised.zip) 3.5 - A useful, fast, user-friendly, versatile text editor. 
+    + Can edit as many documents as you like neatly placed in windows.
+    + Functions can be selected from pull-down menus or by pressing short-cut keys.
+    + Context-sensitive help describes each feature.
+    + Contains several useful word processor facilities for E-Mail traffic.
+    + File Manager, Calculator, Print Manager and more.
+    + Shareware with minimal nag screens.
+
+![Vised](./imgs/vised.png)
+
 -----
 
 {: style="text-align:center"}
