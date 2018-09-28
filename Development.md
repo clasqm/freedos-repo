@@ -21,7 +21,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
 ![@compare](./imgs/@compare.png)
 
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
-    + Detects lots of hard and soft wares, including all the latest (c. 2004) technology.
+    + Detects lots of hard and soft wares, including all the latest (c. 2004) technolfogy.
     + Gives you more than other infoprogs.
     + *Updated: This 16-bit program claims to detect a multitasking environment in FreeDOS 1.2 running on bare silicon and refuses to run (it does work in DosBox). Please read NOTE.TXT in the documentation for a workaround. or see tip #2 on the [TIPS](Tips.md) page*.
 
@@ -73,6 +73,16 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Requires a 32-bit extender (e.g. CWSDPMI.EXE). FreeDOS has that built in already.
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
     + Other (untested) Lisp implementations include [Adler](./zip/adler.zip) and [PDLisp](./zip/pdlisp.zip).
+
++ [Hiew](./zip/hiew.zip) - Text/Hex viewer and editor.
+    + Built-in Pentium(R) Pro assembler.
+    + HIEW is able to create new files.
+    + Search and replace mode (can be restricted to block size)/
+    + Context-sensitive help (HIEW can operate without help file HIEW.HLP)
+    + Search of assembler commands using pattern (for real hackers!)
+    + Version 5.02 compiled for OS/2, EXE for DOS use as stub.
+
+![Hiew](./imgs/hiew.png)
 
 + [Illinois Functional Programming](./zip/ifp.zip) 0.5 - An experimental functional language.
 

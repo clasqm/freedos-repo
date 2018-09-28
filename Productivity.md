@@ -184,7 +184,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![nbase](./imgs/nbase.jpg)
 
-+ [PasswordBox](./zip/pbox.zip) - Keep all your passwords safe, inside an encrypted database.
++ [No EDLIN](./zip/noedlin.zip) - A small, fast text  editor based on the  IDE editor from  Borland.
+    + Includes wordwrap and  spell checking.
+    + Freeware from GDSOFT.
+
+![noedlin](./imgs/noedlin.png)
+
++ [PasswordBox](./zip/pbox.zip) - Keep all your passwords safe inside an encrypted database.
     + GNU GPL v3 by Mateusz Viste.
     + CAUTION: This program features 128-bit AES encryption, which might be illegal in your country.
     + Run this program from the DOS prompt the first time, so that it can create its database. After that, you can run it from a launcher.
@@ -234,6 +240,10 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + For those who pine for WordStar key shortcuts, this might be your program.
 
 ![sagewords](./imgs/sageword.png)
+
++ [VisiCalc](./zip/visicalc.zip) - The original spreadsheet, now fit only for antiquarian purposes. But it still works and it's a nostalgia trip!
+
+![visicalc](./imgs/visicalc.gif)
 
 + [Vision Edit](./zip/vised.zip) 3.5 - A useful, fast, user-friendly, versatile text editor. 
     + Can edit as many documents as you like neatly placed in windows.
