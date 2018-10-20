@@ -29,6 +29,12 @@ For installation instructions, please [return to General Index](README.md)
 
 ![SkyGlobe](./imgs/skyglobe.png)
 
++ [TypeFast](./zip/typefast.zip) - A text mode typing tutor game.
+    + It's a GAME (not boring drills) that's a cross between a touch-typing program and "Space Invaders".
+    + Words appear in random places on the screen and slowly move down.
+    + You have to type them correctly to blow them up before they reach the "ground" (a line at the bottom of the screen).
+    + There are several degrees of difficulty.
+
 + [Workbook](./zip/wrkbk.zip) 1.0 - Typing game with time limits.
     + The Child is presented with  words  and sentences to a background of an OUT OF FOCUS PCX IMAGE and must correctly OVERTYPE the WORDS within a TIME LIMIT.
     + If the SCHEDULE IS  MET,  THE  PICTURE  is  PRESENTED again, this time IN FOCUS, and a MUSICAL REWARD is PLAYED for the Timely Scholar.

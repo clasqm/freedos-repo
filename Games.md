@@ -37,6 +37,11 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
 
 ![hanoi](./imgs/hanoi.png)
 
++ [TypeFast](./zip/typefast.zip) - a text mode Typing tutor game.
+    + It's a GAME (not boring drills) that's a cross between a touch-typing program and "Space Invaders".
+    + Words appear in random places on the screen and slowly move down.
+    + You have to type them correctly to blow them up before they reach the "ground" (a line at the bottom of the screen).
+    + There are several degrees of difficulty.
 -----
 
 {: style="text-align:center"}
