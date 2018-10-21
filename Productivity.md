@@ -75,6 +75,20 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![dataperfect](./imgs/datapfct.jpg)
 
++ [The Expert](./zip/expert.zip) - Software for the implementation of expert systems.
+    It is a framework on which any number of expert systems can be built, and is not itself a single such system.
+    + It runs on microcomputers, and runs fast enough to use interactively.
+    + The format it requires for a body of knowledge is very simple.
+    + Its results (conclusions and their justifications) can be retained for future examination or other use.
+    + It works both forward and backward -- either deriving consequences from new data or testing hypotheses put to it as queries -- and these modes can be freely mixed by the user.
+    + It can explain what it does -- why it is asking a particular question or how it arrived at a particular conclusion.
+    + It allows you to change your input at any time, and immediately re-evaluates all its conclusions.
+    + Because it permits chained blocks of knowledge, it is not limited in the complexity of the subjects with which it can deal.
+    + It does not require a hard disk or an unusually great amount of memory (128K RAM suffices).
+    + Approvalware by Stephen Walton, 1986.
+
+![expert](./imgs/expert.png)
+
 + [Freebase](./zip/freebase.zip) 1.2 - A free form flat-file database program.
     + Free form data entry using any ASCII text editor.
     + Rapid search and unlimited narrowing of the search records by subsequent searches using case insensitive search strings.

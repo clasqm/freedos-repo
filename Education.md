@@ -17,6 +17,10 @@ For installation instructions, please [return to General Index](README.md)
     + Elan is an educational programming language for learning and teaching systematic programming.
     + The Elan project group at the University of Nijmegen in the Netherlands has developed an Educational Programming Environment around Elan.
 
++ [Elements](./zip/elements.zip) - Learn the periodic table of elements.
+
+![elements](./imgs/elements.png)
+
 + [MeToo](./zip/metoo.zip) - A program to learn some nouns in German, French or Spanish.
     + Shareware by Bill Buckels.
 
