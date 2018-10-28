@@ -72,6 +72,17 @@ EDIT ..\APPINFO\ATIFONTS.LSM
     + Released: 17-Sept-2000
     + Usage:  *mr2s drive:\path2scan log.file*
 
++ [PerSense](./zip/persense.zip) - A financial calculator
+    + Six separate screens for loan amortization, present and future values, financial planning, IRR's and APR's, mortgage comparison, and construction of arbitrary loans, payment-by-payment.
+    + The loan facility will handle multiple balloon payments, changes in rate and payment amount, any combination of payments at different frequency from weekly to yearly, as well as interest-only loans and constant-paydown amortization.
+    + The present value screen allows for combinations of single payments at arbitrary times and periodic payment series.
+    + Payments for life and payments upon death are valued with tables of actuarial probability, which may be selected or entered as a text file by the user.
+    + Structured with pull-down menus and mouse support.
+    + You may want to check for Y2K compatibility before you base your business plan on this.
+    + Freeware by Josh Mitteldorf.
+
+![PerSense](./imgs/persense.png)
+
 + [Probert](./zip/probert.zip) - Offline encyclopaedia.
     + This is the FREE Probert Encyclopaedia in HTML format.
     + Simply unzip the contents to C:\ and point your browser (Dillo, Arachne) or text-mode HTML viewer at \FDOS\DOCS\PROBERT\INDEX.HTM
