@@ -81,6 +81,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Context-sensitive help (HIEW can operate without help file HIEW.HLP)
     + Search of assembler commands using pattern (for real hackers!)
     + Version 5.02 compiled for OS/2, EXE for DOS use as stub.
+    + A similar program is [Peruse](./zip/peruse.zip)
 
 ![Hiew](./imgs/hiew.png)
 
@@ -100,6 +101,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Freeware by Rowan Crowe
 
 + [ Navratil Software System Information (NSSI)](./zip/nssi.zip) - system information tool.
+    + A similar program is [Informer](./zip/informer.zip).
 
 ![nssi](./imgs/nssi.png)
 
