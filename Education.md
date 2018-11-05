@@ -45,6 +45,7 @@ For installation instructions, please [return to General Index](README.md)
     + If THE DEADLINE is NOT Met, a rude noise is  made  and  the  next  OUT  OF  FOCUS  and  WORDS COMBO is presented for another TIMED ROUND OF PLAY.
     + TIME LIMITS suddenly become imminent when our children start school, and  deadlines  can  be as important to learn as the other  more  cerebral  academic  pursuits.   Often   a   well completed  assignment  is  not so well received when received late.
     + Shareware by Bill Buckels.
+
 ![wrkbk](./imgs/wrkbk.png)
 
 -----

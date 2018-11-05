@@ -42,6 +42,7 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
     + Words appear in random places on the screen and slowly move down.
     + You have to type them correctly to blow them up before they reach the "ground" (a line at the bottom of the screen).
     + There are several degrees of difficulty.
+
 -----
 
 {: style="text-align:center"}

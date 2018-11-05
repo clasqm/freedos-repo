@@ -97,6 +97,14 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![ptsde](./imgs/ptsde.gif)
 
++ **Tutordo** in [English](./zip/tutordoe.zip) and [Italian](./zip/tutordoi.zip) - A file manager.
+    + All the usual features of a text-mode file manager.
+    + Included in this repository because it has a (partial) Italian translation.
+    + LFN aware.
+    + Freeware by Marcello Vinci.
+
+![Tutordo](./imgs/tutordoi.png)
+
 -----
 
 {: style="text-align:center"}
