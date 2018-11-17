@@ -9,6 +9,15 @@ For installation instructions, please [return to General Index](README.md)
 
 Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the most simple little games up here. This is the least developed section of the repository and probably always will be.
 
++ [Drobos](./zip/drobos.zip) - Daleks for DOS
+    + You find  yourself on an open field surrounded  by hordes of hostile creatures.
+    + You have no weapons, no cover, nowhere to run, no future.
+    + Let's face it,  you  already  lost!
+    + ALL you have is your brilliant mind to REVENGE your coming annihilation.
+    + Freeware.
+
+![Drobos](./imgs/drobos.png)
+
 + [Mahjong!](./zip/mahjong.zip) -  Based on the popular Chinese tile game Mahjong and attempts to closely approximate play of that game on your PC.
     + Shareware.
 

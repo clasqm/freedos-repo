@@ -21,6 +21,14 @@ For installation instructions, please [return to General Index](README.md)
 
 ![elements](./imgs/elements.png)
 
++ [GraphXY](./zip/graphxy.zip) - A graphing calculator.
+    + This program includes many features. First, it has smart equation entering where you don't have to insert any special characters, just type the equation as you would write it on paper.
+    + Also, you can view the plotting points and roots of equations. You can zoom in or out and graph several equations on one graph.
+    + The quick help box on the bottom of the screen guides you through every step you need to make to use GraphXY to its fullest extent.
+    + Freeware.
+
+![graphxy](./imgs/graphxy.png)
+
 + [MeToo](./zip/metoo.zip) - A program to learn some nouns in German, French or Spanish.
     + Shareware by Bill Buckels.
 
