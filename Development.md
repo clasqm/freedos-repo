@@ -51,6 +51,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![ASIC](./imgs/asic.png)
 
++ [AWS](./zip/aws.zip) - Create ascii art for your txt documentation.
+    + Once you are fimilar with the controls, you can make amazing diagrams for your documentation.
+    + There is a powerful ascii utility that allows you to view the ASCII code table, you can make scripts to display certain parts of the table rather than all of it.
+    + This program is brillant for people who like to create DOS based text interface GUI screens and is good for drawing technical diagrams or ASCII art.
+    + Freeware by Paul Burden.
+
+![aws](./imgs/aws.png)
+
 + **Borland** <u>Turbo Pascal 1.0 / 3.02 / 5.5</u>, <u>Turbo C++ 1.01</u>, and <u>Turbo C 2.01</u> - Available as freeware from the [Embarcadero Museum](http://edn.embarcadero.com/museum).
     + Sorry, the license does not allow me to repackage these programs.
     + You will need to register an account with Embarcadero and receive their advertising email forever to get these languages. Or you could try [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) for a temporary email address.

@@ -48,6 +48,13 @@ EDIT ..\APPINFO\ATIFONTS.LSM
 
 ![BigText](./imgs/bigtext.gif)
 
++ [Conversions by Rosewood](./zip/convrose.zip) - Converts between Metric and Imperial for a wide range of weights and measures.
+    + Works with mouse or keyboard and has a pop-up
+calculator.
+    + Freeware from Rosewood Software.
+
+![convrose](./imgs/convrose.png)
+
 + [Crossword Helper](./zip/wordfind.zip) - *WORDFIND* helps you solve crossword puzzles.
     + Freeware by Dale Harris.
 
