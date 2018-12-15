@@ -27,6 +27,7 @@ character, and clear the table from the screen. Press Esc to clear the table wit
     + Works fine from high memory with LH.
     + The author (H.J. Harvey) says there is an incompatibility with MS Word 5. I have not replicated this error in MS Word 5.5.
 
++ [DOSCLIP](./zip/dosclip.zip) - A TSR utility that provides Windows-like cut-and-paste facilities to applications running under DOS.
 
 -----
 

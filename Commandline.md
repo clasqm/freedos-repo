@@ -110,6 +110,34 @@ file packers, compilers, encruptors etc.
     + SWAP - switch two files.
     + UDATE - Displays the date and/or time in any format, including the current timezone.
 
++ [BATPOWER 3](./zip/batpwr3.zip) v1
+    + ALLFILES  - Displays all files in the current directory, even if they are hidden
+    + ASKASCII - Gives ascii codes of characters.
+    + BCHKDSK  - Shows disk information.
+    + CAPTURE - A non-TSR screen capturing utility.
+    + CDESC - creates a neatly formatted descriptive list of specified files.
+    + CDX - Provides an alternative to the DOS CD command that eliminates the need to enter long pathnames.
+    + COMPACT - An enhanced 132x43 screen mode. Undo it with the normal MODE commands.
+    + COMPOSE2 - A MOD player. Untested.
+    + DIRSIZE - Calculates the size of a directory.
+    + DPIC - Display bar graph of sisk usage.
+    + EXECDIR - Shows the executables in a directory.
+    + FILESIZE - Shows the filesize of a file.
+    + FREE - Shows number of bytes free of a disk.
+    + JPGCLEAN - Utility to clean up JPG graphics.
+    + LF2CRLF/CRLF2LF - Converts UNIX text files to DOS text files and vice versa.
+    + MM - A multimedia player.
+    + MOREMEM - Display EMS and XMS status.
+    + MULTIEXE - Allows you to run (other) programs that doesn't support wildcards * ? for files in their commandline options.
+    + PRETZEL - A very simple screensaver.
+    + RE-BOOT - A rebooting menu.
+    + RENDIR - Renames a directory.
+    + SCRNINFO - Get current screen mode info.
+    + THISDATE - Get today's date.
+    + UP2LOW - Makes all uppercase characters lowercase in a file.
+    + VESAGIF - A GIF viewer.
+    + XCODE - a bidirectional file encoder/decoder.
+
 + [BEEP](./zip/beep.zip) 1.4 - A small  DOS utility  that beeps  for a certain  time at a certain frequency.
     + Freeware by Quentin Christensen.
     + May try to overwrite other versions of BEEP.EXE, and BEEP.COM is also common. This one is worth it, though.

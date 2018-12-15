@@ -27,6 +27,8 @@ For interactive programs containing similar content, see the [tutorials](Tutoria
 
 + [C Tutor](./zip/ctutor.zip) - Shareware by Coronado Enterprises
 
++ [Command Line](./zip/commandln.zip) - Neal Stephenson's legendary essay "In the beginning was the command line", in plain text format.
+
 + [GIF News](./zip/gifnews.zip) 1990-1991 - News delivered in ... wait for it ... GIF format. 
 
 + [Pascal programming](./zip/pascprog.zip) by TutorialsPoint.

@@ -52,6 +52,7 @@ EDIT ..\APPINFO\ATIFONTS.LSM
     + Works with mouse or keyboard and has a pop-up
 calculator.
     + Freeware from Rosewood Software.
+    + A similar program is [Conv-It](./zip/conv-it.zip).
 
 ![convrose](./imgs/convrose.png)
 
