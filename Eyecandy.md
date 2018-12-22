@@ -13,6 +13,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
     + Free Software by [Noah Spurrier](http://www.noah.org/acidwarp/).
     + *CTRL-Break* exits the program, If your keyboard does not have a *Break* key, *CTRL-C* also works ... eventually. You may have to hit it a few times.
     + Source code included, but it is marked as "private proprietary source code" (see *ACIDWARP.C*), so I guess that is for inspiration only.
+    + [DIAL8](./zip/dial8.zip) is a tweaked version of Acid Warp.
 
 ![acidwarp](./imgs/acidwarp.jpg)
 

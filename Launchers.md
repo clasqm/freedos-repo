@@ -59,6 +59,17 @@ For installation instructions, please [return to General Index](README.md)
 
 ![desktop2](./imgs/dsk2.png)
 
++ [EXE](./zip/exe.zip) - Text-based launcher.
+    + This program is useful to handle executable files, just type EXE and it lists all files colored by extensions, white for folders, yellow for EXE, COM and BAT.
+    + You also can type the 1st letter to go to the file.
+    + Extensions recognized: Compressed files, graphics, movies, sound, text, etc.
+    + Type . for CD.. and type \ to go to root.
+    + Use UP, DOWN, PAGE UP, PAGE DOWN, Home and End to navigate the list.
+    + You can run, delete, sort and view files.
+    + You may also set the variable PPEXE with your default parameters.
+
+![exe](./imgs/exe.png)
+
 + [ExeMenu](./zip/exemenu.zip) - Simple menuing system.
     + THIS WILL OVERWRITE THE EXEMENU THAT COMES WITH FREEDOS! And I'm OK with that. It is a much more versatile program.
     + Free software by J C Kessels. Source included.
