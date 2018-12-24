@@ -149,6 +149,11 @@ file manager for DOS with many customizable skins.
 
 ![Spectra](./imgs/spectra.png)
 
++ [XGUI](./zip/xgui.zip) - Run multiple "xterms"
+    + This oddity is v..e..r..y slow, and is included here mainly for interest's sake, but the source code is included, so there is hope ...
+
+![xgui](./imgs/xgui.png)
+
 -----
 
 {: style="text-align:center"}

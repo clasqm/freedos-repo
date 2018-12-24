@@ -277,6 +277,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Vised](./imgs/vised.png)
 
++ [WordPerfect Editor](./zip/wp_ed.zip) - How well do you remember WordPerfect function key commands?
+    + A cut-down version of the WordPerfect 5.1 Word processor that edits text files only.
+    + No file size or line length limits.
+    + Not user-friendly at all, but very powerful once you've got the hang of it.
+    + TIP: Press F3 as soon as you've started this application, then press F3 again for the main help cheat screen:
+
+![wp_ed](./imgs/wp_ed.png)
+
 -----
 
 {: style="text-align:center"}
