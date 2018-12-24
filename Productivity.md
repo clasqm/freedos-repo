@@ -98,6 +98,14 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Freebase](./imgs/freebase.png)
 
++ [Friends](./zip/friends.zip) - A small, quick contact database
+    + Holds up to 600 addresses.
+    + Set up in English, but also has interface data for Bulgarian, German, French, Croatian, Italian, Dutch, Polish, Slovak and Spanish.
+    + Read the documentation and edit C:\FDOS\LINKS\FRIENDS.BAT to change the language.
+    + Freeware by Piotr Warezak.
+
+![friends](./imgs/friends.png)
+
 + [InfoPal](./zip/infopal.zip) - Fast, small, and easy to use flat-file database.
     +  Great for phones, diaries, passwords, anything.
     + Mouse or keyboard
