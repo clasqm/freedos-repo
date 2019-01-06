@@ -12,6 +12,7 @@ For installation instructions, please [return to General Index](README.md)
     + MODE CO80 will revert to the normal display when you are tired of them.
     + This package will install to \FDOS\BIN\SCRFONTS.
     + Most of these do not carry over into text-mode applications. But some do. You will just have to experiment on your system.
+    + If you like these, [here](./zip/dosfont2.zip) are eleven more.
 ````
 C:
 CD \FDOS\BIN
