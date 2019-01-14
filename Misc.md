@@ -72,6 +72,7 @@ calculator.
     + Provides all of the basic features of traditional genealogical database managers, plus many new features not available from any other product.
     + GIM is fast and powerful, yet intuitive and easy to learn.
     + This archive contains executables and documentation.
+    + A similar program is [Roots Master 2](/zip/rm.zip).
 
 ![gim](./imgs/gim.png)
 

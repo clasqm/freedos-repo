@@ -29,6 +29,12 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
 
 ![minemayhem](./imgs/minemay.png)
 
++ [Nero 5](./zip/nero5.zip) - Chess program.
+    + Move your pieces with ARROW KEYS and ENTER.
+    + During play Nero writes down the played moves into the file 'WEPLAYED.TXT' so you can watch them later (or view with some PGN reading program.)
+
+![nero5](./imgs/nero5.png)
+
 + [ShuffleV](./zip/shufflev.zip) 1.1 - Tile shuffling game.
     + Freeware for non-commercial purposes by J R Ferguson.
     + Click a number joining the empty field to shift it, or use the cursor keys.
