@@ -138,6 +138,29 @@ file packers, compilers, encruptors etc.
     + VESAGIF - A GIF viewer.
     + XCODE - a bidirectional file encoder/decoder.
 
++ [BAT POWER 4](./zip/batpwr4.zip) v1
+    + Autostop - provide option in Batch files.
+    + BATLOOP - Set up the equivalent of a WHILE...WEND loop in DOS batch files.
+    + COUNTDN - Launch any specified program (EXE, COM, or BAT) after a countdown of a specified number of seconds.
+    + DRSCROLL - scroll text horizontally, anywhere on the screen.
+    + EVAL - A general purpose command line calculator for performing many scientific & engineering calculations.
+    + FCUT - versatile file splitter.
+    + FDATE - batch-file date manipulation utility.
+    + GE - Executable identifier program.
+    + HTM2TXT.EXE - Converts an html document to text.
+    + HTM_CAL - Create calendars in HTML format.
+    + HTMLCR - Compress HTML text but leave it readable.
+    + ISHTAR - Convert HTML into RTF format.
+    + JUSTIFY - A text justification program to reformat ASCII text files.
+    + LGFV - Archive viewer.
+        +  You need no archivers themselves to view archives.
+        + Archive will be correctly recognized regardless of its extension.
+        + It recognizes 90 types of archive formats
+    + MAKEIDX.EXE - Makes an html index of the current directory.
+    + TXT2HTM.EXE - Converts a text document to HTML.
+    + Z - a text/hex file viewer, with source code. Also available in 32-bit format as z32.
+
+
 + [BEEP](./zip/beep.zip) 1.4 - A small  DOS utility  that beeps  for a certain  time at a certain frequency.
     + Freeware by Quentin Christensen.
     + May try to overwrite other versions of BEEP.EXE, and BEEP.COM is also common. This one is worth it, though.

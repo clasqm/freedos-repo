@@ -89,7 +89,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Context-sensitive help (HIEW can operate without help file HIEW.HLP)
     + Search of assembler commands using pattern (for real hackers!)
     + Version 5.02 compiled for OS/2, EXE for DOS use as stub.
-    + Similar programs include [Peruse](./zip/peruse.zip) and [Zapit](./zip/zapit.zip).
+    + Similar programs include [Peruse](./zip/peruse.zip), [Hexed](./zip/hexed.zip), [Hexit](./zip/hexit.zip) and [Zapit](./zip/zapit.zip).
 
 ![Hiew](./imgs/hiew.png)
 
