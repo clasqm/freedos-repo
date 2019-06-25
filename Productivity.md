@@ -75,6 +75,11 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![dataperfect](./imgs/datapfct.jpg)
 
++ [DBM](./zip/dbm.zip) -  is a general-purpose database manager. It works in text mode screen with excellent mouse support. DBM also supports user configuration for
+  user-defined tasks on specific database files.
+
+![dbm](./imgs/dbm.png)
+
 + [The Expert](./zip/expert.zip) - Software for the implementation of expert systems.
     It is a framework on which any number of expert systems can be built, and is not itself a single such system.
     + It runs on microcomputers, and runs fast enough to use interactively.
