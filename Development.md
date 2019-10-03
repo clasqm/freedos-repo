@@ -34,7 +34,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 22 September 2019.
+    + Last updated 3 October 2019.
 
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
