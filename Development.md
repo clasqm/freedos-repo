@@ -27,14 +27,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![aida](./imgs/aida.png)
 
-+ [Agena](./zip/agena.zip) 2.16.11 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.16.12 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 28 December 2019.
+    + Last updated 7 January 2020.
 
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
@@ -65,6 +65,13 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + All come with very nice IDEs. Turbo Pascal 5.5 pictured below.
 
 ![turbop55](./imgs/turbop55.jpg)
+
++ [BREXX](./zip/brexx.zip) 2.0 - A REXX interpreter
+by Vassilis N. Vlachoudis
+    + REXX is a programming language designed by Michael Cowlishaw of IBM UK Laboratories.
+    + In his own words:  "REXX is a procedural
+language that allows programs and algorithms to be written in a clear and structured way".
+    + FREEWARE, as long as it is used for NON PROFIT purposes.
 
 + [BSCRIPT and BATSCRPT](./zip/bscript.zip) - Two batch enhancement utilities.
     + Freeware by  Phil Sassano
