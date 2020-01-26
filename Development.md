@@ -27,14 +27,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![aida](./imgs/aida.png)
 
-+ [Agena](./zip/agena.zip) 2.16.12 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.16.13 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 7 January 2020.
+    + Last updated 26 January 2020.
 
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
