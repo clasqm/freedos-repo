@@ -20,21 +20,21 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![@compare](./imgs/@compare.png)
 
-+ [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
-    + Detects lots of hard and soft wares, including all the latest (c. 2004) technolfogy.
-    + Gives you more than other infoprogs.
-    + *Updated: This 16-bit program claims to detect a multitasking environment in FreeDOS 1.2 running on bare silicon and refuses to run (it does work in DosBox). Please read NOTE.TXT in the documentation for a workaround. or see tip #2 on the [TIPS](Tips.md) page*.
-
-![aida](./imgs/aida.png)
-
-+ [Agena](./zip/agena.zip) 2.16.13 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.17.0 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 26 January 2020.
+    + Last updated 2 February 2020.
+
++ [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
+    + Detects lots of hard and soft wares, including all the latest (c. 2004) technolfogy.
+    + Gives you more than other infoprogs.
+    + *Updated: This 16-bit program claims to detect a multitasking environment in FreeDOS 1.2 running on bare silicon and refuses to run (it does work in DosBox). Please read NOTE.TXT in the documentation for a workaround. or see tip #2 on the [TIPS](Tips.md) page*.
+
+![aida](./imgs/aida.png)
 
 + [Alice](./zip/alice.zip) - an IDE for the Alice dialect of Pascal, with a runtime interpreter.
     + Freeware by Brad Templeton.
