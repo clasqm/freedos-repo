@@ -554,6 +554,15 @@ screen p /p This is an example of the SCREEN utility.
 
 ![wbat](./imgs/wbat.png)
 
++ [WCD](./zip/wcd.zip) - A Norton Change Directory (NCD) clone.
+    + WCD is a command-line program to change directory fast.
+    + It includes a full screen interactive directory tree browser with speed search and a fast way to choose between multiple matches.
+    + From [Sourceforge](https://sourceforge.net/projects/wcd/). Some development still seems to be happening.
+    + 16-bit binary only in this package. 32-bit and source code is available from above link.
+    + Last updated on 15 February 2020.
+
+![wcd](./imgs/wcd.png)
+
 ----
 
 {: style="text-align:center"}

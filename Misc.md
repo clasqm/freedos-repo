@@ -67,7 +67,7 @@ calculator.
 
 ![deskcalc](./imgs/deskcalc.png)
 
-+ [ Genealogical Information Manager](./zip/gim.zip) 3.19
++ [Genealogical Information Manager](./zip/gim.zip) 3.19
     + Shareware (nag-free AFAICT) by D. Blaine Wasden and Brian C. Madsen
     + Provides all of the basic features of traditional genealogical database managers, plus many new features not available from any other product.
     + GIM is fast and powerful, yet intuitive and easy to learn.
@@ -75,6 +75,14 @@ calculator.
     + A similar program is [Roots Master 2](/zip/rm.zip).
 
 ![gim](./imgs/gim.png)
+
++ [Gopherus](./zip/gopherus.zip) - A Gopher client
+    + **UNTESTED**
+    + Gopher is a text-based information retrieval system that predates the WWW. I'm actually surprised to hear that it is still running.
+    + Get DOS networking up and running before you try this.
+    + Collected on 15 February 2020 from [Sourceforge](https://sourceforge.net/projects/gopherus/). Sorry, this is too esoteric for me to keep checking on, but it seems to update regularly there.
+
+![gopherus](./imgs/gopherus.png)
 
 + [Mr Double Scan](./zip/mr2s.zip) 1.13.01 - Anti Virus Scanner
     + Mr2S detects more than 36.000 different viruses, including mIRC, Bat, Win, Polys VBS (VBS.Loveletter:), Macro, DOS and Boot viruses.
