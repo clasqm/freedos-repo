@@ -9,6 +9,14 @@ For installation instructions, please [return to General Index](README.md)
 
 Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the most simple little games up here. This is the least developed section of the repository and probably always will be.
 
++ [Dr Mind Lite](./zip/drlite.zip) - A Mastermind clone
+    + Dr. Mind is a PC adaptation of the Mastermind (TM) board game. The computer generates a secret color code, then the player has to figure out the exact pattern through deduction.
+    + Keyboard controls: arrows, return and escape. TIP: The UP arrow key cycles through colors.
+    + The game comes in two versions: the normal release and a "LITE" variant. The LITE version is the same thing, but with pictures removed - may be handy for computers that have extremely limited storage.
+    + This package ONLY contains the lite version.
+
+![drlite](./imgs/drlite.png)
+
 + [Drobos](./zip/drobos.zip) - Daleks for DOS
     + You find  yourself on an open field surrounded  by hordes of hostile creatures.
     + You have no weapons, no cover, nowhere to run, no future.

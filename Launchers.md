@@ -59,6 +59,17 @@ For installation instructions, please [return to General Index](README.md)
 
 ![desktop2](./imgs/dsk2.png)
 
++ [DMenu](./zip/dmenu.zip)- a small graphical menu program.
+    + It is limited to 10 categories with 10 items in each.
+    + To create a menu, simply call "menugen.exe", or edit the sample MENU.INI file, it really is quite a simple structure.
+    + For most games and programs, you will have to create a batch file to cd into their install directories. Of course, if it is a program from this repository, just use the batch file in \FDOS\LINKS (You see, there is method in my madness!).
+    + To start, please run dmenu.bat
+    + DMenu is skinnable. Simply replace the .png files with your own to create a skin.
+    + Source: [Sourceforge](https://sourceforge.net/projects/dmenu/)
+
+![dmenu](./imgs/dmenu.png)
+
+
 + [EXE](./zip/exe.zip) - Text-based launcher.
     + This program is useful to handle executable files, just type EXE and it lists all files colored by extensions, white for folders, yellow for EXE, COM and BAT.
     + You also can type the 1st letter to go to the file.
