@@ -91,6 +91,13 @@ language that allows programs and algorithms to be written in a clear and struct
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
     + Other (untested) Lisp implementations include [Adler](./zip/adler.zip) and [PDLisp](./zip/pdlisp.zip).
 
++ [GSR](./zip/gsr.zip) - Global search and replace utility for text files.
+    + File pattern selector
+    + Can recurse across directories
+    + Manual or automatic replacement
+    + Case-sensitivity toggle.
+    + Source code included.
+
 + [Hiew](./zip/hiew.zip) - Text/Hex viewer and editor.
     + Built-in Pentium(R) Pro assembler.
     + HIEW is able to create new files.

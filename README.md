@@ -69,6 +69,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 
 ## <a name="Whatsnew"></a>What's new?
+24 March 2020: added GSR to [Programming languages etc.](Development.md).
 24 March 2020: added VDE text editor to [Productivity applications](Productivity.md).
 
 -----
