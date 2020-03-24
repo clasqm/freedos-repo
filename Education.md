@@ -39,7 +39,7 @@ For installation instructions, please [return to General Index](README.md)
     + It is the fastest program of its kind available, and uses the mouse or convenient command keys. 
     + With GIF image display, and support for up to 250,000 stars!
 
-![SkyGlobe](./imgs/skyglobe.png)
+[![SkyGlobe](./imgs/skyglobe.png)](https://www.youtube.com/watch?v=OLRk1AK9XdA "SkyGlobe - click to play")
 
 + [TypeFast](./zip/typefast.zip) - A text mode typing tutor game.
     + It's a GAME (not boring drills) that's a cross between a touch-typing program and "Space Invaders".

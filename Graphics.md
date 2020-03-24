@@ -11,7 +11,9 @@ For installation instructions, please [return to General Index](README.md)
     + BSD licensed.
     + See the [Home page](http://animatorpro.org) and the GitHub [code repository](https://github.com/AnimatorPro/Animator-Pro). 
 
-![Animator](./imgs/animator.png)
+[![Animator](./imgs/animator.png)](https://www.youtube.com/watch?v=HTl-pPlaD7Q "Animator - click to play")
+
+
 
 + [GrafX2](./zip/grafx2.zip) 2.0 beta 96.5%. - 256-colour bitmap editor.
     + Released as shareware, but the source was [GPL'ed a year later](https://web.archive.org/web/20071213221524/http://code.google.com/p/grafx2/wiki/FreeSoftwareRelease).
@@ -19,7 +21,7 @@ For installation instructions, please [return to General Index](README.md)
     + The batch file \FDOS\LINKS\GRAFX2.BAT defaults to a resolution that works well with my 1024X600 laptop screen. If that does not work for you, run GRFX2 /? from the program directory and change the "32" on the last line of the batch file to something that does.
     + You can also change the resolution inside the program. If you hit an unsupported resolution and get a screen full of gibberish, SHIFT-ENTER gets you back to a safe default.
 
-![grafx2](./imgs/grafx2.png)
+[![grafx2](./imgs/grafx2.png)](https://www.youtube.com/watch?v=D8YH7kqspu0 "GRAFX2 - click to play")
 
 + [LxPic](./zip/lxpic.zip) v7.3 - Graphics viewer.
     + Freeware by Stefan Peichl.
@@ -49,7 +51,7 @@ For installation instructions, please [return to General Index](README.md)
     + It can also resize images and change the colour depth.
     + Freeware by [Jan Patera](http://www.pictview.com).
 
-![PictView](./imgs/pictview.gif)
+[![PictView](./imgs/pictview.gif)](https://www.youtube.com/watch?v=mgck3bvaXA4 "PictView - click to play")
 
 -----
 

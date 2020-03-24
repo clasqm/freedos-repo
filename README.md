@@ -4,7 +4,9 @@
 
 ## <a name="contents"></a>Contents
 [Introduction](#Introduction)  
-[Installation instructions](#Installation)  
+[Installation instructions](#Installation)
+
+[What's new?](#Whatsnew)  
 
 [Program launchers, file managers and environments](Launchers.md)  
 [Productivity applications](Productivity.md)  
@@ -64,6 +66,10 @@ You might be tempted to use the *DosZip Commander*, which is bundled with FreeDO
 Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batch file placed in *C:\FDOS\LINKS*. If a program requires changes to *CONFIG.SYS* or *AUTOEXEC.BAT*, that will be documented here. 
 
 Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.
+
+
+## <a name="Whatsnew"></a>What's new?
+24 March 2020: added VDE text editor to [Productivity applications](Productivity.md).
 
 -----
 

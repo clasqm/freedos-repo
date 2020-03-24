@@ -15,7 +15,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
     + Source code included, but it is marked as "private proprietary source code" (see *ACIDWARP.C*), so I guess that is for inspiration only.
     + [DIAL8](./zip/dial8.zip) is a tweaked version of Acid Warp.
 
-![acidwarp](./imgs/acidwarp.jpg)
+[![acidwarp](./imgs/acidwarp.jpg)](https://www.youtube.com/watch?v=6d_ZCBPzayA "Acid Warp - click to play")
 
 + [BClock](./zip/bclock.zip) - An almost analog clock
     + by Olle Olsson
@@ -36,7 +36,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
     + It’s still quite hard to learn how to see through the code, though; but don’t worry — if you happen to never see the woman in red, at least you’ll have used a very cool DOS screen-saver.
     + **Packager's note**: DCMATRIX does not clean up the screen mode after it closes, so you may want to issue a MODE CO80 afterwards.
 
-![dcmatrix](./imgs/dcmatrix.png)
+[![dcmatrix](./imgs/dcmatrix.png)](https://www.youtube.com/watch?v=dV8boLFebvM "DeciMatrix - click to play")
 
 + [Fractint](./zip/fractint.zip) - Fractal generating program.
     + Definitely not a screensaver!
@@ -49,7 +49,7 @@ NOTE: These programs are NOT memory-resident. They are regular .COM or .EXE prog
 
 ![hiver](./imgs/hiver.png)
 
-+ [Laser](./zip/laser.zip) - Possibly the original that has since appeared on every possible Operating system.
++ [Laser](./zip/laser.zip) - Possibly the original screensaver that has since appeared on every possible operating system.
     + Public Domain (?) by John Horemans. 
     + Turbo Pascal code included
 

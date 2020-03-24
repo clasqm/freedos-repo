@@ -65,7 +65,7 @@ Please understand: I don't actually know all these languages. Where possible, I 
     + A selection of TurboC programs can be downloaded [here](https://sourceforge.net/projects/tcprogs/).
     + All come with very nice IDEs. Turbo Pascal 5.5 pictured below.
 
-![turbop55](./imgs/turbop55.jpg)
+[![turbop55](./imgs/turbop55.jpg)](https://www.youtube.com/watch?v=UNx4dxXptUg "Turbo Pascal - click to play")
 
 
 + [BREXX](./zip/brexx.zip) 2.0 - A REXX interpreter

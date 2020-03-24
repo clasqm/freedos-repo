@@ -15,7 +15,7 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
     + The game comes in two versions: the normal release and a "LITE" variant. The LITE version is the same thing, but with pictures removed - may be handy for computers that have extremely limited storage.
     + This package ONLY contains the lite version.
 
-![drlite](./imgs/drlite.png)
+[![drlite](./imgs/drlite.png)](https://www.youtube.com/watch?v=PfTl1IiOJn4 "Dr Mind - click to play")
 
 + [Drobos](./zip/drobos.zip) - Daleks for DOS
     + You find  yourself on an open field surrounded  by hordes of hostile creatures.
@@ -50,7 +50,7 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
 
 ![shufflev](./imgs/shufflev.png)
 
-+ [Towers of Hani](./zip/hanoi.zip) 1.3 
++ [Towers of Hanoi](./zip/hanoi.zip) 1.3 
     + Freeware by J R Ferguson
     + A classical recursive algorithm for which a  'legend'  was thought  up.  In Hanoi there would be monks that have a sheer inhuman task: Nine stone disks, all with a different diameter and a hole in  the  middle, are  piled on a pole, the smallest op top. Two more poles are placed beside it. The task consists  of  moving  all  disks  from  the  leftmost  to  the rightmost pole, using the middle pole as a place to store disks in-between.
     + There are two rules that must be observed:

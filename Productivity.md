@@ -46,7 +46,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + Packaged as registered to "FreeDOS User" with serial number already filled in (but see the LSM file if you need it for some reason).
     + Also contains the manual in PDF format.
 
-![ASEASY](./imgs/aseasy.png)
+[![ASEASY](./imgs/aseasy.png)](https://www.youtube.com/watch?v=O9a1w8XQD6w AS-Easy-As - click to play)
 
 + [Aurora](./zip/aurora.zip) - A popular and innovative shareware DOS text editor by Jeff Wunderlich and NText.
     + Aurora utilizes a multi-window, mouse-compatible text mode GUI.
@@ -73,7 +73,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + In 1995 Novell released DataPerfect as freeware and development was continued by its original author, Lew Bastian until about 2008.
     + **Packager's note:** I'll admit, I can't make head or tails of this program, but there are people who swear by it. You can get supporting programs and files [here](https://www.dataperfect.nl/files/).
 
-![dataperfect](./imgs/datapfct.jpg)
+[![dataperfect](./imgs/datapfct.jpg)](https://www.youtube.com/watch?v=tgXyykFP9tM "DataPerfect - click to play")
 
 + [DBM](./zip/dbm.zip) -  is a general-purpose database manager. It works in text mode screen with excellent mouse support. DBM also supports user configuration for
   user-defined tasks on specific database files.
@@ -190,7 +190,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
         + [Deutsch](./zip/word55de.zip)
         + [Français](./zip/word55fr.zip)
 
-![word55](./imgs/word55.png)
+[![word55](./imgs/word55.png)](https://www.youtube.com/watch?v=4Wd8K2n5ayk "MS Word - click to play")
 
 + [Mined](./zip/mined.zip) 2015.25 - A powerful text editor with a comprehensive and easy-to-use user interface and fast, small-footprint behaviour.
     + It is pronounced "min-ed" :-)
@@ -268,9 +268,16 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![sagewords](./imgs/sageword.png)
 
++ [VDE](./zip/vde.zip) - A small, fast, powerful DOS text editor with many unusual word processing features.
+    + Persistent autoformat; multiple files, dual windows; Use menus (F10) or WordStar commands; macros; many file formats, including RTF; Windows compatibility; extensive customization (run VINST.COM), and much more.
+    + Ideal editor to shell from applications, for email and other simple writing tasks.
+    + Freeware.
+
+![VDE](./imgs/vde.png)
+
 + [VisiCalc](./zip/visicalc.zip) - The original spreadsheet, now fit only for antiquarian purposes. But it still works and it's a nostalgia trip!
 
-![visicalc](./imgs/visicalc.gif)
+[![visicalc](./imgs/visicalc.gif)](https://www.youtube.com/watch?v=Ii3PDjJCCQ4 "VisiCalc - click to play")
 
 + [Vision Edit](./zip/vised.zip) 3.5 - A useful, fast, user-friendly, versatile text editor. 
     + Can edit as many documents as you like neatly placed in windows.

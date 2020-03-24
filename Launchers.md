@@ -129,7 +129,7 @@ EXEMENU C:\FDOS\LINKS
     + Originally from [SourceForge](https://sourceforge.net/projects/lcars24/).
     + GPL v2, source included.
 
-![lcars24](./imgs/LCARS24.jpg)
+[![lcars24](./imgs/LCARS24.jpg)](https://www.youtube.com/watch?v=Uoho7-vGigM "LCARS 24 - click to play")
 
 + [Menu X](./zip/menux.zip) - Simple menuing system.
     + Freeware by Yijun Ding.
