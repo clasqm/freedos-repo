@@ -20,14 +20,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![@compare](./imgs/@compare.png)
 
-+ [Agena](./zip/agena.zip) 2.17.4 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.17.8 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 11 March 2020.
+    + Last updated 28 March 2020.
 
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
     + Detects lots of hard and soft wares, including all the latest (c. 2004) technolfogy.
