@@ -178,6 +178,8 @@ language that allows programs and algorithms to be written in a clear and struct
 + [VT Prolog](./zip/vtprolog.zip) - Very Tiny Prolog.
     + A  simple PROLOG interpreter provided to encourage experimentation with PROLOG.
 
++ [WBAT](./zip/wbat.zip) - Create dialog boxes within DOS batch files.
+
 + [XLisp](./zip/xlisp.zip) 2.0 - An Object-oriented Lisp.
     + Free for noncommercial use.
     + XLISP is an experimental programming language combining some of the features of Common Lisp with an object-oriented extension capability.

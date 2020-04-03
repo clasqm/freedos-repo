@@ -26,6 +26,15 @@ Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the 
 
 ![Drobos](./imgs/drobos.png)
 
++ [Ford Driving Simulator](./zip/ford.zip)
+    + If you weren't able to visit your local Ford dealer, you could test drive several Ford models on your computer. 
+    + This was meant as a car driving simulator, not a game - but it certainly played like a game.
+    + Also has stats and details about Ford's 1988 models.
+
+[![ford](./imgs/ford.png)](https://https://www.youtube.com/watch?v=vVrAxsknoVw "Ford Driving Simulator - click to play")
+
++ [Life2](./zip/life2.zip) - A text-mode version of Conway's Game of Life.
+
 + [Mahjong!](./zip/mahjong.zip) -  Based on the popular Chinese tile game Mahjong and attempts to closely approximate play of that game on your PC.
     + Shareware.
 

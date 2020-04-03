@@ -121,6 +121,11 @@ calculator.
 
 ![ptsde](./imgs/ptsde.gif)
 
++ [TN Calc](./zip/tncalc.zip) - A scientific Calculator
+    + non-TSR
+
+![Tncalc](./imgs/tncalc.png)
+
 + **Tutordo** in [English](./zip/tutordoe.zip) and [Italian](./zip/tutordoi.zip) - A file manager.
     + All the usual features of a text-mode file manager.
     + Included in this repository because it has a (partial) Italian translation.

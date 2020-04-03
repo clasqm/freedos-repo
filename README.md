@@ -77,11 +77,14 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 -----
 
 ## <a name="Whatsnew"></a>What's new?
+3 April 2020: Added TN Calc to [Miscellaneous applications](Misc.md).  
+3 April 2020: Added Ford Driving Simulator to [Really simple games](Games.md).  
+3 April 2020: Added Life2 to [Really simple games](Games.md).  
 3 April 2020: Added Antivir to [Miscellaneous applications](Misc.md).  
 3 April 2020: added Redit_DE text editor to [Productivity applications](Productivity.md).  
 3 April 2020: Added IA16 to [Programming languages etc.](Development.md).  
-28 March 2020: Updated Agena in [Programming languages etc.](Development.md).  
-24 March 2020: added GSR to [Programming languages etc.](Development.md).  
+28 March 2020: Updated Agena in [Programming languages etc.](Development.md)  
+24 March 2020: added GSR to [Programming languages etc.](Development.md)  
 24 March 2020: added VDE text editor to [Productivity applications](Productivity.md).  
 
 -----
