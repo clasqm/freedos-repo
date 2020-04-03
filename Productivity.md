@@ -261,6 +261,11 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![rebel](./imgs/rebel.png)
 
++ [Redit_DE](./zip/redit_de.zip) - Text editor with German interface.
+    + Linux and Windows versions thrown in for good measure.
+
+![redit_de](./imgs/redit_de.png)
+
 + [SageWords](./zip/sageword.zip) - Word processor.
     + Freeware (?) by Sage Software Systems.
     + By modern (e.g. 1995) standards, more an advanced text editor than a word processor. Files are saved in pure ASCII with embedded printer codes.

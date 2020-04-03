@@ -6,6 +6,12 @@
 For installation instructions, please [return to General Index](README.md)
 
 -----
++ [AntiVir](./zip/antivir.zip) - Virus scanner for DOS
+    + Boot-, VBS-, IRC-Viruses, Trojans and other malware.
+    + Developed and updated as recently as 2018.
+    + Freeware from http://rose.rult.at/
+
+![antivir](./imgs/antivir.png)
 
 + [ATI Fonts](./zip/atifonts.zip)- 33 little COM programs that change your DOS screen font.
     + Found on an old shareware CD-ROM with no indication of authorship or license conditions.

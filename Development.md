@@ -109,6 +109,11 @@ language that allows programs and algorithms to be written in a clear and struct
 
 ![Hiew](./imgs/hiew.png)
 
++ **IA16** -  a DJGPP/MS-DOS-hosted (32-bit x86) port of the GNU C and C++ compiler toolchain to the IA-16 target (16-bit Intel x86)
+    + The toolchain itself is 32-bit, but it will output 16-bit code.
+    + Not one of my packages, so the installation is slightly different, but you'll figure it out.
+    + Binary,source and documentation packages, for FreeDOS, downloadable at [Github](https://github.com/tkchia/build-ia16/releases/latest).
+
 + [Illinois Functional Programming](./zip/ifp.zip) 0.5 - An experimental functional language.
 
 + [Modula-2](./zip/modula2.zip) 4.0 - FST (Fitted) Modula-2 Version 4.0

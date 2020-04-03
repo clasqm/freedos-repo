@@ -28,7 +28,7 @@
 
 ## <a name="Introduction"></a>Introduction
 
-This is a repository of [FreeDOS](http://www.freedos.org/)-compatible freeware and OSS software. Not "abandonware", by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware. 
+This is a repository of [FreeDOS](http://www.freedos.org/)-compatible freeware and OSS software. Not "abandonware", by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware.
 
 However, non-crippled shareware with a single nag screen at the beginning or end is fair game. Whether you are going to try to send money to a developer from thirty or forty years ago who could be dead by now is up to you.
 
@@ -47,6 +47,8 @@ On a standard FreeDOS installation, Option 1 of the initial menu is
 and that is the setting under which I test these programs. I have seen graphical programs, in particular, crash all too often under EMM386 in Option 2. If one of these apps absolutely requires Expanded Memory, I will document it here.
 
 I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
+
+-----
 
 {: style="text-align:center"}
 [Return to Table of Contents](#contents)
@@ -67,11 +69,20 @@ Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batc
 
 Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.
 
+-----
+
+{: style="text-align:center"}
+[Return to Table of Contents](#contents)
+
+-----
 
 ## <a name="Whatsnew"></a>What's new?
-28 March 2020: Updated Agena in [Programming languages etc.](Development.md)  
-24 March 2020: added GSR to [Programming languages etc.](Development.md)  
-24 March 2020: added VDE text editor to [Productivity applications](Productivity.md)  
+3 April 2020: Added Antivir to [Miscellaneous applications](Misc.md).  
+3 April 2020: added Redit_DE text editor to [Productivity applications](Productivity.md).  
+3 April 2020: Added IA16 to [Programming languages etc.](Development.md).  
+28 March 2020: Updated Agena in [Programming languages etc.](Development.md).  
+24 March 2020: added GSR to [Programming languages etc.](Development.md).  
+24 March 2020: added VDE text editor to [Productivity applications](Productivity.md).  
 
 -----
 
