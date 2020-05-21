@@ -122,17 +122,26 @@ language that allows programs and algorithms to be written in a clear and struct
     + The  only  changes   in  this   package  are   in  the documentation; specifically, the software license  changed, as shareware registration is no longer available.
     + See \FDOS\DEVEL\MODULA2\DOC\M2DOC.TXT for documentation.
 
-+ [Moonrock](./zip/moonrock.com) 0.5 - A BASIC-like language with several extensions.
++ [Moonrock](./zip/moonrock.zip) 0.5 - A BASIC-like language with several extensions.
     + Produces small and tight executables. 
     + 8086, 80186+ or 80386+ code.
     + DOS real mode or DPMI protected mode.
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
     + Freeware by Rowan Crowe
 
++ [MSKB](./zip/mskb.) - Microsoft Knowledge Base
+    + This program contains the entire Microsoft QuickBASIC knowledge base, the same one used by Microsoft technical support when you called in with a problem. Only documents dealing with Microsoft BASIC products are included in this database, those being:
+        +Microsoft Basic & QuickBASIC versions 1.0 to 4.5
+        + Microsoft BASIC PDS versions 7.0 and 7.1
+        + Microsoft BASIC for Macintosh, versions 1.00 to 1.00e
+    + The retrieval utility requires that you have a VGA card installed and 1m of expanded memory available.
+
+![mskb](./imgs/mskb.png)
+
 + [ Navratil Software System Information (NSSI)](./zip/nssi.zip) - system information tool.
     + A similar program is [Informer](./zip/informer.zip).
 
-![nssi](./imgs/nssi.png)
+![nssi](/imgs/nssi.png)
 
 + [Pacific C](./zip/pacific.zip) 7.51- ANSI C compiler and IDE.
     + Freeware for noncommercial use by HI-TECH Software.

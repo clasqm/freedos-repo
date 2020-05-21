@@ -280,6 +280,17 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![VDE](./imgs/vde.png)
 
++ [Views](./zip/views.zip) - Fileviewer with smooth scrolling.
+    + extremely fast (boolean and multifile) search,
+(word)linewrap
+    + mouse-support
+    + custom ASCII-tables
+    + text-highlighting
+    + any textmode
+    + own TXT2EXE utility.
+
+![Views](./imgs/views.png)
+
 + [VisiCalc](./zip/visicalc.zip) - The original spreadsheet, now fit only for antiquarian purposes. But it still works and it's a nostalgia trip!
 
 [![visicalc](./imgs/visicalc.gif)](https://www.youtube.com/watch?v=Ii3PDjJCCQ4 "VisiCalc - click to play")
