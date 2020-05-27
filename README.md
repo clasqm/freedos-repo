@@ -6,7 +6,9 @@
 [Introduction](#Introduction)  
 [Installation instructions](#Installation)
 
-[What's new?](#Whatsnew)  
+[What's new?](#Whatsnew)
+
+[My FreeDOS apps](My_apps.md)
 
 [Program launchers, file managers and environments](Launchers.md)  
 [Productivity applications](Productivity.md)  

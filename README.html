@@ -4,24 +4,26 @@
 
 <h2><a name="contents"></a>Contents</h2>
 
-<p><a href="#Introduction">Introduction</a> <br />
+<p><a href="#Introduction">Introduction</a><br/>
 <a href="#Installation">Installation instructions</a></p>
 
-<p><a href="#Whatsnew">What's new?</a>  </p>
+<p><a href="#Whatsnew">What&rsquo;s new?</a></p>
 
-<p><a href="Launchers.md">Program launchers, file managers and environments</a> <br />
-<a href="Productivity.md">Productivity applications</a> <br />
-<a href="Graphics.md">Graphics applications</a> <br />
-<a href="Development.md">Programming languages etc.</a> <br />
-<a href="Games.md">Really simple games</a> <br />
-<a href="Education.md">Educational Programs</a> <br />
-<a href="Eyecandy.md">Screensavers and other eye candy</a> <br />
-<a href="Commandline.md">Command-line utilities</a> <br />
-<a href="Misc.md">Miscellaneous applications</a> <br />
-<a href="TSR.md">Terminate-and-stay-resident utilities</a> <br />
-<a href="Tutorials.md">Tutorials</a> <br />
-<a href="Example.md">Example Code collections</a> <br />
-<a href="Documents.md">Document collections</a>  </p>
+<p><a href="My_apps.md">My FreeDOS apps</a></p>
+
+<p><a href="Launchers.md">Program launchers, file managers and environments</a><br/>
+<a href="Productivity.md">Productivity applications</a><br/>
+<a href="Graphics.md">Graphics applications</a><br/>
+<a href="Development.md">Programming languages etc.</a><br/>
+<a href="Games.md">Really simple games</a><br/>
+<a href="Education.md">Educational Programs</a><br/>
+<a href="Eyecandy.md">Screensavers and other eye candy</a><br/>
+<a href="Commandline.md">Command-line utilities</a><br/>
+<a href="Misc.md">Miscellaneous applications</a><br/>
+<a href="TSR.md">Terminate-and-stay-resident utilities</a><br/>
+<a href="Tutorials.md">Tutorials</a><br/>
+<a href="Example.md">Example Code collections</a><br/>
+<a href="Documents.md">Document collections</a></p>
 
 <p><a href="Tips.md">FreeDOS tips</a></p>
 
@@ -29,7 +31,7 @@
 
 <h2><a name="Introduction"></a>Introduction</h2>
 
-<p>This is a repository of <a href="http://www.freedos.org/">FreeDOS</a>-compatible freeware and OSS software. Not "abandonware", by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware.</p>
+<p>This is a repository of <a href="http://www.freedos.org/">FreeDOS</a>-compatible freeware and OSS software. Not &ldquo;abandonware&rdquo;, by which I mean that you will not find formerly commercial software here that have not been explicitly made open-source or at least freeware.</p>
 
 <p>However, non-crippled shareware with a single nag screen at the beginning or end is fair game. Whether you are going to try to send money to a developer from thirty or forty years ago who could be dead by now is up to you.</p>
 
@@ -39,7 +41,7 @@
 
 <p>This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on <em>FreeDOS 1.2</em> (on bare silicon and in the <em>DOSBox</em> emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try <a href="http://reimagery.com/fsfd/">this site</a> or <a href="https://www.opus.co.tt/dave/indexall.htm">this one</a>. I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.</p>
 
-<p>An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.</p>
+<p>An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don&rsquo;t like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.</p>
 
 <p>On a standard FreeDOS installation, Option 1 of the initial menu is
 <code>
@@ -51,45 +53,45 @@ and that is the setting under which I test these programs. I have seen graphical
 
 <hr />
 
-<p>{: style="text-align:center"}
+<p>{: style=&ldquo;text-align:center&rdquo;}
 <a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
 <h2><a name="Installation"></a>To install these packages:</h2>
 
-<p>Download the package, transfer it to your FreeDOS system and extract the zip file to the <strong>ROOT directory</strong> (C:\). </p>
+<p>Download the package, transfer it to your FreeDOS system and extract the zip file to the <strong>ROOT directory</strong> (C:\).</p>
 
 <pre><code>unzip packagename.zip -d c:\
 </code></pre>
 
 <p>You might be tempted to use the <em>DosZip Commander</em>, which is bundled with FreeDOS and can be called up with the command <em>dz</em>, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use <em>dz</em>. The command line works fine.</p>
 
-<p><em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.</p>
+<p><em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can&rsquo;t. Better then, to have a single installation procedure for all my packages.</p>
 
-<p>Programs that do not run directly from <em>c:\FDOS\BIN</em> will have a convenient batch file placed in <em>C:\FDOS\LINKS</em>. If a program requires changes to <em>CONFIG.SYS</em> or <em>AUTOEXEC.BAT</em>, that will be documented here. </p>
+<p>Programs that do not run directly from <em>c:\FDOS\BIN</em> will have a convenient batch file placed in <em>C:\FDOS\LINKS</em>. If a program requires changes to <em>CONFIG.SYS</em> or <em>AUTOEXEC.BAT</em>, that will be documented here.</p>
 
-<p>Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.</p>
+<p>Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn&rsquo;t be too hard.</p>
 
 <hr />
 
-<p>{: style="text-align:center"}
+<p>{: style=&ldquo;text-align:center&rdquo;}
 <a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
 
-<h2><a name="Whatsnew"></a>What's new?</h2>
+<h2><a name="Whatsnew"></a>What&rsquo;s new?</h2>
 
-<p>21 May 2020: Added MSKB to <a href="Development.md">Programming languages etc.</a> <br />
-21 May 2020: Fixed Moonrock in <a href="Development.md">Programming languages etc.</a> <br />
-11 May 2020: Added Views to <a href="Productivity.md">Productivity applications</a> <br />
-5 May 2020: Fixed Conversions by Rosewood in <a href="Misc.md">Miscellaneous applications</a>. <br />
-4 May 2020: Updated Agena in <a href="Development.md">Programming languages etc.</a> <br />
-3 April 2020: Added TN Calc to <a href="Misc.md">Miscellaneous applications</a>.  </p>
+<p>21 May 2020: Added MSKB to <a href="Development.md">Programming languages etc.</a><br/>
+21 May 2020: Fixed Moonrock in <a href="Development.md">Programming languages etc.</a><br/>
+11 May 2020: Added Views to <a href="Productivity.md">Productivity applications</a><br/>
+5 May 2020: Fixed Conversions by Rosewood in <a href="Misc.md">Miscellaneous applications</a>.<br/>
+4 May 2020: Updated Agena in <a href="Development.md">Programming languages etc.</a><br/>
+3 April 2020: Added TN Calc to <a href="Misc.md">Miscellaneous applications</a>.</p>
 
 <hr />
 
-<p>{: style="text-align:center"}
+<p>{: style=&ldquo;text-align:center&rdquo;}
 <a href="#contents">Return to Table of Contents</a></p>
 
 <hr />
