@@ -121,6 +121,11 @@ calculator.
 
 ![ptsde](./imgs/ptsde.gif)
 
++ [Quick](./zip/quick.zip) - A systems information viewer.
+    + QuickBASIC source code included
+
+![quick](./imgs/quick.png)
+
 + [TN Calc](./zip/tncalc.zip) - A scientific Calculator
     + non-TSR
 

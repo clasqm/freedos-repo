@@ -79,6 +79,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 -----
 
 ## <a name="Whatsnew"></a>What's new?
+3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
 21 May 2020: Added MSKB to [Programming languages etc.](Development.md)  
 21 May 2020: Fixed Moonrock in [Programming languages etc.](Development.md)  
 11 May 2020: Added Views to [Productivity applications](Productivity.md)  
