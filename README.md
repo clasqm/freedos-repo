@@ -78,14 +78,13 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 -----
 
-## <a name="Whatsnew"></a>What's new?
+## <a name="Whatsnew"></a>What's new?10 June 2020: Updated Agena in [Programming languages etc.](Development.md)  
 3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
 30 May 2020: Added QBASDOWN to [My FreeDOS apps](My_apps.md)  
 21 May 2020: Added MSKB to [Programming languages etc.](Development.md)  
 21 May 2020: Fixed Moonrock in [Programming languages etc.](Development.md)  
 11 May 2020: Added Views to [Productivity applications](Productivity.md)  
 5 May 2020: Fixed Conversions by Rosewood in [Miscellaneous applications](Misc.md).  
-4 May 2020: Updated Agena in [Programming languages etc.](Development.md)  
 
 -----
 
