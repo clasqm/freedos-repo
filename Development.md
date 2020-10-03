@@ -20,14 +20,14 @@ Please understand: I don't actually know all these languages. Where possible, I 
 
 ![@compare](./imgs/@compare.png)
 
-+ [Agena](./zip/agena.zip) 2.21.3 - an interpreted procedural programming language.
++ [Agena](./zip/agena.zip) 2.22.0 - an interpreted procedural programming language.
     + Dual-licensed GPL v2 and MIT
     + A new easy-to-learn procedural programming language.
     + Suitable for scientific, mathematical, scripting, networking, and many other applications.
     + Binaries are [available](https://sourceforge.net/projects/agena/) for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
     + Source included.
     + Under active development, so keep an eye out for updates.
-    + Last updated 1 July 2020.
+    + Last updated 3 October 2020.
 
 + [Aida](./zip/aida.zip) v2.14-0202 - DOS System Information Tool.
     + Detects lots of hard and soft wares, including all the latest (c. 2004) technolfogy.
@@ -129,7 +129,7 @@ language that allows programs and algorithms to be written in a clear and struct
     + Includes compiler, ArrowSoft assembler, documentation and sample programs.
     + Freeware by Rowan Crowe
 
-+ [MSKB](./zip/mskb.) - Microsoft Knowledge Base
++ [MSKB](./zip/mskb.zip) - Microsoft Knowledge Base
     + This program contains the entire Microsoft QuickBASIC knowledge base, the same one used by Microsoft technical support when you called in with a problem. Only documents dealing with Microsoft BASIC products are included in this database, those being:
         +Microsoft Basic & QuickBASIC versions 1.0 to 4.5
         + Microsoft BASIC PDS versions 7.0 and 7.1
@@ -141,7 +141,10 @@ language that allows programs and algorithms to be written in a clear and struct
 + [ Navratil Software System Information (NSSI)](./zip/nssi.zip) - system information tool.
     + A similar program is [Informer](./zip/informer.zip).
 
-![nssi](/imgs/nssi.png)
+![nssi](./imgs/nssi.png)
+
++ [Oberon-M](./zip/oberon-m.zip) - an Oberon compiler.
+    +   The Oberon-M compiler is an MSDOS based program which translates Oberon source code files into MSDOS object files.  These files are linked together to form executable programs (files of ".EXE" type).
 
 + [Pacific C](./zip/pacific.zip) 7.51- ANSI C compiler and IDE.
     + Freeware for noncommercial use by HI-TECH Software.
