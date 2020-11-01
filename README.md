@@ -79,7 +79,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 -----
 
 ## <a name="Whatsnew"></a>What's new?
-3 October 2020: Updated Agena in [Programming languages etc.](Development.md)  
+1 November 2020: Updated Agena in [Programming languages etc.](Development.md)  
 1 July 2020: Updated MSKB in [Programming languages etc.](Development.md)  
 1 July 2020: Added Oberon-M added [Programming languages etc.](Development.md)  
 3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
