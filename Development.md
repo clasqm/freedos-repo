@@ -91,6 +91,12 @@ language that allows programs and algorithms to be written in a clear and struct
     + See /FDOS/DEVEL/FLISP/flisp.txt for documentation.
     + Other (untested) Lisp implementations include [Adler](./zip/adler.zip) and [PDLisp](./zip/pdlisp.zip).
 
++ [GFA BASIC](./zip/gfabasic.zip)- A BASIC dialect with a strong emphasis on graphics
+    + According to the documentation, this is a trial version with a 300-line limit.
+    + Runs a bit slowly, but interesting nonetheless.
+
+![GFA BASIC](./imgs/gfabasic.png)
+
 + [GSR](./zip/gsr.zip) - Global search and replace utility for text files.
     + File pattern selector
     + Can recurse across directories
