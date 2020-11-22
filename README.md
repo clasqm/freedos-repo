@@ -41,14 +41,9 @@ Source code is included wherever possible.
 This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on *FreeDOS 1.2* (on bare silicon and in the *DOSBox* emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try [this site](http://reimagery.com/fsfd/) or [this one](https://www.opus.co.tt/dave/indexall.htm). I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.
 
 An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.
-
-On a standard FreeDOS installation, Option 1 of the initial menu is
 ````
-1 - Load FreeDOS with JEMMEX, no EMS (most UMBs), max RAM free
-````
-and that is the setting under which I test these programs. I have seen graphical programs, in particular, crash all too often under EMM386 in Option 2. If one of these apps absolutely requires Expanded Memory, I will document it here.
 
-I may also slip in a few little apps that I wrote myself. You will know them by a certain primitive look and feel :-)
+I also slip in a few little apps that [I wrote myself](My_apps.md). You will know them by a certain primitive look and feel :-)
 
 -----
 
@@ -79,6 +74,10 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 -----
 
 ## <a name="Whatsnew"></a>What's new?
+
+22 November 2020: Added Alite to [TSR](TSR.md)  
+22 November 2020: Added Shass to [Productivity Applications](Productivity.md)  
+22 November 2020: Added Champ Galagon to [Games](Games.md)  
 22 November 2020: Added LN for DOS to [My FreeDOS apps](My_apps.md)  
 22 November 2020: Added GFA BASIC to [Programming languages etc.](Development.md)  
 10 November 2020: Updated Agena in [Programming languages etc.](Development.md)  

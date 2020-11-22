@@ -23,7 +23,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + I have taken care of the installation for you and "registered" it to "FreeDOS User".
     + You can start the program with either *acrodos* or *acrobat*: the two batch files are identical.
     + If you have graphical problems, try *acrodosu* or *acrobatu*: these load the UNIVBE driver before running Acrobat itself. Makes no difference on *my* system, but it might help with really old display cards.
-    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject. Or you can use DOSPDF, which you will find in the [command line section](Commandline.md).
+    + Acrobat for DOS can only display PDFs built to an early specification. But there are ways to convert a modern PDF to an older version: see [here](https://www.techwalla.com/articles/how-to-convert-pdf-files-to-an-older-format) and [here](https://itstillworks.com/save-pdf-older-version-adobe-6781219.html) for some ideas on the subject. Or you can use [DOSPDF](./zip/dospdf.zip), which you will find described in full in the [command line section](Commandline.md). Finally, you can try [muPDF](./zip/mupdf.zip)
     + in *CONFIG.SYS*, your *FILES=* statement should be at least 20. The FreeDOS default is 40, so that should not be a problem.
 
 ![Acrobat](./imgs/acrodos.png)
@@ -64,6 +64,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 + [Breeze](./zip/breeze.zip) by Kevin Solway - One of the most comprehensive text editors ever written for DOS.
     + Narrowly beats Aurora (above) in that it has a spell-checker. YMMV.
     + Ignore all the shareware documentation: according to the [website](http://www.theabsolute.net/sware/oldfav.html) this is now freeware.
+    + Similar programs include [Bingo](./zip/bingo.zip) and [Boxer](./zip/boxer.zip). What is it with text editor programmers and the letter B?
 
 ![Breeze](./imgs/breeze.gif)
 
@@ -272,6 +273,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
     + For those who pine for WordStar key shortcuts, this might be your program.
 
 ![sagewords](./imgs/sageword.png)
+
++ [Shass](./zip/shass.zip) - A Shopping Assistant
+    + Shass helps you organize and automate tasks related to (grocery) shopping.
+    + These tasks include maintaining an inventory of items and coupons, deciding what and how much you need to buy, making a shopping list, and keeping track of your shopping while in the stores. 
+    + Shass is particularly tailored to the Hewlett Packard's HP100LX palmtop by utilizing its 64X18 screen and special keys. However, it can be run without any problems or limitations on any industry standard DOS computer.
+
+![shass](./imgs/shass.png)
 
 + [VDE](./zip/vde.zip) - A small, fast, powerful DOS text editor with many unusual word processing features.
     + Persistent autoformat; multiple files, dual windows; Use menus (F10) or WordStar commands; macros; many file formats, including RTF; Windows compatibility; extensive customization (run VINST.COM), and much more.

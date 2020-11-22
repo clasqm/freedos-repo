@@ -27,7 +27,7 @@ SWSUBST B: C:\FDOS\DRIVEB
 
 If you are developing a program or trying to figure out why that downloaded application does not work, it can be useful to boot FreeDOS with **no drivers at all**. The default FreeDOS boot menu is misleading: it does include some memory drivers even on option 3. So let's pretend it's 1981 and boot FreeDOS with just 640Kb, COMMAND.COM taking up some of that, and absolutely nothing else!  
 
-**IN FDCONFIG.SYS**  
+**IN FDCONFIG.SYS or FDCONF.SYS**  
 
 Add the following line at the beginning of the MENU block:  
 
@@ -39,7 +39,7 @@ or whatever text description you prefer. Here's where it gets tricky. According 
 
 with **no spaces**. REM is technically a command. It just happens not to do anything.  
 
-**In AUTOEXEC.BAT**  
+**In AUTOEXEC.BAT or FDAUTO.BAT**  
 
 Right at the end, on the very last line (open up a new last line if you have to), add the following:  
 

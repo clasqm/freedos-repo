@@ -9,6 +9,12 @@ For installation instructions, please [return to General Index](README.md)
 
 Prepare to be disappointed. I am not a gamer AT ALL and I only put a few of the most simple little games up here. This is the least developed section of the repository and probably always will be.
 
++ [Champ Galagon](./zip/galagon.zip) - A Galaga clone
+    + You know how to play Galaga
+    + A bit slow under emulation.
+
+![galagon](./imgs/galagon.png)
+
 + [Dr Mind Lite](./zip/drlite.zip) - A Mastermind clone
     + Dr. Mind is a PC adaptation of the Mastermind (TM) board game. The computer generates a secret color code, then the player has to figure out the exact pattern through deduction.
     + Keyboard controls: arrows, return and escape. TIP: The UP arrow key cycles through colors.

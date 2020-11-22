@@ -11,6 +11,10 @@ Not a priority, sorry. These things can crash your system mightily if you invoke
 
 Still, if and when I do find some that are sufficiently robust and useful, I will post them here. The program I use to test  them in graphics mode is [Adobe Acrobat for DOS](./zip/acrodos.zip). If they do nothing in Acrobat when the hotkey is pressed, they get posted here. But test them with any graphical programs you use!
 
++ [ALITE](./zip/alite.zip) - A TSR version of the As-Easy-As spreadsheet.
+    + Can save itself to Expanded, Extended or Disk memory. Please refer to the documentation.
+    + Uses just 7k of memory when not in use.
+
 + [ASCII Box](./zip/asciibox.zip) - Displays a table of the 256 ASCII characters, which it can insert into DOS/ASCII text.
     + The command ASCIIBOX loads it into memory.Then, at the DOS prompt or in a document opened under another program, place the cursor where you want a character written.
     + Then press F12 to call up the table, and use the navigation keys to move the cursor to the character you want.
