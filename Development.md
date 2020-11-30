@@ -81,6 +81,28 @@ language that allows programs and algorithms to be written in a clear and struct
     + There is no limit to how many scripts you can put in your batch files and you can place scripts for multiple programming languages even within the same batch file!
     + BSCRIPT is a non-TSR batch file enhancer that adds abilities to a batch file, like a mini-programming language.
 
+* [DWED](./zip/dwed.zip) - a distration-free text editor/IDE
+    * Main features:
+        * Supports files with size over 64k
+        * Supports syntax highlighting (C/C++/C--, Pascal, Basic, Assembler, Xml/Html, text files etc)
+        * Supports multiple file editing at the same time
+        * Supports internal clipboard (size up to 32k)
+        * Supports unix-like text files for open
+        * Doesnt require DPMI-server or 80286 CPU
+        * Supports Long File Names (LFN)
+        * Supports user's color scheme (via config-file)
+        * Supports user's shell script running by hotkeys F5, F8, F9.
+        * You can disable highlighting.
+        * Supports mouse
+    *Restrictions:
+        * This software is writen in Borland Pascal, so string length is limited to 255 chars.
+        * DOS-conventional memory will be enough to load file up to ~300k..400k (expect - 300k border). You can use DPMI-version (*dwed16.exe*), if you need more memory and you have modern CPU.
+        * No Undo/Redo functionality.
+    * Source included, or go to [https://github.com/DosWorld/dwed](https://github.com/DosWorld/dwed)
+
+![dwed](./imgs/dwed.png)
+
+
 + [Elan-1 Programming Environment](./zip/elan1.zip) 1.5 - Educational language based on ALGOL.
     + Elan is an educational programming language for learning and teaching systematic programming.
     + The Elan project group at the University of Nijmegen in the Netherlands has developed an Educational Programming Environment around Elan.
