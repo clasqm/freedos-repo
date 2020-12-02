@@ -46,57 +46,59 @@ Source code is included wherever possible.
 This is not meant to be a conclusive collection of DOS applications. These are apps that I have tested on <em>FreeDOS 1.2</em> (on bare silicon and in the <em>DOSBox</em> emulator) and that I find useful, fun or interesting. If you need something more comprehensive, try <a href="http://reimagery.com/fsfd/">this site</a> or <a href="https://www.opus.co.tt/dave/indexall.htm">this one</a>. I am not a gamer at all, so if that is what you are looking for, well, sorry, I only have a few of the simplest ones.
 </p><p>
 An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.
-<pre><code><p style=background-color:LightGray;>
-
-I also slip in a few little apps that [I wrote myself](My_apps.md). You will know them by a certain primitive look and feel :-)
-
------
-
+</p><p>
+Since I started this site, some apps have been incorporated into the FreeDOS installation itself. I'll weeed them out if I see that happening.
+</p><p>
+</p><p>
+I also slip in a few little apps that <a href="My<em>apps.md">I wrote myself</a>. You will know them by a certain primitive look and feel &#9786
+</p><p>
+<hr />
+</p><p>
 {: style="text-align:center"}
-[Return to Table of Contents](#contents)
-
------
-
-## <a name="Installation"></a>To install these packages:
-
-Download the package, transfer it to your FreeDOS system and extract the zip file to the **ROOT directory** (C:\\). 
-
-    unzip packagename.zip -d c:\
-
-You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz*. The command line works fine.
-
-*It is important to extract these packages to the root directory!* This is different from official FreeDOS packages, wich expect to be extracted to *C:\FDOS*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
-
-Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batch file placed in *C:\FDOS\LINKS*. If a program requires changes to *CONFIG.SYS* or *AUTOEXEC.BAT*, that will be documented here. 
-
+<a href="#contents">Return to Table of Contents</a>
+</p><p>
+<hr />
+</p><p>
+<h2> <a name="Installation"></a>To install these packages:</h2>
+</p><p>
+Download the package, transfer it to your FreeDOS system and extract the zip file to the <strong>ROOT directory</strong> (C:&#92). 
+</p><p>
+<pre><code><p style=background-color:LightGray;>unzip packagename.zip -d c:\</code></pre>
+</p><p>
+You might be tempted to use the <em>DosZip Commander</em>, which is bundled with FreeDOS and can be called up with the command <em>dz</em>, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use <em>dz</em>. The command line works fine.
+</p><p>
+<em>It is important to extract these packages to the root directory!</em> This is different from official FreeDOS packages, wich expect to be extracted to <em>C:\FDOS</em>. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
+</p><p>
+Programs that do not run directly from <em>c:\FDOS\BIN</em> will have a convenient batch file placed in <em>C:\FDOS\LINKS</em>. If a program requires changes to <em>CONFIG.SYS</em> or <em>AUTOEXEC.BAT</em>, that will be documented here. 
+</p><p>
 Sorry, there is no uninstall facility. But most of these packages consist of a single directory in C:\FDOS\PROGS (or C:\FDOS\DEVEL), a batch file in C:\FDOS\LINKS and an information file in C:\FDOS\APPINFO, so it shouldn't be too hard.
-
------
-
+</p><p>
+<hr />
+</p><p>
 {: style="text-align:center"}
-[Return to Table of Contents](#contents)
-
------
-
-## <a name="Whatsnew"></a>What's new?
-
-30 November 2020: Added DWED to [Programming languages etc.](Development.md)  
-22 November 2020: Added Alite to [TSR](TSR.md)  
-22 November 2020: Added Shass to [Productivity Applications](Productivity.md)  
-22 November 2020: Added Champ Galagon to [Games](Games.md)  
-22 November 2020: Added LN for DOS to [My FreeDOS apps](My_apps.md)  
-22 November 2020: Added GFA BASIC to [Programming languages etc.](Development.md)  
-10 November 2020: Updated Agena in [Programming languages etc.](Development.md)  
-1 July 2020: Updated MSKB in [Programming languages etc.](Development.md)  
-1 July 2020: Added Oberon-M added [Programming languages etc.](Development.md)  
-3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
-30 May 2020: Added QBASDOWN to [My FreeDOS apps](My_apps.md)  
-
------
-
+<a href="#contents">Return to Table of Contents</a>
+</p><p>
+<hr />
+</p><p>
+<h2> <a name="Whatsnew"></a>What's new?</h2>
+</p><p>
+<p>2 December 2020: Updated DWED in <a href="Development.md">Programming languages etc.</a><br />
+22 November 2020: Added Alite to <a href="TSR.md">TSR</a><br />
+22 November 2020: Added Shass to <a href="Productivity.md">Productivity Applications</a><br />
+22 November 2020: Added Champ Galagon to <a href="Games.md">Games</a><br />
+22 November 2020: Added LN for DOS to <a href="My<em>apps.md">My FreeDOS apps</a><br />
+22 November 2020: Added GFA BASIC to <a href="Development.md">Programming languages etc.</a><br />
+10 November 2020: Updated Agena in <a href="Development.md">Programming languages etc.</a><br />
+1 July 2020: Updated MSKB in <a href="Development.md">Programming languages etc.</a><br />
+1 July 2020: Added Oberon-M added <a href="Development.md">Programming languages etc.</a><br />
+3 June 2020: Added Quick Systems info viewer to <a href="Misc.md">Miscellaneous applications</a><br />
+30 May 2020: Added QBASDOWN to <a href="My<em>apps.md">My FreeDOS apps</a><br />
+</p>
+<hr />
+</p><p>
 {: style="text-align:center"}
-[Return to Table of Contents](#contents)
-
------
+<a href="#contents">Return to Table of Contents</a>
+</p><p>
+<hr />
 </body>
 </html>
