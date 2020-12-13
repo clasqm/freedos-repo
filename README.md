@@ -77,7 +77,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
-2 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
+13 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
 22 November 2020: Added Alite to [TSR](TSR.md)  
 22 November 2020: Added Shass to [Productivity Applications](Productivity.md)  
 22 November 2020: Added Champ Galagon to [Games](Games.md)  
