@@ -77,7 +77,8 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
-13 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
+20 December 2020: Added AMB to [Miscellaneous applications](Misc.md)  
+15 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
 22 November 2020: Added Alite to [TSR](TSR.md)  
 22 November 2020: Added Shass to [Productivity Applications](Productivity.md)  
 22 November 2020: Added Champ Galagon to [Games](Games.md)  
@@ -87,7 +88,6 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 1 July 2020: Updated MSKB in [Programming languages etc.](Development.md)  
 1 July 2020: Added Oberon-M added [Programming languages etc.](Development.md)  
 3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
-30 May 2020: Added QBASDOWN to [My FreeDOS apps](My_apps.md)  
 
 -----
 

@@ -6,6 +6,13 @@
 For installation instructions, please [return to General Index](README.md)
 
 -----
+
++ [AMB](./zip/amb.zip) - Ancient Machine Book
+    + An extremely lightweight file format meant to store any kind of hypertext documentation that may be comfortably viewed even on the most ancient PCs: technical manuals, books, etc.
+    + Think of it as a retro equivalent of a *.CHM help file.
+
+![AMB](./imgs/amb.png)
+
 + [AntiVir](./zip/antivir.zip) - Virus scanner for DOS
     + Boot-, VBS-, IRC-Viruses, Trojans and other malware.
     + Developed and updated as recently as 2018.
