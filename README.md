@@ -60,7 +60,7 @@ Download the package, transfer it to your FreeDOS system and extract the zip fil
 
     unzip packagename.zip -d c:\
 
-You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz*. The command line works fine.
+You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz* or similar apps. The command line works fine.
 
 *It is important to extract these packages to the root directory!* This is different from official FreeDOS packages, wich expect to be extracted to *C:\FDOS*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
 
@@ -78,7 +78,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 ## <a name="Whatsnew"></a>What's new?
 
 20 December 2020: Added AMB to [Miscellaneous applications](Misc.md)  
-15 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
+24 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
 22 November 2020: Added Alite to [TSR](TSR.md)  
 22 November 2020: Added Shass to [Productivity Applications](Productivity.md)  
 22 November 2020: Added Champ Galagon to [Games](Games.md)  
