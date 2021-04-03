@@ -77,6 +77,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
+3 April 2021: Added WordPerfect Graphics to [Documents](Documents.md)  
 20 December 2020: Added AMB to [Miscellaneous applications](Misc.md)  
 24 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
 22 November 2020: Added Alite to [TSR](TSR.md)  
@@ -86,8 +87,6 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 22 November 2020: Added GFA BASIC to [Programming languages etc.](Development.md)  
 10 November 2020: Updated Agena in [Programming languages etc.](Development.md)  
 1 July 2020: Updated MSKB in [Programming languages etc.](Development.md)  
-1 July 2020: Added Oberon-M added [Programming languages etc.](Development.md)  
-3 June 2020: Added Quick Systems info viewer to [Miscellaneous applications](Misc.md)  
 
 -----
 

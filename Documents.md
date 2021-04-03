@@ -52,7 +52,9 @@ For interactive programs containing similar content, see the [tutorials](Tutoria
 
 + [The Regina ReXX Interpreter](./zip/reginadc.zip) - by Anders Christensen.
     + In PDF format.
-    
+
++ [WordPerfect Graphics](./zip/wpg.zip) - In the original WPG format and also converted to SVG. Unzip these anywhere you want.
+
 + [Zip Magazine](./zip/zipmag.zip) - Online magazine c. 1988.
 
 -----
