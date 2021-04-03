@@ -77,6 +77,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
+3 April 2021: Added GeoClock to [Miscellaneous applications](Misc.md)  
 3 April 2021: Added WordPerfect Graphics to [Documents](Documents.md)  
 20 December 2020: Added AMB to [Miscellaneous applications](Misc.md)  
 24 December 2020: Updated DWED in [Programming languages etc.](Development.md)  

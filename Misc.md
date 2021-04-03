@@ -89,6 +89,10 @@ calculator.
 
 ![gim](./imgs/gim.png)
 
++ [GeoClock](./zip/geoclock.zip) - World map with Day/Night shading
+
+![geoclock](./imgs/geoclock.png)
+
 + [Gopherus](./zip/gopherus.zip) - A Gopher client
     + **UNTESTED**
     + Gopher is a text-based information retrieval system that predates the WWW. I'm actually surprised to hear that it is still running.
