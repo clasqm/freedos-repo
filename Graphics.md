@@ -13,7 +13,9 @@ For installation instructions, please [return to General Index](README.md)
 
 [![Animator](./imgs/animator.png)](https://www.youtube.com/watch?v=HTl-pPlaD7Q "Animator - click to play")
 
++ [Compushow](./zip/cshow.zip) - a viewer for GIF, MacPaint and RLE graphics files.
 
+![cshow](./imgs/cshow.png)
 
 + [GrafX2](./zip/grafx2.zip) 2.0 beta 96.5%. - 256-colour bitmap editor.
     + Released as shareware, but the source was [GPL'ed a year later](https://web.archive.org/web/20071213221524/http://code.google.com/p/grafx2/wiki/FreeSoftwareRelease).
