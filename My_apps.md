@@ -2,10 +2,14 @@
 -----
 
 {: style="text-align:center"}
-These apps are not packaged like the rest on this site. Links go to the github repositories.  
+These apps are not packaged like the rest on this site. Links go to the github repositories.
+
 [return to General Index](README.md)
+
 -----
 
++ [Amb-Utils](https://github.com/clasqm/amb-utils) - Small FreeDOS utilities for Mateusz Viste's AMB ([Ancient Machine Book](http://amb.osdn.io/)) e-book format.
+     + Ambrary - a simple launcher menu for your .AMB files.
 + [LN](https://github.com/clasqm/FakeLN4DOS) - A fake symlink creator for DOS
     + LN for DOS approximates the symlink command on UNIX-like operating systems by creating batch files.
 
