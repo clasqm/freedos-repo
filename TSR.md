@@ -33,6 +33,8 @@ character, and clear the table from the screen. Press Esc to clear the table wit
 
 + [DOSCLIP](./zip/dosclip.zip) - A TSR utility that provides Windows-like cut-and-paste facilities to applications running under DOS.
 
++ [Snarf](./zip/snarf.zip) - Take BMP screenshots with a hotkey.
+
 -----
 
 {: style="text-align:center"}

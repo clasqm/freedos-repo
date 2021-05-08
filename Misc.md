@@ -10,6 +10,7 @@ For installation instructions, please [return to General Index](README.md)
 + [AMB](./zip/amb.zip) - Ancient Machine Book
     + An extremely lightweight file format meant to store any kind of hypertext documentation that may be comfortably viewed even on the most ancient PCs: technical manuals, books, etc.
     + Think of it as a retro equivalent of a *.CHM help file.
+    + UPDATE: AMB will be included in FreeDOS 1.3.
 
 ![AMB](./imgs/amb.png)
 
