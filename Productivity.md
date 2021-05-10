@@ -215,6 +215,7 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 + [No EDLIN](./zip/noedlin.zip) - A small, fast text  editor based on the  IDE editor from  Borland.
     + Includes wordwrap and  spell checking.
     + Freeware from GDSOFT.
+    + [Swift Programming Editor](./zip/swiftpe.zip) is a similar program.
 
 ![noedlin](./imgs/noedlin.png)
 
