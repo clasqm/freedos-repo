@@ -311,6 +311,12 @@ achieve reincarnation.
 
 ![figlet](./imgs/figlet.png)
 
++ [FILEID](./zip/fileid.zip) - a program to identify filetypes.
+    + Slightly feature-limited freeware.
+    + As you can see in the screenshot below, it doesn't know about modern filetypes like EPUB, but correctly identifies it as essentially a ZIP file.
+
+![fileid](./imgs/fileid.png)
+
 + [GUTREAD](./zip/gutread.zip) -  read texts from the Gutenberg Project (or any other text file) and remove all the newlines saving hours of editing in your word processor.
     + It will also produce the text in XML format.
     + See the LSM file for instructions.
