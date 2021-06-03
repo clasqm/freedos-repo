@@ -219,7 +219,10 @@ language that allows programs and algorithms to be written in a clear and struct
     + XLISP is an experimental programming language combining some of the features of Common Lisp with an object-oriented extension capability.
     + It was implemented to allow experimentation with object-oriented programming on small computers.
 
-+ [XST BASIC](./zip/xst.zip) - A DOS Basic interpreter with C emitter.
++ [XST BASIC](./zip/xst.zip) - A DOS BASIC interpreter with C emitter.
+    + comes with an IDE.
+
+![xst](./imgs/xst.png)
 
 -----
 
