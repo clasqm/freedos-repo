@@ -77,6 +77,8 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
+3 June 2021 - Added XST BASIC to [Programming languages etc.](Development.md)  
+3 June 2021 - Added Brandy to [Programming languages etc.](Development.md)  
 11 May 2021 - Added FileID to [Command-line utilities](Commandline.md)  
 10 May 2021: Added Saget OS to [Productivity Applications](Productivity.md)  
 8 May 2021 - Added Snarf to [TSR](TSR.md)  
@@ -85,8 +87,6 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 3 April 2021 - Added Compushow to [Graphics Applications](Graphics.md)  
 3 April 2021: Added GeoClock to [Miscellaneous applications](Misc.md)  
 3 April 2021: Added WordPerfect Graphics to [Documents](Documents.md)  
-20 December 2020: Added AMB to [Miscellaneous applications](Misc.md)  
-24 December 2020: Updated DWED in [Programming languages etc.](Development.md)  
 
 -----
 
