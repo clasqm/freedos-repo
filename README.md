@@ -42,7 +42,7 @@ This is not meant to be a conclusive collection of DOS applications. These are a
 
 An example: FreeDOS comes with DosZip Commander. I use it all the time. And if you don't like that one, it also has DOS Navigator. There are dozens of Norton Commander clones out there: Directory Maven, Volkov Commander, you name it. But generally one is only going to end up in this repository if it offers a clear difference to and advantage over Doszip Commander.
 
-Since I started this site, some apps have been incorporated into the FreeDOS installation itself. I'll weeed them out if I see that happening.
+Since I started this site, some apps have been incorporated into the FreeDOS installation itself. I'll weed them out if I see that happening. If in doubt, use the one that comes with FreeDOS.
 
 
 I also slip in a few little apps that [I wrote myself](My_apps.md). You will know them by a certain primitive look and feel :-)
@@ -62,7 +62,7 @@ Download the package, transfer it to your FreeDOS system and extract the zip fil
 
 You might be tempted to use the *DosZip Commander*, which is bundled with FreeDOS and can be called up with the command *dz*, or similar utilities. I advise against this. These packages were actually created under Linux and you may come across weird crc errors if you use *dz* or similar apps. The command line works fine.
 
-*It is important to extract these packages to the root directory!* This is different from official FreeDOS packages, wich expect to be extracted to *C:\FDOS*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
+*It is important to extract these packages to the root directory!*. There is an actual reason for this. Some of these very old programs are not relocatable: They have hardcoded paths inside them and will crash or refuse to load if you try to run them from a strange directory. I have tried really hard to stick to the FreeDOS file system and not litter your root with directories, but sometimes I simply can't. Better then, to have a single installation procedure for all my packages.
 
 Programs that do not run directly from *c:\FDOS\BIN* will have a convenient batch file placed in *C:\FDOS\LINKS*. If a program requires changes to *CONFIG.SYS* or *AUTOEXEC.BAT*, that will be documented here. 
 
@@ -77,6 +77,7 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 
 ## <a name="Whatsnew"></a>What's new?
 
+5 June 2021 - Added Cyril to [Productivity applications](Productivity.md)  
 3 June 2021 - Added XST BASIC to [Programming languages etc.](Development.md)  
 3 June 2021 - Added Brandy to [Programming languages etc.](Development.md)  
 11 May 2021 - Added FileID to [Command-line utilities](Commandline.md)  
@@ -86,7 +87,6 @@ Sorry, there is no uninstall facility. But most of these packages consist of a s
 14 April 2021 - Added Amb-utils to [My FreeDOS apps](My_apps.md)  
 3 April 2021 - Added Compushow to [Graphics Applications](Graphics.md)  
 3 April 2021: Added GeoClock to [Miscellaneous applications](Misc.md)  
-3 April 2021: Added WordPerfect Graphics to [Documents](Documents.md)  
 
 -----
 

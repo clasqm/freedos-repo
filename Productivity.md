@@ -68,6 +68,13 @@ intuitive,   offering  mouse  support,  Windows-like menus  and  multiple docume
 
 ![Breeze](./imgs/breeze.gif)
 
++ [Cyril](./zip/cyril.zip) - English/Russian text editor
+    + This is a very simple word processor designed to allow work in both English and Russian. To allow this, it supports the standard Russian Cyrillic script.
+    + Cyril produces text files in Code Page 866. If you work with non-English encodings in DOS, I assume you know how to deal with that.
+    + Printer instructions for Bold and Italic are embedded into the text file. Unless you still have an ancient Epson dot-matrix printer, I suggest you don't use them.
+
+![cyril](./imgs/cyril.png)
+
 + [DataPerfect](./zip/datapfct.zip) 2.6 - A relational database.
     + DataPerfect, originally published by WordPerfect Corp, and later by Novell, was a fast, memory efficient, but capable relational database for DOS. 
     + WordPerfect Corp sold the product alongside their other DOS based office products, such as WordPerfect and PlanPerfect.
