@@ -74,6 +74,8 @@ For installation instructions, please [return to General Index](README.md)
 
 ![dmenu](./imgs/dmenu.png)
 
++ [DOS Navigator](https://www.ritlabs.com/download/dn/dn151.zip) - extensive file manager and launcher.
+
 
 + [EXE](./zip/exe.zip) - Text-based launcher.
     + This program is useful to handle executable files, just type EXE and it lists all files colored by extensions, white for folders, yellow for EXE, COM and BAT.
